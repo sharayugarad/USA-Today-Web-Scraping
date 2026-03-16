@@ -1,0 +1,1052 @@
+2025-11-06 02:13:28,768 - INFO - Initialized Toppefirm scraper
+2025-11-06 02:13:28,769 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 02:13:28,772 - INFO - Initialized Toppefirm scraper
+2025-11-06 02:13:28,773 - INFO - Starting Toppefirm scraper...
+2025-11-06 02:13:28,773 - INFO - ============================================================
+2025-11-06 02:13:28,774 - INFO - Starting Toppefirm scraper...
+2025-11-06 02:13:28,775 - INFO - ============================================================
+2025-11-06 02:13:28,793 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 02:13:28,799 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-06 02:13:28,800 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-06 02:13:29,980 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-06 02:13:30,981 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-06 02:13:30,982 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-06 02:13:32,094 - INFO - Discovered 0 potential case URLs
+2025-11-06 02:13:32,098 - INFO - 
+============================================================
+2025-11-06 02:13:32,099 - INFO - Toppefirm scraping complete!
+2025-11-06 02:13:32,100 - INFO - Total recent cases found: 0
+2025-11-06 02:13:32,100 - INFO - ============================================================
+2025-11-06 02:13:32,101 - INFO - Scraping completed!
+2025-11-06 02:13:32,103 - INFO - Total items scraped: 0
+2025-11-06 02:13:32,104 - INFO - Duration: 3.33 seconds
+2025-11-06 03:15:58,816 - INFO - Initialized Toppefirm scraper
+2025-11-06 03:15:58,818 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 03:15:58,820 - INFO - Initialized Toppefirm scraper
+2025-11-06 03:15:58,822 - INFO - Starting Toppefirm scraper...
+2025-11-06 03:15:58,824 - INFO - ============================================================
+2025-11-06 03:15:58,828 - INFO - Starting Toppefirm scraper...
+2025-11-06 03:15:58,830 - INFO - ============================================================
+2025-11-06 03:15:58,922 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 03:15:58,925 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-06 03:15:58,934 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-06 03:16:01,700 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-06 03:16:02,704 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-06 03:16:02,709 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-06 03:16:04,011 - INFO - Discovered 0 potential case URLs
+2025-11-06 03:16:04,015 - INFO - 
+============================================================
+2025-11-06 03:16:04,017 - INFO - Toppefirm scraping complete!
+2025-11-06 03:16:04,024 - INFO - Total recent cases found: 0
+2025-11-06 03:16:04,028 - INFO - ============================================================
+2025-11-06 03:16:04,033 - INFO - Scraping completed!
+2025-11-06 03:16:04,038 - INFO - Total items scraped: 0
+2025-11-06 03:16:04,039 - INFO - Duration: 5.21 seconds
+2025-11-06 22:46:42,262 - INFO - Initialized Toppefirm scraper
+2025-11-06 22:46:42,264 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 22:46:42,265 - INFO - Initialized Toppefirm scraper
+2025-11-06 22:46:42,265 - INFO - Starting Toppefirm scraper...
+2025-11-06 22:46:42,265 - INFO - ============================================================
+2025-11-06 22:46:42,265 - INFO - Starting Toppefirm scraper...
+2025-11-06 22:46:42,266 - INFO - ============================================================
+2025-11-06 22:46:42,284 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 22:46:42,284 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-06 22:46:42,284 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-06 22:46:43,574 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-06 22:46:44,575 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-06 22:46:44,576 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-06 22:46:45,673 - INFO - Discovered 0 potential case URLs
+2025-11-06 22:46:45,674 - INFO - 
+============================================================
+2025-11-06 22:46:45,674 - INFO - Toppefirm scraping complete!
+2025-11-06 22:46:45,675 - INFO - Total recent cases found: 0
+2025-11-06 22:46:45,676 - INFO - ============================================================
+2025-11-06 22:46:45,676 - INFO - Scraping completed!
+2025-11-06 22:46:45,677 - INFO - Total items scraped: 0
+2025-11-06 22:46:45,677 - INFO - Duration: 3.41 seconds
+2025-11-06 23:13:31,321 - INFO - Initialized Toppefirm scraper
+2025-11-06 23:13:31,321 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:13:31,324 - INFO - Initialized Toppefirm scraper
+2025-11-06 23:13:31,325 - INFO - Starting Toppefirm scraper...
+2025-11-06 23:13:31,326 - INFO - ============================================================
+2025-11-06 23:13:31,327 - INFO - Starting Toppefirm scraper...
+2025-11-06 23:13:31,327 - INFO - ============================================================
+2025-11-06 23:13:31,360 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 23:13:31,361 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-06 23:13:31,362 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-06 23:13:33,278 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-06 23:13:34,280 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-06 23:13:34,282 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-06 23:13:35,726 - INFO - Discovered 0 potential case URLs
+2025-11-06 23:13:35,727 - INFO - 
+============================================================
+2025-11-06 23:13:35,729 - INFO - Toppefirm scraping complete!
+2025-11-06 23:13:35,729 - INFO - Total recent cases found: 0
+2025-11-06 23:13:35,730 - INFO - ============================================================
+2025-11-06 23:13:35,732 - INFO - Scraping completed!
+2025-11-06 23:13:35,733 - INFO - Total items scraped: 0
+2025-11-06 23:13:35,733 - INFO - Duration: 4.41 seconds
+2025-11-06 23:52:54,666 - INFO - Initialized Toppefirm scraper
+2025-11-06 23:52:54,668 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:52:54,669 - INFO - Initialized Toppefirm scraper
+2025-11-06 23:52:54,669 - INFO - Starting Toppefirm scraper...
+2025-11-06 23:52:54,669 - INFO - ============================================================
+2025-11-06 23:52:54,670 - INFO - Starting Toppefirm scraper...
+2025-11-06 23:52:54,670 - INFO - ============================================================
+2025-11-06 23:52:54,688 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 23:52:54,689 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-06 23:52:54,689 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-06 23:52:55,722 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-06 23:52:56,723 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-06 23:52:56,725 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-06 23:52:57,831 - INFO - Discovered 0 potential case URLs
+2025-11-06 23:52:57,832 - INFO - 
+============================================================
+2025-11-06 23:52:57,833 - INFO - Toppefirm scraping complete!
+2025-11-06 23:52:57,834 - INFO - Total recent cases found: 0
+2025-11-06 23:52:57,835 - INFO - ============================================================
+2025-11-06 23:52:57,836 - INFO - Scraping completed!
+2025-11-06 23:52:57,837 - INFO - Total items scraped: 0
+2025-11-06 23:52:57,841 - INFO - Duration: 3.17 seconds
+2025-11-07 20:53:53,603 - INFO - Initialized Toppefirm scraper
+2025-11-07 20:53:53,605 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:53:53,605 - INFO - Initialized Toppefirm scraper
+2025-11-07 20:53:53,607 - INFO - Starting Toppefirm scraper...
+2025-11-07 20:53:53,609 - INFO - ============================================================
+2025-11-07 20:53:53,611 - INFO - Starting Toppefirm scraper...
+2025-11-07 20:53:53,616 - INFO - ============================================================
+2025-11-07 20:53:53,661 - INFO - First run - filtering for cases from last 24 hours
+2025-11-07 20:53:53,663 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-07 20:53:53,663 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-07 20:53:55,401 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-07 20:53:56,403 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-07 20:53:56,404 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-07 20:53:57,721 - INFO - Discovered 0 potential case URLs
+2025-11-07 20:53:57,722 - INFO - 
+============================================================
+2025-11-07 20:53:57,723 - INFO - Toppefirm scraping complete!
+2025-11-07 20:53:57,723 - INFO - Total recent cases found: 0
+2025-11-07 20:53:57,724 - INFO - ============================================================
+2025-11-07 20:53:57,725 - INFO - Scraping completed!
+2025-11-07 20:53:57,725 - INFO - Total items scraped: 0
+2025-11-07 20:53:57,726 - INFO - Duration: 4.12 seconds
+2025-11-10 21:00:04,118 - INFO - Initialized Toppefirm scraper
+2025-11-10 21:00:04,119 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 21:00:04,120 - INFO - Initialized Toppefirm scraper
+2025-11-10 21:00:04,121 - INFO - Starting Toppefirm scraper...
+2025-11-10 21:00:04,121 - INFO - ============================================================
+2025-11-10 21:00:04,122 - INFO - Starting Toppefirm scraper...
+2025-11-10 21:00:04,122 - INFO - ============================================================
+2025-11-10 21:00:04,136 - INFO - First run - filtering for cases from last 24 hours
+2025-11-10 21:00:04,137 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-10 21:00:04,137 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-10 21:00:05,776 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-10 21:00:06,777 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-10 21:00:06,778 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-10 21:00:07,909 - INFO - Discovered 0 potential case URLs
+2025-11-10 21:00:07,910 - INFO - 
+============================================================
+2025-11-10 21:00:07,910 - INFO - Toppefirm scraping complete!
+2025-11-10 21:00:07,911 - INFO - Total recent cases found: 0
+2025-11-10 21:00:07,912 - INFO - ============================================================
+2025-11-10 21:00:07,912 - INFO - Scraping completed!
+2025-11-10 21:00:07,913 - INFO - Total items scraped: 0
+2025-11-10 21:00:07,913 - INFO - Duration: 3.79 seconds
+2025-11-10 23:17:51,081 - INFO - Initialized Toppefirm scraper
+2025-11-10 23:17:51,082 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 23:17:51,082 - INFO - Initialized Toppefirm scraper
+2025-11-10 23:17:51,082 - INFO - Starting Toppefirm scraper...
+2025-11-10 23:17:51,082 - INFO - ============================================================
+2025-11-10 23:17:51,082 - INFO - Starting Toppefirm scraper...
+2025-11-10 23:17:51,082 - INFO - ============================================================
+2025-11-10 23:17:51,096 - INFO - First run - filtering for cases from last 24 hours
+2025-11-10 23:17:51,097 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-10 23:17:51,097 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-10 23:17:51,951 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-10 23:17:52,953 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-10 23:17:52,954 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-10 23:17:54,109 - INFO - Discovered 0 potential case URLs
+2025-11-10 23:17:54,110 - INFO - 
+============================================================
+2025-11-10 23:17:54,110 - INFO - Toppefirm scraping complete!
+2025-11-10 23:17:54,110 - INFO - Total recent cases found: 0
+2025-11-10 23:17:54,111 - INFO - ============================================================
+2025-11-10 23:17:54,111 - INFO - Scraping completed!
+2025-11-10 23:17:54,111 - INFO - Total items scraped: 0
+2025-11-10 23:17:54,112 - INFO - Duration: 3.03 seconds
+2025-11-11 02:30:58,905 - INFO - Initialized Toppefirm scraper
+2025-11-11 02:30:58,905 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 02:30:58,906 - INFO - Initialized Toppefirm scraper
+2025-11-11 02:30:58,906 - INFO - Starting Toppefirm scraper...
+2025-11-11 02:30:58,906 - INFO - ============================================================
+2025-11-11 02:30:58,906 - INFO - Starting Toppefirm scraper...
+2025-11-11 02:30:58,906 - INFO - ============================================================
+2025-11-11 02:30:58,922 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 02:30:58,922 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-11 02:30:58,923 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-11 02:30:59,952 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-11 02:31:00,953 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-11 02:31:00,954 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-11 02:31:02,116 - INFO - Discovered 0 potential case URLs
+2025-11-11 02:31:02,117 - INFO - 
+============================================================
+2025-11-11 02:31:02,118 - INFO - Toppefirm scraping complete!
+2025-11-11 02:31:02,119 - INFO - Total recent cases found: 0
+2025-11-11 02:31:02,119 - INFO - ============================================================
+2025-11-11 02:31:02,120 - INFO - Scraping completed!
+2025-11-11 02:31:02,121 - INFO - Total items scraped: 0
+2025-11-11 02:31:02,122 - INFO - Duration: 3.21 seconds
+2025-11-11 03:03:54,433 - INFO - Initialized Toppefirm scraper
+2025-11-11 03:03:54,434 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 03:03:54,435 - INFO - Initialized Toppefirm scraper
+2025-11-11 03:03:54,436 - INFO - Starting Toppefirm scraper...
+2025-11-11 03:03:54,436 - INFO - ============================================================
+2025-11-11 03:03:54,436 - INFO - Starting Toppefirm scraper...
+2025-11-11 03:03:54,437 - INFO - ============================================================
+2025-11-11 03:03:54,455 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 03:03:54,455 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-11 03:03:54,455 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-11 03:03:55,493 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-11 03:03:56,494 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-11 03:03:56,495 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-11 03:03:57,641 - INFO - Discovered 0 potential case URLs
+2025-11-11 03:03:57,643 - INFO - 
+============================================================
+2025-11-11 03:03:57,643 - INFO - Toppefirm scraping complete!
+2025-11-11 03:03:57,644 - INFO - Total recent cases found: 0
+2025-11-11 03:03:57,645 - INFO - ============================================================
+2025-11-11 03:03:57,645 - INFO - Scraping completed!
+2025-11-11 03:03:57,646 - INFO - Total items scraped: 0
+2025-11-11 03:03:57,646 - INFO - Duration: 3.21 seconds
+2025-11-11 22:10:25,921 - INFO - Initialized Toppefirm scraper
+2025-11-11 22:10:25,922 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:10:25,923 - INFO - Initialized Toppefirm scraper
+2025-11-11 22:10:25,923 - INFO - Starting Toppefirm scraper...
+2025-11-11 22:10:25,924 - INFO - ============================================================
+2025-11-11 22:10:25,927 - INFO - Starting Toppefirm scraper...
+2025-11-11 22:10:25,927 - INFO - ============================================================
+2025-11-11 22:10:25,960 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 22:10:25,960 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-11 22:10:25,961 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-11 22:10:27,494 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-11 22:10:28,496 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-11 22:10:28,497 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-11 22:10:30,496 - INFO - Discovered 0 potential case URLs
+2025-11-11 22:10:30,499 - INFO - 
+============================================================
+2025-11-11 22:10:30,500 - INFO - Toppefirm scraping complete!
+2025-11-11 22:10:30,501 - INFO - Total recent cases found: 0
+2025-11-11 22:10:30,503 - INFO - ============================================================
+2025-11-11 22:10:30,510 - INFO - Scraping completed!
+2025-11-11 22:10:30,511 - INFO - Total items scraped: 0
+2025-11-11 22:10:30,513 - INFO - Duration: 4.59 seconds
+2025-11-11 22:35:28,504 - INFO - Initialized Toppefirm scraper
+2025-11-11 22:35:28,505 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:35:28,507 - INFO - Initialized Toppefirm scraper
+2025-11-11 22:35:28,507 - INFO - Starting Toppefirm scraper...
+2025-11-11 22:35:28,509 - INFO - ============================================================
+2025-11-11 22:35:28,514 - INFO - Starting Toppefirm scraper...
+2025-11-11 22:35:28,514 - INFO - ============================================================
+2025-11-11 22:35:28,546 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 22:35:28,546 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-11 22:35:28,546 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-11 22:35:29,800 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-11 22:35:30,803 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-11 22:35:30,804 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-11 22:35:32,050 - INFO - Discovered 0 potential case URLs
+2025-11-11 22:35:32,057 - INFO - 
+============================================================
+2025-11-11 22:35:32,059 - INFO - Toppefirm scraping complete!
+2025-11-11 22:35:32,068 - INFO - Total recent cases found: 0
+2025-11-11 22:35:32,071 - INFO - ============================================================
+2025-11-11 22:35:32,072 - INFO - Scraping completed!
+2025-11-11 22:35:32,072 - INFO - Total items scraped: 0
+2025-11-11 22:35:32,072 - INFO - Duration: 3.56 seconds
+2025-11-12 00:15:25,294 - INFO - Initialized Toppefirm scraper
+2025-11-12 00:15:25,294 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:15:25,295 - INFO - Initialized Toppefirm scraper
+2025-11-12 00:15:25,295 - INFO - Starting Toppefirm scraper...
+2025-11-12 00:15:25,296 - INFO - ============================================================
+2025-11-12 00:15:25,296 - INFO - Starting Toppefirm scraper...
+2025-11-12 00:15:25,296 - INFO - ============================================================
+2025-11-12 00:15:25,316 - INFO - First run - filtering for cases from last 24 hours
+2025-11-12 00:15:25,316 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-12 00:15:25,317 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-12 00:15:26,232 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-12 00:15:27,234 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-12 00:15:27,236 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-12 00:15:28,352 - INFO - Discovered 0 potential case URLs
+2025-11-12 00:15:28,353 - INFO - 
+============================================================
+2025-11-12 00:15:28,354 - INFO - Toppefirm scraping complete!
+2025-11-12 00:15:28,354 - INFO - Total recent cases found: 0
+2025-11-12 00:15:28,355 - INFO - ============================================================
+2025-11-12 00:15:28,356 - INFO - Scraping completed!
+2025-11-12 00:15:28,356 - INFO - Total items scraped: 0
+2025-11-12 00:15:28,357 - INFO - Duration: 3.06 seconds
+2025-11-12 00:49:17,146 - INFO - Initialized Toppefirm scraper
+2025-11-12 00:49:17,147 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:49:17,147 - INFO - Initialized Toppefirm scraper
+2025-11-12 00:49:17,147 - INFO - Starting Toppefirm scraper...
+2025-11-12 00:49:17,148 - INFO - ============================================================
+2025-11-12 00:49:17,148 - INFO - Starting Toppefirm scraper...
+2025-11-12 00:49:17,148 - INFO - ============================================================
+2025-11-12 00:49:17,166 - INFO - First run - filtering for cases from last 24 hours
+2025-11-12 00:49:17,166 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-12 00:49:17,166 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-12 00:49:18,222 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-12 00:49:19,224 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-12 00:49:19,225 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-12 00:49:20,458 - INFO - Discovered 0 potential case URLs
+2025-11-12 00:49:20,459 - INFO - 
+============================================================
+2025-11-12 00:49:20,460 - INFO - Toppefirm scraping complete!
+2025-11-12 00:49:20,461 - INFO - Total recent cases found: 0
+2025-11-12 00:49:20,461 - INFO - ============================================================
+2025-11-12 00:49:20,462 - INFO - Scraping completed!
+2025-11-12 00:49:20,463 - INFO - Total items scraped: 0
+2025-11-12 00:49:20,463 - INFO - Duration: 3.31 seconds
+2025-11-12 21:16:26,096 - INFO - Initialized Toppefirm scraper
+2025-11-12 21:16:26,096 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 21:16:26,097 - INFO - Initialized Toppefirm scraper
+2025-11-12 21:16:26,097 - INFO - Starting Toppefirm scraper...
+2025-11-12 21:16:26,098 - INFO - ============================================================
+2025-11-12 21:16:26,098 - INFO - Starting Toppefirm scraper...
+2025-11-12 21:16:26,098 - INFO - ============================================================
+2025-11-12 21:16:26,119 - INFO - First run - filtering for cases from last 24 hours
+2025-11-12 21:16:26,119 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-12 21:16:26,119 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-12 21:16:27,391 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-12 21:16:28,392 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-12 21:16:28,393 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-12 21:16:29,604 - INFO - Discovered 0 potential case URLs
+2025-11-12 21:16:29,605 - INFO - 
+============================================================
+2025-11-12 21:16:29,605 - INFO - Toppefirm scraping complete!
+2025-11-12 21:16:29,606 - INFO - Total recent cases found: 0
+2025-11-12 21:16:29,606 - INFO - ============================================================
+2025-11-12 21:16:29,607 - INFO - Scraping completed!
+2025-11-12 21:16:29,608 - INFO - Total items scraped: 0
+2025-11-12 21:16:29,608 - INFO - Duration: 3.51 seconds
+2025-11-12 22:34:34,508 - INFO - Initialized Toppefirm scraper
+2025-11-12 22:34:34,509 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 22:34:34,509 - INFO - Initialized Toppefirm scraper
+2025-11-12 22:34:34,510 - INFO - Starting Toppefirm scraper...
+2025-11-12 22:34:34,510 - INFO - ============================================================
+2025-11-12 22:34:34,511 - INFO - Starting Toppefirm scraper...
+2025-11-12 22:34:34,512 - INFO - ============================================================
+2025-11-12 22:34:34,562 - INFO - First run - filtering for cases from last 24 hours
+2025-11-12 22:34:34,563 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-12 22:34:34,564 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-12 22:34:35,985 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-12 22:34:36,987 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-12 22:34:36,989 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-12 22:34:38,097 - INFO - Discovered 0 potential case URLs
+2025-11-12 22:34:38,098 - INFO - 
+============================================================
+2025-11-12 22:34:38,100 - INFO - Toppefirm scraping complete!
+2025-11-12 22:34:38,100 - INFO - Total recent cases found: 0
+2025-11-12 22:34:38,101 - INFO - ============================================================
+2025-11-12 22:34:38,102 - INFO - Scraping completed!
+2025-11-12 22:34:38,112 - INFO - Total items scraped: 0
+2025-11-12 22:34:38,113 - INFO - Duration: 3.59 seconds
+2025-11-12 23:05:58,594 - INFO - Initialized Toppefirm scraper
+2025-11-12 23:05:58,595 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 23:05:58,602 - INFO - Initialized Toppefirm scraper
+2025-11-12 23:05:58,605 - INFO - Starting Toppefirm scraper...
+2025-11-12 23:05:58,605 - INFO - ============================================================
+2025-11-12 23:05:58,606 - INFO - Starting Toppefirm scraper...
+2025-11-12 23:05:58,606 - INFO - ============================================================
+2025-11-12 23:05:58,635 - INFO - First run - filtering for cases from last 24 hours
+2025-11-12 23:05:58,635 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-12 23:05:58,636 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-12 23:05:59,964 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-12 23:06:00,966 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-12 23:06:00,967 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-12 23:06:02,216 - INFO - Discovered 0 potential case URLs
+2025-11-12 23:06:02,218 - INFO - 
+============================================================
+2025-11-12 23:06:02,219 - INFO - Toppefirm scraping complete!
+2025-11-12 23:06:02,219 - INFO - Total recent cases found: 0
+2025-11-12 23:06:02,220 - INFO - ============================================================
+2025-11-12 23:06:02,220 - INFO - Scraping completed!
+2025-11-12 23:06:02,221 - INFO - Total items scraped: 0
+2025-11-12 23:06:02,222 - INFO - Duration: 3.62 seconds
+2025-11-13 20:47:22,347 - INFO - Initialized Toppefirm scraper
+2025-11-13 20:47:22,350 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 20:47:22,351 - INFO - Initialized Toppefirm scraper
+2025-11-13 20:47:22,352 - INFO - Starting Toppefirm scraper...
+2025-11-13 20:47:22,352 - INFO - ============================================================
+2025-11-13 20:47:22,353 - INFO - Starting Toppefirm scraper...
+2025-11-13 20:47:22,353 - INFO - ============================================================
+2025-11-13 20:47:22,388 - INFO - First run - filtering for cases from last 24 hours
+2025-11-13 20:47:22,388 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-13 20:47:22,389 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-13 20:47:38,404 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-13 20:47:39,407 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-13 20:47:39,408 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-13 20:47:41,965 - INFO - Discovered 0 potential case URLs
+2025-11-13 20:47:41,968 - INFO - 
+============================================================
+2025-11-13 20:47:41,970 - INFO - Toppefirm scraping complete!
+2025-11-13 20:47:41,972 - INFO - Total recent cases found: 0
+2025-11-13 20:47:41,985 - INFO - ============================================================
+2025-11-13 20:47:41,987 - INFO - Scraping completed!
+2025-11-13 20:47:41,987 - INFO - Total items scraped: 0
+2025-11-13 20:47:41,988 - INFO - Duration: 19.63 seconds
+2025-11-13 22:44:22,207 - INFO - Initialized Toppefirm scraper
+2025-11-13 22:44:22,211 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:44:22,215 - INFO - Initialized Toppefirm scraper
+2025-11-13 22:44:22,216 - INFO - Starting Toppefirm scraper...
+2025-11-13 22:44:22,216 - INFO - ============================================================
+2025-11-13 22:44:22,217 - INFO - Starting Toppefirm scraper...
+2025-11-13 22:44:22,218 - INFO - ============================================================
+2025-11-13 22:44:22,264 - INFO - First run - filtering for cases from last 24 hours
+2025-11-13 22:44:22,265 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-13 22:44:22,265 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-13 22:44:23,769 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-13 22:44:24,771 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-13 22:44:24,772 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-13 22:44:26,023 - INFO - Discovered 0 potential case URLs
+2025-11-13 22:44:26,025 - INFO - 
+============================================================
+2025-11-13 22:44:26,027 - INFO - Toppefirm scraping complete!
+2025-11-13 22:44:26,029 - INFO - Total recent cases found: 0
+2025-11-13 22:44:26,031 - INFO - ============================================================
+2025-11-13 22:44:26,040 - INFO - Scraping completed!
+2025-11-13 22:44:26,048 - INFO - Total items scraped: 0
+2025-11-13 22:44:26,049 - INFO - Duration: 3.82 seconds
+2025-11-13 23:13:51,723 - INFO - Initialized Toppefirm scraper
+2025-11-13 23:13:51,724 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 23:13:51,725 - INFO - Initialized Toppefirm scraper
+2025-11-13 23:13:51,732 - INFO - Starting Toppefirm scraper...
+2025-11-13 23:13:51,733 - INFO - ============================================================
+2025-11-13 23:13:51,733 - INFO - Starting Toppefirm scraper...
+2025-11-13 23:13:51,734 - INFO - ============================================================
+2025-11-13 23:13:51,764 - INFO - First run - filtering for cases from last 24 hours
+2025-11-13 23:13:51,765 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-13 23:13:51,765 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-13 23:13:52,963 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-13 23:13:53,965 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-13 23:13:53,966 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-13 23:13:55,209 - INFO - Discovered 0 potential case URLs
+2025-11-13 23:13:55,210 - INFO - 
+============================================================
+2025-11-13 23:13:55,211 - INFO - Toppefirm scraping complete!
+2025-11-13 23:13:55,212 - INFO - Total recent cases found: 0
+2025-11-13 23:13:55,212 - INFO - ============================================================
+2025-11-13 23:13:55,213 - INFO - Scraping completed!
+2025-11-13 23:13:55,214 - INFO - Total items scraped: 0
+2025-11-13 23:13:55,214 - INFO - Duration: 3.48 seconds
+2025-11-14 20:08:04,012 - INFO - Initialized Toppefirm scraper
+2025-11-14 20:08:04,015 - INFO - Date filtering enabled: last 24 hours
+2025-11-14 20:08:04,016 - INFO - Initialized Toppefirm scraper
+2025-11-14 20:08:04,017 - INFO - Starting Toppefirm scraper...
+2025-11-14 20:08:04,018 - INFO - ============================================================
+2025-11-14 20:08:04,020 - INFO - Starting Toppefirm scraper...
+2025-11-14 20:08:04,021 - INFO - ============================================================
+2025-11-14 20:08:04,093 - INFO - First run - filtering for cases from last 24 hours
+2025-11-14 20:08:04,093 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-14 20:08:04,095 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-14 20:08:05,695 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-14 20:08:06,697 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-14 20:08:06,698 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-14 20:08:07,843 - INFO - Discovered 0 potential case URLs
+2025-11-14 20:08:07,845 - INFO - 
+============================================================
+2025-11-14 20:08:07,845 - INFO - Toppefirm scraping complete!
+2025-11-14 20:08:07,846 - INFO - Total recent cases found: 0
+2025-11-14 20:08:07,847 - INFO - ============================================================
+2025-11-14 20:08:07,848 - INFO - Scraping completed!
+2025-11-14 20:08:07,848 - INFO - Total items scraped: 0
+2025-11-14 20:08:07,849 - INFO - Duration: 3.83 seconds
+2025-11-17 20:46:38,820 - INFO - Initialized Toppefirm scraper
+2025-11-17 20:46:38,822 - INFO - Date filtering enabled: last 24 hours
+2025-11-17 20:46:38,822 - INFO - Initialized Toppefirm scraper
+2025-11-17 20:46:38,822 - INFO - Starting Toppefirm scraper...
+2025-11-17 20:46:38,823 - INFO - ============================================================
+2025-11-17 20:46:38,823 - INFO - Starting Toppefirm scraper...
+2025-11-17 20:46:38,823 - INFO - ============================================================
+2025-11-17 20:46:38,856 - INFO - First run - filtering for cases from last 24 hours
+2025-11-17 20:46:38,856 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-17 20:46:38,856 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-17 20:46:41,176 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-17 20:46:42,180 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-17 20:46:42,181 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-17 20:46:43,464 - INFO - Discovered 0 potential case URLs
+2025-11-17 20:46:43,466 - INFO - 
+============================================================
+2025-11-17 20:46:43,467 - INFO - Toppefirm scraping complete!
+2025-11-17 20:46:43,468 - INFO - Total recent cases found: 0
+2025-11-17 20:46:43,469 - INFO - ============================================================
+2025-11-17 20:46:43,475 - INFO - Scraping completed!
+2025-11-17 20:46:43,481 - INFO - Total items scraped: 0
+2025-11-17 20:46:43,490 - INFO - Duration: 4.65 seconds
+2025-11-18 20:23:44,166 - INFO - Initialized Toppefirm scraper
+2025-11-18 20:23:44,168 - INFO - Date filtering enabled: last 24 hours
+2025-11-18 20:23:44,168 - INFO - Initialized Toppefirm scraper
+2025-11-18 20:23:44,174 - INFO - Starting Toppefirm scraper...
+2025-11-18 20:23:44,175 - INFO - ============================================================
+2025-11-18 20:23:44,175 - INFO - Starting Toppefirm scraper...
+2025-11-18 20:23:44,176 - INFO - ============================================================
+2025-11-18 20:23:44,209 - INFO - First run - filtering for cases from last 24 hours
+2025-11-18 20:23:44,209 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-18 20:23:44,209 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-18 20:23:45,920 - ERROR - HTTP error for https://www.toppefirm.com/class-actions/: 404 Client Error: Not Found for url: https://www.toppefirm.com/class-actions/
+2025-11-18 20:23:46,922 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-18 20:23:46,925 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-18 20:23:48,063 - INFO - Discovered 0 potential case URLs
+2025-11-18 20:23:48,064 - INFO - 
+============================================================
+2025-11-18 20:23:48,064 - INFO - Toppefirm scraping complete!
+2025-11-18 20:23:48,065 - INFO - Total recent cases found: 0
+2025-11-18 20:23:48,066 - INFO - ============================================================
+2025-11-18 20:23:48,067 - INFO - Scraping completed!
+2025-11-18 20:23:48,067 - INFO - Total items scraped: 0
+2025-11-18 20:23:48,068 - INFO - Duration: 3.89 seconds
+2025-11-27 22:40:29,973 - INFO - Initialized Toppefirm scraper
+2025-11-27 22:40:29,975 - INFO - Date filtering enabled: last 24 hours
+2025-11-27 22:40:29,976 - INFO - Initialized Toppefirm scraper
+2025-11-27 22:40:29,980 - INFO - Starting Toppefirm scraper...
+2025-11-27 22:40:29,982 - INFO - ============================================================
+2025-11-27 22:40:29,984 - INFO - Starting Toppefirm scraper...
+2025-11-27 22:40:29,984 - INFO - ============================================================
+2025-11-27 22:40:30,040 - INFO - First run - filtering for cases from last 24 hours
+2025-11-27 22:40:30,040 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-27 22:40:30,041 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-27 22:40:33,713 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-27 22:40:33,715 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-27 22:40:35,382 - INFO - Discovered 0 potential case URLs
+2025-11-27 22:40:35,383 - INFO - 
+============================================================
+2025-11-27 22:40:35,384 - INFO - Toppefirm scraping complete!
+2025-11-27 22:40:35,384 - INFO - Total recent cases found: 0
+2025-11-27 22:40:35,385 - INFO - ============================================================
+2025-11-27 22:40:35,385 - INFO - Scraping completed!
+2025-11-27 22:40:35,386 - INFO - Total items scraped: 0
+2025-11-27 22:40:35,387 - INFO - Duration: 5.40 seconds
+2025-11-28 22:36:58,360 - INFO - Initialized Toppefirm scraper
+2025-11-28 22:36:58,361 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:36:58,361 - INFO - Initialized Toppefirm scraper
+2025-11-28 22:36:58,362 - INFO - Starting Toppefirm scraper...
+2025-11-28 22:36:58,362 - INFO - ============================================================
+2025-11-28 22:36:58,362 - INFO - Starting Toppefirm scraper...
+2025-11-28 22:36:58,362 - INFO - ============================================================
+2025-11-28 22:36:58,395 - INFO - First run - filtering for cases from last 24 hours
+2025-11-28 22:36:58,396 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-28 22:36:58,396 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-28 22:37:01,095 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-28 22:37:01,100 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-28 22:37:02,429 - INFO - Discovered 0 potential case URLs
+2025-11-28 22:37:02,430 - INFO - 
+============================================================
+2025-11-28 22:37:02,431 - INFO - Toppefirm scraping complete!
+2025-11-28 22:37:02,432 - INFO - Total recent cases found: 0
+2025-11-28 22:37:02,432 - INFO - ============================================================
+2025-11-28 22:37:02,433 - INFO - Scraping completed!
+2025-11-28 22:37:02,434 - INFO - Total items scraped: 0
+2025-11-28 22:37:02,434 - INFO - Duration: 4.07 seconds
+2025-11-28 22:59:16,202 - INFO - Initialized Toppefirm scraper
+2025-11-28 22:59:16,203 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:59:16,203 - INFO - Initialized Toppefirm scraper
+2025-11-28 22:59:16,204 - INFO - Starting Toppefirm scraper...
+2025-11-28 22:59:16,204 - INFO - ============================================================
+2025-11-28 22:59:16,205 - INFO - Starting Toppefirm scraper...
+2025-11-28 22:59:16,205 - INFO - ============================================================
+2025-11-28 22:59:16,250 - INFO - First run - filtering for cases from last 24 hours
+2025-11-28 22:59:16,250 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-28 22:59:16,251 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-28 22:59:18,561 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-28 22:59:18,562 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-28 22:59:19,789 - INFO - Discovered 0 potential case URLs
+2025-11-28 22:59:19,790 - INFO - 
+============================================================
+2025-11-28 22:59:19,790 - INFO - Toppefirm scraping complete!
+2025-11-28 22:59:19,790 - INFO - Total recent cases found: 0
+2025-11-28 22:59:19,791 - INFO - ============================================================
+2025-11-28 22:59:19,792 - INFO - Scraping completed!
+2025-11-28 22:59:19,793 - INFO - Total items scraped: 0
+2025-11-28 22:59:19,793 - INFO - Duration: 3.59 seconds
+2025-11-28 23:35:48,035 - INFO - Initialized Toppefirm scraper
+2025-11-28 23:35:48,035 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 23:35:48,041 - INFO - Initialized Toppefirm scraper
+2025-11-28 23:35:48,042 - INFO - Starting Toppefirm scraper...
+2025-11-28 23:35:48,043 - INFO - ============================================================
+2025-11-28 23:35:48,043 - INFO - Starting Toppefirm scraper...
+2025-11-28 23:35:48,044 - INFO - ============================================================
+2025-11-28 23:35:48,092 - INFO - Filtering for cases newer than: 2025-11-28T17:33:09.798662+00:00
+2025-11-28 23:35:48,093 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-28 23:35:48,093 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-28 23:35:50,523 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-28 23:35:50,524 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-28 23:35:52,055 - INFO - Discovered 0 potential case URLs
+2025-11-28 23:35:52,056 - INFO - 
+============================================================
+2025-11-28 23:35:52,057 - INFO - Toppefirm scraping complete!
+2025-11-28 23:35:52,057 - INFO - Total recent cases found: 0
+2025-11-28 23:35:52,059 - INFO - ============================================================
+2025-11-28 23:35:52,060 - INFO - Scraping completed!
+2025-11-28 23:35:52,060 - INFO - Total items scraped: 0
+2025-11-28 23:35:52,061 - INFO - Duration: 4.02 seconds
+2025-11-29 00:30:51,804 - INFO - Initialized Toppefirm scraper
+2025-11-29 00:30:51,805 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 00:30:51,806 - INFO - Initialized Toppefirm scraper
+2025-11-29 00:30:51,807 - INFO - Starting Toppefirm scraper...
+2025-11-29 00:30:51,810 - INFO - ============================================================
+2025-11-29 00:30:51,815 - INFO - Starting Toppefirm scraper...
+2025-11-29 00:30:51,816 - INFO - ============================================================
+2025-11-29 00:30:51,923 - INFO - Filtering for cases newer than: 2025-11-28T18:17:44.073433+00:00
+2025-11-29 00:30:51,924 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-29 00:30:51,934 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-29 00:30:55,152 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-29 00:30:55,154 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-29 00:30:56,312 - INFO - Discovered 0 potential case URLs
+2025-11-29 00:30:56,314 - INFO - 
+============================================================
+2025-11-29 00:30:56,315 - INFO - Toppefirm scraping complete!
+2025-11-29 00:30:56,316 - INFO - Total recent cases found: 0
+2025-11-29 00:30:56,317 - INFO - ============================================================
+2025-11-29 00:30:56,318 - INFO - Scraping completed!
+2025-11-29 00:30:56,319 - INFO - Total items scraped: 0
+2025-11-29 00:30:56,332 - INFO - Duration: 4.51 seconds
+2025-11-29 01:05:59,340 - INFO - Initialized Toppefirm scraper
+2025-11-29 01:05:59,342 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 01:05:59,343 - INFO - Initialized Toppefirm scraper
+2025-11-29 01:05:59,344 - INFO - Starting Toppefirm scraper...
+2025-11-29 01:05:59,345 - INFO - ============================================================
+2025-11-29 01:05:59,351 - INFO - Starting Toppefirm scraper...
+2025-11-29 01:05:59,352 - INFO - ============================================================
+2025-11-29 01:05:59,423 - INFO - Filtering for cases newer than: 2025-11-28T19:04:42.233235+00:00
+2025-11-29 01:05:59,424 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-11-29 01:05:59,424 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-11-29 01:06:02,763 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-11-29 01:06:02,764 - INFO - Fetching: https://www.toppefirm.com/
+2025-11-29 01:06:04,003 - INFO - Discovered 0 potential case URLs
+2025-11-29 01:06:04,004 - INFO - 
+============================================================
+2025-11-29 01:06:04,005 - INFO - Toppefirm scraping complete!
+2025-11-29 01:06:04,006 - INFO - Total recent cases found: 0
+2025-11-29 01:06:04,007 - INFO - ============================================================
+2025-11-29 01:06:04,008 - INFO - Scraping completed!
+2025-11-29 01:06:04,009 - INFO - Total items scraped: 0
+2025-11-29 01:06:04,009 - INFO - Duration: 4.66 seconds
+2025-12-02 02:40:08,566 - INFO - Initialized Toppefirm scraper
+2025-12-02 02:40:08,577 - INFO - Date filtering enabled: last 24 hours
+2025-12-02 02:40:08,578 - INFO - Initialized Toppefirm scraper
+2025-12-02 02:40:08,579 - INFO - Starting Toppefirm scraper...
+2025-12-02 02:40:08,581 - INFO - ============================================================
+2025-12-02 02:40:08,609 - INFO - Starting Toppefirm scraper...
+2025-12-02 02:40:08,612 - INFO - ============================================================
+2025-12-02 02:40:08,759 - INFO - Filtering for cases newer than: 2025-11-28T19:39:27.011702+00:00
+2025-12-02 02:40:08,760 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-02 02:40:08,761 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-02 02:40:12,092 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-02 02:40:12,095 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-02 02:40:13,308 - INFO - Discovered 0 potential case URLs
+2025-12-02 02:40:13,311 - INFO - 
+============================================================
+2025-12-02 02:40:13,312 - INFO - Toppefirm scraping complete!
+2025-12-02 02:40:13,313 - INFO - Total recent cases found: 0
+2025-12-02 02:40:13,314 - INFO - ============================================================
+2025-12-02 02:40:13,332 - INFO - Scraping completed!
+2025-12-02 02:40:13,341 - INFO - Total items scraped: 0
+2025-12-02 02:40:13,343 - INFO - Duration: 4.75 seconds
+2025-12-03 19:58:58,178 - INFO - Initialized Toppefirm scraper
+2025-12-03 19:58:58,178 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 19:58:58,179 - INFO - Initialized Toppefirm scraper
+2025-12-03 19:58:58,179 - INFO - Starting Toppefirm scraper...
+2025-12-03 19:58:58,180 - INFO - ============================================================
+2025-12-03 19:58:58,180 - INFO - Starting Toppefirm scraper...
+2025-12-03 19:58:58,180 - INFO - ============================================================
+2025-12-03 19:58:58,335 - INFO - Filtering for cases newer than: 2025-12-01T21:14:30.006762+00:00
+2025-12-03 19:58:58,335 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-03 19:58:58,336 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-03 19:59:01,184 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-03 19:59:01,184 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-03 19:59:02,810 - INFO - Discovered 0 potential case URLs
+2025-12-03 19:59:02,811 - INFO - 
+============================================================
+2025-12-03 19:59:02,811 - INFO - Toppefirm scraping complete!
+2025-12-03 19:59:02,812 - INFO - Total recent cases found: 0
+2025-12-03 19:59:02,812 - INFO - ============================================================
+2025-12-03 19:59:02,812 - INFO - Scraping completed!
+2025-12-03 19:59:02,813 - INFO - Total items scraped: 0
+2025-12-03 19:59:02,813 - INFO - Duration: 4.63 seconds
+2025-12-03 21:24:14,096 - INFO - Initialized Toppefirm scraper
+2025-12-03 21:24:14,098 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 21:24:14,098 - INFO - Initialized Toppefirm scraper
+2025-12-03 21:24:14,099 - INFO - Starting Toppefirm scraper...
+2025-12-03 21:24:14,099 - INFO - ============================================================
+2025-12-03 21:24:14,099 - INFO - Starting Toppefirm scraper...
+2025-12-03 21:24:14,100 - INFO - ============================================================
+2025-12-03 21:24:14,140 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.494892+00:00
+2025-12-03 21:24:14,141 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-03 21:24:14,142 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-03 21:24:16,955 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-03 21:24:16,956 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-03 21:24:21,165 - INFO - Discovered 0 potential case URLs
+2025-12-03 21:24:21,167 - INFO - 
+============================================================
+2025-12-03 21:24:21,167 - INFO - Toppefirm scraping complete!
+2025-12-03 21:24:21,168 - INFO - Total recent cases found: 0
+2025-12-03 21:24:21,169 - INFO - ============================================================
+2025-12-03 21:24:21,170 - INFO - Scraping completed!
+2025-12-03 21:24:21,171 - INFO - Total items scraped: 0
+2025-12-03 21:24:21,174 - INFO - Duration: 7.07 seconds
+2025-12-03 23:00:21,925 - INFO - Initialized Toppefirm scraper
+2025-12-03 23:00:21,925 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 23:00:21,925 - INFO - Initialized Toppefirm scraper
+2025-12-03 23:00:21,926 - INFO - Starting Toppefirm scraper...
+2025-12-03 23:00:21,926 - INFO - ============================================================
+2025-12-03 23:00:21,926 - INFO - Starting Toppefirm scraper...
+2025-12-03 23:00:21,926 - INFO - ============================================================
+2025-12-03 23:00:21,959 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.494892+00:00
+2025-12-03 23:00:21,959 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-03 23:00:21,959 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-03 23:00:23,763 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-03 23:00:23,764 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-03 23:00:25,304 - INFO - Discovered 0 potential case URLs
+2025-12-03 23:00:25,305 - INFO - 
+============================================================
+2025-12-03 23:00:25,306 - INFO - Toppefirm scraping complete!
+2025-12-03 23:00:25,307 - INFO - Total recent cases found: 0
+2025-12-03 23:00:25,308 - INFO - ============================================================
+2025-12-03 23:00:25,309 - INFO - Scraping completed!
+2025-12-03 23:00:25,309 - INFO - Total items scraped: 0
+2025-12-03 23:00:25,310 - INFO - Duration: 3.38 seconds
+2025-12-04 00:07:45,924 - INFO - Initialized Toppefirm scraper
+2025-12-04 00:07:45,928 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 00:07:45,969 - INFO - Initialized Toppefirm scraper
+2025-12-04 00:07:45,972 - INFO - Starting Toppefirm scraper...
+2025-12-04 00:07:45,973 - INFO - ============================================================
+2025-12-04 00:07:45,974 - INFO - Starting Toppefirm scraper...
+2025-12-04 00:07:46,006 - INFO - ============================================================
+2025-12-04 00:07:46,175 - INFO - Filtering for cases newer than: 2025-12-03T17:33:48.637879+00:00
+2025-12-04 00:07:46,176 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-04 00:07:46,177 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-04 00:07:48,617 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-04 00:07:48,619 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-04 00:07:49,936 - INFO - Discovered 0 potential case URLs
+2025-12-04 00:07:49,937 - INFO - 
+============================================================
+2025-12-04 00:07:49,938 - INFO - Toppefirm scraping complete!
+2025-12-04 00:07:49,939 - INFO - Total recent cases found: 0
+2025-12-04 00:07:49,940 - INFO - ============================================================
+2025-12-04 00:07:49,941 - INFO - Scraping completed!
+2025-12-04 00:07:49,944 - INFO - Total items scraped: 0
+2025-12-04 00:07:49,947 - INFO - Duration: 3.97 seconds
+2025-12-04 20:14:22,926 - INFO - Initialized Toppefirm scraper
+2025-12-04 20:14:22,928 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 20:14:22,928 - INFO - Initialized Toppefirm scraper
+2025-12-04 20:14:22,929 - INFO - Starting Toppefirm scraper...
+2025-12-04 20:14:22,929 - INFO - ============================================================
+2025-12-04 20:14:22,930 - INFO - Starting Toppefirm scraper...
+2025-12-04 20:14:22,930 - INFO - ============================================================
+2025-12-04 20:14:22,979 - INFO - Filtering for cases newer than: 2025-12-03T18:41:25.174027+00:00
+2025-12-04 20:14:22,980 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-04 20:14:22,981 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-04 20:14:25,293 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-04 20:14:25,294 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-04 20:14:26,732 - INFO - Discovered 0 potential case URLs
+2025-12-04 20:14:26,733 - INFO - 
+============================================================
+2025-12-04 20:14:26,734 - INFO - Toppefirm scraping complete!
+2025-12-04 20:14:26,734 - INFO - Total recent cases found: 0
+2025-12-04 20:14:26,735 - INFO - ============================================================
+2025-12-04 20:14:26,735 - INFO - Scraping completed!
+2025-12-04 20:14:26,736 - INFO - Total items scraped: 0
+2025-12-04 20:14:26,736 - INFO - Duration: 3.81 seconds
+2025-12-05 00:24:33,832 - INFO - Initialized Toppefirm scraper
+2025-12-05 00:24:33,832 - INFO - Date filtering enabled: last 24 hours
+2025-12-05 00:24:33,833 - INFO - Initialized Toppefirm scraper
+2025-12-05 00:24:33,833 - INFO - Starting Toppefirm scraper...
+2025-12-05 00:24:33,833 - INFO - ============================================================
+2025-12-05 00:24:33,833 - INFO - Starting Toppefirm scraper...
+2025-12-05 00:24:33,833 - INFO - ============================================================
+2025-12-05 00:24:33,842 - INFO - Filtering for cases newer than: 2025-12-04T14:48:38.640819+00:00
+2025-12-05 00:24:33,842 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-05 00:24:33,843 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-05 00:24:36,036 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-05 00:24:36,036 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-05 00:24:37,134 - INFO - Discovered 0 potential case URLs
+2025-12-05 00:24:37,134 - INFO - 
+============================================================
+2025-12-05 00:24:37,134 - INFO - Toppefirm scraping complete!
+2025-12-05 00:24:37,134 - INFO - Total recent cases found: 0
+2025-12-05 00:24:37,134 - INFO - ============================================================
+2025-12-05 00:24:37,134 - INFO - Scraping completed!
+2025-12-05 00:24:37,135 - INFO - Total items scraped: 0
+2025-12-05 00:24:37,135 - INFO - Duration: 3.30 seconds
+2025-12-13 00:44:46,101 - INFO - Initialized Toppefirm scraper
+2025-12-13 00:44:46,102 - INFO - Date filtering enabled: last 24 hours
+2025-12-13 00:44:46,102 - INFO - Initialized Toppefirm scraper
+2025-12-13 00:44:46,102 - INFO - Starting Toppefirm scraper...
+2025-12-13 00:44:46,103 - INFO - ============================================================
+2025-12-13 00:44:46,103 - INFO - Starting Toppefirm scraper...
+2025-12-13 00:44:46,103 - INFO - ============================================================
+2025-12-13 00:44:46,141 - INFO - Filtering for cases newer than: 2025-12-04T18:58:13.288495+00:00
+2025-12-13 00:44:46,142 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-13 00:44:46,142 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-13 00:44:48,670 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-13 00:44:48,671 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-13 00:44:49,920 - INFO - Discovered 0 potential case URLs
+2025-12-13 00:44:49,921 - INFO - 
+============================================================
+2025-12-13 00:44:49,922 - INFO - Toppefirm scraping complete!
+2025-12-13 00:44:49,922 - INFO - Total recent cases found: 0
+2025-12-13 00:44:49,923 - INFO - ============================================================
+2025-12-13 00:44:49,924 - INFO - Scraping completed!
+2025-12-13 00:44:49,925 - INFO - Total items scraped: 0
+2025-12-13 00:44:49,925 - INFO - Duration: 3.82 seconds
+2025-12-16 01:40:18,182 - INFO - Initialized Toppefirm scraper
+2025-12-16 01:40:18,183 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 01:40:18,184 - INFO - Initialized Toppefirm scraper
+2025-12-16 01:40:18,185 - INFO - Starting Toppefirm scraper...
+2025-12-16 01:40:18,185 - INFO - ============================================================
+2025-12-16 01:40:18,186 - INFO - Starting Toppefirm scraper...
+2025-12-16 01:40:18,186 - INFO - ============================================================
+2025-12-16 01:40:18,249 - INFO - Filtering for cases newer than: 2025-12-12T19:18:45.133788+00:00
+2025-12-16 01:40:18,249 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-16 01:40:18,250 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-16 01:40:21,277 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-16 01:40:21,278 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-16 01:40:22,926 - INFO - Discovered 0 potential case URLs
+2025-12-16 01:40:22,929 - INFO - 
+============================================================
+2025-12-16 01:40:22,931 - INFO - Toppefirm scraping complete!
+2025-12-16 01:40:22,934 - INFO - Total recent cases found: 0
+2025-12-16 01:40:22,949 - INFO - ============================================================
+2025-12-16 01:40:22,950 - INFO - Scraping completed!
+2025-12-16 01:40:22,950 - INFO - Total items scraped: 0
+2025-12-16 01:40:22,951 - INFO - Duration: 4.76 seconds
+2025-12-16 22:10:14,789 - INFO - Initialized Toppefirm scraper
+2025-12-16 22:10:14,825 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 22:10:14,826 - INFO - Initialized Toppefirm scraper
+2025-12-16 22:10:14,828 - INFO - Starting Toppefirm scraper...
+2025-12-16 22:10:14,831 - INFO - ============================================================
+2025-12-16 22:10:14,833 - INFO - Starting Toppefirm scraper...
+2025-12-16 22:10:14,835 - INFO - ============================================================
+2025-12-16 22:10:15,031 - INFO - Filtering for cases newer than: 2025-12-15T20:14:13.867519+00:00
+2025-12-16 22:10:15,040 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-16 22:10:15,041 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-16 22:10:18,655 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-16 22:10:18,658 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-16 22:10:19,862 - INFO - Discovered 0 potential case URLs
+2025-12-16 22:10:19,866 - INFO - 
+============================================================
+2025-12-16 22:10:19,867 - INFO - Toppefirm scraping complete!
+2025-12-16 22:10:19,868 - INFO - Total recent cases found: 0
+2025-12-16 22:10:19,869 - INFO - ============================================================
+2025-12-16 22:10:19,872 - INFO - Scraping completed!
+2025-12-16 22:10:19,874 - INFO - Total items scraped: 0
+2025-12-16 22:10:19,875 - INFO - Duration: 5.04 seconds
+2025-12-17 19:51:46,134 - INFO - Initialized Toppefirm scraper
+2025-12-17 19:51:46,137 - INFO - Date filtering enabled: last 24 hours
+2025-12-17 19:51:46,139 - INFO - Initialized Toppefirm scraper
+2025-12-17 19:51:46,140 - INFO - Starting Toppefirm scraper...
+2025-12-17 19:51:46,140 - INFO - ============================================================
+2025-12-17 19:51:46,142 - INFO - Starting Toppefirm scraper...
+2025-12-17 19:51:46,142 - INFO - ============================================================
+2025-12-17 19:51:46,198 - INFO - Filtering for cases newer than: 2025-12-16T16:44:23.366406+00:00
+2025-12-17 19:51:46,199 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-17 19:51:46,200 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-17 19:51:49,724 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-17 19:51:49,725 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-17 19:51:51,222 - INFO - Discovered 0 potential case URLs
+2025-12-17 19:51:51,223 - INFO - 
+============================================================
+2025-12-17 19:51:51,224 - INFO - Toppefirm scraping complete!
+2025-12-17 19:51:51,224 - INFO - Total recent cases found: 0
+2025-12-17 19:51:51,225 - INFO - ============================================================
+2025-12-17 19:51:51,226 - INFO - Scraping completed!
+2025-12-17 19:51:51,226 - INFO - Total items scraped: 0
+2025-12-17 19:51:51,227 - INFO - Duration: 5.09 seconds
+2025-12-18 21:16:09,997 - INFO - Initialized Toppefirm scraper
+2025-12-18 21:16:09,997 - INFO - Date filtering enabled: last 24 hours
+2025-12-18 21:16:09,997 - INFO - Initialized Toppefirm scraper
+2025-12-18 21:16:09,997 - INFO - Starting Toppefirm scraper...
+2025-12-18 21:16:09,997 - INFO - ============================================================
+2025-12-18 21:16:09,997 - INFO - Starting Toppefirm scraper...
+2025-12-18 21:16:09,997 - INFO - ============================================================
+2025-12-18 21:16:10,009 - INFO - Filtering for cases newer than: 2025-12-17T14:27:05.774395+00:00
+2025-12-18 21:16:10,010 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-18 21:16:10,010 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-18 21:16:12,156 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-18 21:16:12,156 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-18 21:16:13,320 - INFO - Discovered 0 potential case URLs
+2025-12-18 21:16:13,321 - INFO - 
+============================================================
+2025-12-18 21:16:13,321 - INFO - Toppefirm scraping complete!
+2025-12-18 21:16:13,321 - INFO - Total recent cases found: 0
+2025-12-18 21:16:13,321 - INFO - ============================================================
+2025-12-18 21:16:13,321 - INFO - Scraping completed!
+2025-12-18 21:16:13,321 - INFO - Total items scraped: 0
+2025-12-18 21:16:13,321 - INFO - Duration: 3.32 seconds
+2025-12-19 21:13:12,501 - INFO - Initialized Toppefirm scraper
+2025-12-19 21:13:12,501 - INFO - Date filtering enabled: last 24 hours
+2025-12-19 21:13:12,501 - INFO - Initialized Toppefirm scraper
+2025-12-19 21:13:12,501 - INFO - Starting Toppefirm scraper...
+2025-12-19 21:13:12,502 - INFO - ============================================================
+2025-12-19 21:13:12,502 - INFO - Starting Toppefirm scraper...
+2025-12-19 21:13:12,502 - INFO - ============================================================
+2025-12-19 21:13:12,513 - INFO - Filtering for cases newer than: 2025-12-18T15:50:08.041028+00:00
+2025-12-19 21:13:12,513 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-19 21:13:12,513 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-19 21:13:14,202 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-19 21:13:14,202 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-19 21:13:15,387 - INFO - Discovered 0 potential case URLs
+2025-12-19 21:13:15,387 - INFO - 
+============================================================
+2025-12-19 21:13:15,387 - INFO - Toppefirm scraping complete!
+2025-12-19 21:13:15,387 - INFO - Total recent cases found: 0
+2025-12-19 21:13:15,387 - INFO - ============================================================
+2025-12-19 21:13:15,388 - INFO - Scraping completed!
+2025-12-19 21:13:15,388 - INFO - Total items scraped: 0
+2025-12-19 21:13:15,388 - INFO - Duration: 2.89 seconds
+2025-12-22 20:55:32,064 - INFO - Initialized Toppefirm scraper
+2025-12-22 20:55:32,064 - INFO - Date filtering enabled: last 24 hours
+2025-12-22 20:55:32,065 - INFO - Initialized Toppefirm scraper
+2025-12-22 20:55:32,066 - INFO - Starting Toppefirm scraper...
+2025-12-22 20:55:32,066 - INFO - ============================================================
+2025-12-22 20:55:32,066 - INFO - Starting Toppefirm scraper...
+2025-12-22 20:55:32,067 - INFO - ============================================================
+2025-12-22 20:55:32,114 - INFO - Filtering for cases newer than: 2025-12-19T15:46:57.763496+00:00
+2025-12-22 20:55:32,114 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-22 20:55:32,114 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-22 20:55:34,664 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-22 20:55:34,665 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-22 20:55:35,805 - INFO - Discovered 0 potential case URLs
+2025-12-22 20:55:35,806 - INFO - 
+============================================================
+2025-12-22 20:55:35,807 - INFO - Toppefirm scraping complete!
+2025-12-22 20:55:35,807 - INFO - Total recent cases found: 0
+2025-12-22 20:55:35,808 - INFO - ============================================================
+2025-12-22 20:55:35,809 - INFO - Scraping completed!
+2025-12-22 20:55:35,809 - INFO - Total items scraped: 0
+2025-12-22 20:55:35,810 - INFO - Duration: 3.74 seconds
+2025-12-23 20:51:40,376 - INFO - Initialized Toppefirm scraper
+2025-12-23 20:51:40,377 - INFO - Date filtering enabled: last 24 hours
+2025-12-23 20:51:40,378 - INFO - Initialized Toppefirm scraper
+2025-12-23 20:51:40,379 - INFO - Starting Toppefirm scraper...
+2025-12-23 20:51:40,380 - INFO - ============================================================
+2025-12-23 20:51:40,380 - INFO - Starting Toppefirm scraper...
+2025-12-23 20:51:40,381 - INFO - ============================================================
+2025-12-23 20:51:40,534 - INFO - Filtering for cases newer than: 2025-12-22T15:29:19.867378+00:00
+2025-12-23 20:51:40,535 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-23 20:51:40,536 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-23 20:51:43,681 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-23 20:51:43,682 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-23 20:51:44,800 - INFO - Discovered 0 potential case URLs
+2025-12-23 20:51:44,801 - INFO - 
+============================================================
+2025-12-23 20:51:44,802 - INFO - Toppefirm scraping complete!
+2025-12-23 20:51:44,803 - INFO - Total recent cases found: 0
+2025-12-23 20:51:44,804 - INFO - ============================================================
+2025-12-23 20:51:44,805 - INFO - Scraping completed!
+2025-12-23 20:51:44,806 - INFO - Total items scraped: 0
+2025-12-23 20:51:44,807 - INFO - Duration: 4.43 seconds
+2025-12-24 20:00:02,330 - INFO - Initialized Toppefirm scraper
+2025-12-24 20:00:02,331 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 20:00:02,331 - INFO - Initialized Toppefirm scraper
+2025-12-24 20:00:02,331 - INFO - Starting Toppefirm scraper...
+2025-12-24 20:00:02,331 - INFO - ============================================================
+2025-12-24 20:00:02,331 - INFO - Starting Toppefirm scraper...
+2025-12-24 20:00:02,331 - INFO - ============================================================
+2025-12-24 20:00:02,385 - INFO - Filtering for cases newer than: 2025-12-23T15:25:32.946924+00:00
+2025-12-24 20:00:02,385 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-24 20:00:02,386 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-24 20:00:04,997 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-24 20:00:04,998 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-24 20:00:06,136 - INFO - Discovered 0 potential case URLs
+2025-12-24 20:00:06,136 - INFO - 
+============================================================
+2025-12-24 20:00:06,137 - INFO - Toppefirm scraping complete!
+2025-12-24 20:00:06,137 - INFO - Total recent cases found: 0
+2025-12-24 20:00:06,137 - INFO - ============================================================
+2025-12-24 20:00:06,138 - INFO - Scraping completed!
+2025-12-24 20:00:06,138 - INFO - Total items scraped: 0
+2025-12-24 20:00:06,139 - INFO - Duration: 3.81 seconds
+2025-12-24 20:35:13,961 - INFO - Initialized Toppefirm scraper
+2025-12-24 20:35:13,964 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 20:35:13,965 - INFO - Initialized Toppefirm scraper
+2025-12-24 20:35:13,966 - INFO - Starting Toppefirm scraper...
+2025-12-24 20:35:13,970 - INFO - ============================================================
+2025-12-24 20:35:13,970 - INFO - Starting Toppefirm scraper...
+2025-12-24 20:35:13,971 - INFO - ============================================================
+2025-12-24 20:35:14,041 - INFO - Filtering for cases newer than: 2025-12-24T14:33:16.975406+00:00
+2025-12-24 20:35:14,041 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-24 20:35:14,041 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-24 20:35:16,132 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-24 20:35:16,132 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-24 20:35:17,326 - INFO - Discovered 0 potential case URLs
+2025-12-24 20:35:17,327 - INFO - 
+============================================================
+2025-12-24 20:35:17,327 - INFO - Toppefirm scraping complete!
+2025-12-24 20:35:17,327 - INFO - Total recent cases found: 0
+2025-12-24 20:35:17,328 - INFO - ============================================================
+2025-12-24 20:35:17,328 - INFO - Scraping completed!
+2025-12-24 20:35:17,329 - INFO - Total items scraped: 0
+2025-12-24 20:35:17,329 - INFO - Duration: 3.36 seconds
+2025-12-26 21:23:47,721 - INFO - Initialized Toppefirm scraper
+2025-12-26 21:23:47,723 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 21:23:47,728 - INFO - Initialized Toppefirm scraper
+2025-12-26 21:23:47,731 - INFO - Starting Toppefirm scraper...
+2025-12-26 21:23:47,734 - INFO - ============================================================
+2025-12-26 21:23:47,737 - INFO - Starting Toppefirm scraper...
+2025-12-26 21:23:47,739 - INFO - ============================================================
+2025-12-26 21:23:47,996 - INFO - Filtering for cases newer than: 2025-12-24T15:08:23.813614+00:00
+2025-12-26 21:23:47,998 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-26 21:23:47,999 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-26 21:23:52,699 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-26 21:23:52,702 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-26 21:23:54,033 - INFO - Discovered 0 potential case URLs
+2025-12-26 21:23:54,035 - INFO - 
+============================================================
+2025-12-26 21:23:54,038 - INFO - Toppefirm scraping complete!
+2025-12-26 21:23:54,045 - INFO - Total recent cases found: 0
+2025-12-26 21:23:54,054 - INFO - ============================================================
+2025-12-26 21:23:54,065 - INFO - Scraping completed!
+2025-12-26 21:23:54,069 - INFO - Total items scraped: 0
+2025-12-26 21:23:54,070 - INFO - Duration: 6.33 seconds
+2025-12-26 22:44:27,524 - INFO - Initialized Toppefirm scraper
+2025-12-26 22:44:27,527 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 22:44:27,529 - INFO - Initialized Toppefirm scraper
+2025-12-26 22:44:27,537 - INFO - Starting Toppefirm scraper...
+2025-12-26 22:44:27,540 - INFO - ============================================================
+2025-12-26 22:44:27,542 - INFO - Starting Toppefirm scraper...
+2025-12-26 22:44:27,543 - INFO - ============================================================
+2025-12-26 22:44:27,731 - INFO - Filtering for cases newer than: 2025-12-26T15:57:21.737338+00:00
+2025-12-26 22:44:27,739 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-26 22:44:27,740 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-26 22:44:31,911 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-26 22:44:31,915 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-26 22:44:33,446 - INFO - Discovered 0 potential case URLs
+2025-12-26 22:44:33,447 - INFO - 
+============================================================
+2025-12-26 22:44:33,448 - INFO - Toppefirm scraping complete!
+2025-12-26 22:44:33,449 - INFO - Total recent cases found: 0
+2025-12-26 22:44:33,450 - INFO - ============================================================
+2025-12-26 22:44:33,451 - INFO - Scraping completed!
+2025-12-26 22:44:33,453 - INFO - Total items scraped: 0
+2025-12-26 22:44:33,458 - INFO - Duration: 5.91 seconds
+2025-12-30 22:09:46,496 - INFO - Initialized Toppefirm scraper
+2025-12-30 22:09:46,496 - INFO - Date filtering enabled: last 24 hours
+2025-12-30 22:09:46,496 - INFO - Initialized Toppefirm scraper
+2025-12-30 22:09:46,496 - INFO - Starting Toppefirm scraper...
+2025-12-30 22:09:46,496 - INFO - ============================================================
+2025-12-30 22:09:46,496 - INFO - Starting Toppefirm scraper...
+2025-12-30 22:09:46,496 - INFO - ============================================================
+2025-12-30 22:09:46,510 - INFO - Filtering for cases newer than: 2025-12-26T17:20:07.498552+00:00
+2025-12-30 22:09:46,510 - INFO - Discovering cases from: https://www.toppefirm.com/class-actions/
+2025-12-30 22:09:46,510 - INFO - Fetching: https://www.toppefirm.com/class-actions/
+2025-12-30 22:09:48,857 - INFO - Discovering cases from: https://www.toppefirm.com/
+2025-12-30 22:09:48,857 - INFO - Fetching: https://www.toppefirm.com/
+2025-12-30 22:09:49,966 - INFO - Discovered 0 potential case URLs
+2025-12-30 22:09:49,966 - INFO - 
+============================================================
+2025-12-30 22:09:49,966 - INFO - Toppefirm scraping complete!
+2025-12-30 22:09:49,966 - INFO - Total recent cases found: 0
+2025-12-30 22:09:49,966 - INFO - ============================================================
+2025-12-30 22:09:49,966 - INFO - Scraping completed!
+2025-12-30 22:09:49,966 - INFO - Total items scraped: 0
+2025-12-30 22:09:49,966 - INFO - Duration: 3.47 seconds

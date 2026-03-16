@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Learn more",
+    "url": "https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/",
+    "description": "Link from https://clarksonlawfirm.com/",
+    "type": "general_link",
+    "source_page": "https://clarksonlawfirm.com/"
+  },
+  {
+    "title": "Clarkson",
+    "url": "https://clarksonlawfirm.com/nitropack_static/cfYsVjuBWqcHdrUkaQxXGkjOcyhcSRhJ/assets/images/optimized/rev-bf046e1/clarksonlawfirm.com/wp-content/uploads/2022/07/clarkson-logo-90-offblack.svg",
+    "description": "Image content",
+    "type": "image",
+    "source_page": "https://clarksonlawfirm.com/"
+  },
+  {
+    "title": "Clarkson",
+    "url": "https://clarksonlawfirm.com/wp-content/uploads/2022/06/clarkson-logo-main_dark-01.svg",
+    "description": "Image content",
+    "type": "image",
+    "source_page": "https://clarksonlawfirm.com/"
+  },
+  {
+    "title": "Form Submission",
+    "url": "https://clarksonlawfirm.com/",
+    "description": "Form action URL",
+    "type": "form",
+    "source_page": "https://clarksonlawfirm.com/"
+  },
+  {
+    "title": "Form Submission",
+    "url": "https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/#gf_22",
+    "description": "Form action URL",
+    "type": "form",
+    "source_page": "https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/"
+  }
+]

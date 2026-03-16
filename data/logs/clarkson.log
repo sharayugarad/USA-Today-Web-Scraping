@@ -1,0 +1,892 @@
+2025-11-07 20:34:55,157 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:34:55,158 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:34:55,158 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:34:55,158 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-07 20:34:55,158 - INFO - ============================================================
+2025-11-07 20:34:55,159 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-07 20:34:55,159 - INFO - ============================================================
+2025-11-07 20:34:55,172 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-07 20:34:55,173 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-07 20:34:56,650 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-07 20:34:57,349 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-07 20:34:58,354 - INFO - 
+============================================================
+2025-11-07 20:34:58,355 - INFO - Clarkson Law Firm scraping complete!
+2025-11-07 20:34:58,355 - INFO - Total recent cases found: 1
+2025-11-07 20:34:58,356 - INFO - ============================================================
+2025-11-07 20:34:58,360 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251107_203458.json
+2025-11-07 20:34:58,360 - INFO - Scraping completed!
+2025-11-07 20:34:58,361 - INFO - Total items scraped: 1
+2025-11-07 20:34:58,364 - INFO - Duration: 3.20 seconds
+2025-11-07 20:36:48,673 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:36:48,674 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:36:48,674 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:37:37,588 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:37:37,589 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:37:37,589 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-07 20:37:37,590 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-07 20:37:37,590 - INFO - ============================================================
+2025-11-07 20:37:37,590 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-07 20:37:37,591 - INFO - ============================================================
+2025-11-07 20:37:37,602 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-07 20:37:37,603 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-07 20:37:39,530 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-07 20:37:40,200 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-07 20:37:41,202 - INFO - 
+============================================================
+2025-11-07 20:37:41,218 - INFO - Clarkson Law Firm scraping complete!
+2025-11-07 20:37:41,218 - INFO - Total recent cases found: 1
+2025-11-07 20:37:41,219 - INFO - ============================================================
+2025-11-07 20:37:41,224 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251107_203741.json
+2025-11-07 20:37:41,236 - INFO - Scraping completed!
+2025-11-07 20:37:41,248 - INFO - Total items scraped: 1
+2025-11-07 20:37:41,248 - INFO - Duration: 3.65 seconds
+2025-11-10 20:46:02,727 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-10 20:46:02,728 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 20:46:02,728 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-10 20:46:02,728 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-10 20:46:02,728 - INFO - ============================================================
+2025-11-10 20:46:02,729 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-10 20:46:02,729 - INFO - ============================================================
+2025-11-10 20:46:02,739 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-10 20:46:02,739 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-10 20:46:04,541 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-10 20:46:05,215 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-10 20:46:06,217 - INFO - 
+============================================================
+2025-11-10 20:46:06,218 - INFO - Clarkson Law Firm scraping complete!
+2025-11-10 20:46:06,219 - INFO - Total recent cases found: 1
+2025-11-10 20:46:06,219 - INFO - ============================================================
+2025-11-10 20:46:06,221 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251110_204606.json
+2025-11-10 20:46:06,221 - INFO - Scraping completed!
+2025-11-10 20:46:06,222 - INFO - Total items scraped: 1
+2025-11-10 20:46:06,222 - INFO - Duration: 3.49 seconds
+2025-11-10 23:03:38,954 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-10 23:03:38,955 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 23:03:38,955 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-10 23:03:38,955 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-10 23:03:38,956 - INFO - ============================================================
+2025-11-10 23:03:38,956 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-10 23:03:38,956 - INFO - ============================================================
+2025-11-10 23:03:38,968 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-10 23:03:38,968 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-10 23:03:40,724 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-10 23:03:41,326 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-10 23:03:42,329 - INFO - 
+============================================================
+2025-11-10 23:03:42,330 - INFO - Clarkson Law Firm scraping complete!
+2025-11-10 23:03:42,330 - INFO - Total recent cases found: 1
+2025-11-10 23:03:42,331 - INFO - ============================================================
+2025-11-10 23:03:42,333 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251110_230342.json
+2025-11-10 23:03:42,334 - INFO - Scraping completed!
+2025-11-10 23:03:42,334 - INFO - Total items scraped: 1
+2025-11-10 23:03:42,335 - INFO - Duration: 3.38 seconds
+2025-11-11 02:17:17,210 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 02:17:17,211 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 02:17:17,211 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 02:17:17,211 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 02:17:17,212 - INFO - ============================================================
+2025-11-11 02:17:17,212 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 02:17:17,212 - INFO - ============================================================
+2025-11-11 02:17:17,229 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-11 02:17:17,230 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-11 02:17:18,844 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-11 02:17:19,502 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-11 02:17:20,505 - INFO - 
+============================================================
+2025-11-11 02:17:20,505 - INFO - Clarkson Law Firm scraping complete!
+2025-11-11 02:17:20,506 - INFO - Total recent cases found: 1
+2025-11-11 02:17:20,506 - INFO - ============================================================
+2025-11-11 02:17:20,508 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251111_021720.json
+2025-11-11 02:17:20,508 - INFO - Scraping completed!
+2025-11-11 02:17:20,508 - INFO - Total items scraped: 1
+2025-11-11 02:17:20,508 - INFO - Duration: 3.30 seconds
+2025-11-11 02:50:20,282 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 02:50:20,283 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 02:50:20,283 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 02:50:20,283 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 02:50:20,283 - INFO - ============================================================
+2025-11-11 02:50:20,284 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 02:50:20,284 - INFO - ============================================================
+2025-11-11 02:50:20,297 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-11 02:50:20,297 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-11 02:50:22,043 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-11 02:50:22,668 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-11 02:50:23,671 - INFO - 
+============================================================
+2025-11-11 02:50:23,682 - INFO - Clarkson Law Firm scraping complete!
+2025-11-11 02:50:23,683 - INFO - Total recent cases found: 1
+2025-11-11 02:50:23,683 - INFO - ============================================================
+2025-11-11 02:50:23,685 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251111_025023.json
+2025-11-11 02:50:23,685 - INFO - Scraping completed!
+2025-11-11 02:50:23,686 - INFO - Total items scraped: 1
+2025-11-11 02:50:23,686 - INFO - Duration: 3.40 seconds
+2025-11-11 21:55:32,851 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 21:55:32,852 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 21:55:32,852 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 21:55:32,852 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 21:55:32,853 - INFO - ============================================================
+2025-11-11 21:55:32,853 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 21:55:32,853 - INFO - ============================================================
+2025-11-11 21:55:32,879 - INFO - Filtering for cases newer than: 2024-11-03T22:46:01
+2025-11-11 21:55:32,879 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-11 21:55:34,519 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-11 21:55:35,113 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-11 21:55:36,115 - INFO - 
+============================================================
+2025-11-11 21:55:36,116 - INFO - Clarkson Law Firm scraping complete!
+2025-11-11 21:55:36,117 - INFO - Total recent cases found: 1
+2025-11-11 21:55:36,118 - INFO - ============================================================
+2025-11-11 21:55:36,122 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251111_215536.json
+2025-11-11 21:55:36,127 - INFO - Scraping completed!
+2025-11-11 21:55:36,131 - INFO - Total items scraped: 1
+2025-11-11 21:55:36,137 - INFO - Duration: 3.27 seconds
+2025-11-11 22:21:34,547 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 22:21:34,547 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:21:34,547 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-11 22:21:34,547 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 22:21:34,548 - INFO - ============================================================
+2025-11-11 22:21:34,548 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-11 22:21:34,548 - INFO - ============================================================
+2025-11-11 22:21:34,569 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-11 22:21:34,569 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-11 22:21:36,283 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-11 22:21:37,092 - INFO - 
+============================================================
+2025-11-11 22:21:37,092 - INFO - Clarkson Law Firm scraping complete!
+2025-11-11 22:21:37,093 - INFO - Total recent cases found: 0
+2025-11-11 22:21:37,093 - INFO - ============================================================
+2025-11-11 22:21:37,093 - INFO - Scraping completed!
+2025-11-11 22:21:37,094 - INFO - Total items scraped: 0
+2025-11-11 22:21:37,094 - INFO - Duration: 2.55 seconds
+2025-11-12 00:01:40,329 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 00:01:40,330 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:01:40,331 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 00:01:40,331 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 00:01:40,331 - INFO - ============================================================
+2025-11-12 00:01:40,331 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 00:01:40,331 - INFO - ============================================================
+2025-11-12 00:01:40,357 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-12 00:01:40,358 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-12 00:01:42,143 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-12 00:01:42,891 - INFO - 
+============================================================
+2025-11-12 00:01:42,892 - INFO - Clarkson Law Firm scraping complete!
+2025-11-12 00:01:42,892 - INFO - Total recent cases found: 0
+2025-11-12 00:01:42,892 - INFO - ============================================================
+2025-11-12 00:01:42,893 - INFO - Scraping completed!
+2025-11-12 00:01:42,893 - INFO - Total items scraped: 0
+2025-11-12 00:01:42,893 - INFO - Duration: 2.56 seconds
+2025-11-12 00:35:59,264 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 00:35:59,265 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:35:59,265 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 00:35:59,265 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 00:35:59,265 - INFO - ============================================================
+2025-11-12 00:35:59,266 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 00:35:59,266 - INFO - ============================================================
+2025-11-12 00:35:59,281 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-12 00:35:59,282 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-12 00:36:00,969 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-12 00:36:01,558 - INFO - 
+============================================================
+2025-11-12 00:36:01,558 - INFO - Clarkson Law Firm scraping complete!
+2025-11-12 00:36:01,559 - INFO - Total recent cases found: 0
+2025-11-12 00:36:01,559 - INFO - ============================================================
+2025-11-12 00:36:01,560 - INFO - Scraping completed!
+2025-11-12 00:36:01,560 - INFO - Total items scraped: 0
+2025-11-12 00:36:01,560 - INFO - Duration: 2.29 seconds
+2025-11-12 21:00:59,694 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 21:00:59,694 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 21:00:59,695 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 21:00:59,695 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 21:00:59,695 - INFO - ============================================================
+2025-11-12 21:00:59,696 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 21:00:59,696 - INFO - ============================================================
+2025-11-12 21:00:59,715 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-12 21:00:59,715 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-12 21:01:02,211 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-12 21:01:02,870 - INFO - 
+============================================================
+2025-11-12 21:01:02,870 - INFO - Clarkson Law Firm scraping complete!
+2025-11-12 21:01:02,871 - INFO - Total recent cases found: 0
+2025-11-12 21:01:02,871 - INFO - ============================================================
+2025-11-12 21:01:02,871 - INFO - Scraping completed!
+2025-11-12 21:01:02,871 - INFO - Total items scraped: 0
+2025-11-12 21:01:02,871 - INFO - Duration: 3.18 seconds
+2025-11-12 22:20:15,147 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 22:20:15,148 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 22:20:15,148 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 22:20:15,148 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 22:20:15,148 - INFO - ============================================================
+2025-11-12 22:20:15,149 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 22:20:15,149 - INFO - ============================================================
+2025-11-12 22:20:15,169 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-12 22:20:15,170 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-12 22:20:16,896 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-12 22:20:17,530 - INFO - 
+============================================================
+2025-11-12 22:20:17,530 - INFO - Clarkson Law Firm scraping complete!
+2025-11-12 22:20:17,531 - INFO - Total recent cases found: 0
+2025-11-12 22:20:17,531 - INFO - ============================================================
+2025-11-12 22:20:17,531 - INFO - Scraping completed!
+2025-11-12 22:20:17,531 - INFO - Total items scraped: 0
+2025-11-12 22:20:17,532 - INFO - Duration: 2.38 seconds
+2025-11-12 22:52:18,043 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 22:52:18,043 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 22:52:18,044 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-12 22:52:18,044 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 22:52:18,044 - INFO - ============================================================
+2025-11-12 22:52:18,045 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-12 22:52:18,045 - INFO - ============================================================
+2025-11-12 22:52:18,071 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-12 22:52:18,071 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-12 22:52:19,715 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-12 22:52:20,375 - INFO - 
+============================================================
+2025-11-12 22:52:20,375 - INFO - Clarkson Law Firm scraping complete!
+2025-11-12 22:52:20,375 - INFO - Total recent cases found: 0
+2025-11-12 22:52:20,375 - INFO - ============================================================
+2025-11-12 22:52:20,375 - INFO - Scraping completed!
+2025-11-12 22:52:20,376 - INFO - Total items scraped: 0
+2025-11-12 22:52:20,376 - INFO - Duration: 2.33 seconds
+2025-11-13 20:34:19,853 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 20:34:19,854 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 20:34:19,854 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 20:34:19,854 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 20:34:19,854 - INFO - ============================================================
+2025-11-13 20:34:19,854 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 20:34:19,855 - INFO - ============================================================
+2025-11-13 20:34:19,876 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-13 20:34:19,877 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-13 20:34:21,604 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-13 20:34:22,204 - INFO - 
+============================================================
+2025-11-13 20:34:22,204 - INFO - Clarkson Law Firm scraping complete!
+2025-11-13 20:34:22,204 - INFO - Total recent cases found: 0
+2025-11-13 20:34:22,205 - INFO - ============================================================
+2025-11-13 20:34:22,205 - INFO - Scraping completed!
+2025-11-13 20:34:22,205 - INFO - Total items scraped: 0
+2025-11-13 20:34:22,206 - INFO - Duration: 2.35 seconds
+2025-11-13 22:10:57,769 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:10:57,769 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:10:57,769 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:10:57,770 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:10:57,770 - INFO - ============================================================
+2025-11-13 22:10:57,770 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:10:57,770 - INFO - ============================================================
+2025-11-13 22:10:57,791 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-13 22:10:57,793 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-13 22:11:00,002 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-13 22:11:00,648 - INFO - 
+============================================================
+2025-11-13 22:11:00,649 - INFO - Clarkson Law Firm scraping complete!
+2025-11-13 22:11:00,650 - INFO - Total recent cases found: 0
+2025-11-13 22:11:00,650 - INFO - ============================================================
+2025-11-13 22:11:00,651 - INFO - Scraping completed!
+2025-11-13 22:11:00,651 - INFO - Total items scraped: 0
+2025-11-13 22:11:00,652 - INFO - Duration: 2.88 seconds
+2025-11-13 22:32:27,150 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:32:27,150 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:32:27,151 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:32:27,151 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:32:27,151 - INFO - ============================================================
+2025-11-13 22:32:27,151 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:32:27,151 - INFO - ============================================================
+2025-11-13 22:32:27,177 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-13 22:32:27,178 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-13 22:32:28,855 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-13 22:32:29,453 - INFO - 
+============================================================
+2025-11-13 22:32:29,455 - INFO - Clarkson Law Firm scraping complete!
+2025-11-13 22:32:29,455 - INFO - Total recent cases found: 0
+2025-11-13 22:32:29,458 - INFO - ============================================================
+2025-11-13 22:32:29,458 - INFO - Scraping completed!
+2025-11-13 22:32:29,461 - INFO - Total items scraped: 0
+2025-11-13 22:32:29,462 - INFO - Duration: 2.31 seconds
+2025-11-13 22:57:26,542 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:57:26,543 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:57:26,543 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 22:57:26,543 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:57:26,543 - INFO - ============================================================
+2025-11-13 22:57:26,543 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 22:57:26,544 - INFO - ============================================================
+2025-11-13 22:57:26,582 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-13 22:57:26,582 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-13 22:57:28,490 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-13 22:57:29,210 - INFO - 
+============================================================
+2025-11-13 22:57:29,211 - INFO - Clarkson Law Firm scraping complete!
+2025-11-13 22:57:29,211 - INFO - Total recent cases found: 0
+2025-11-13 22:57:29,212 - INFO - ============================================================
+2025-11-13 22:57:29,212 - INFO - Scraping completed!
+2025-11-13 22:57:29,212 - INFO - Total items scraped: 0
+2025-11-13 22:57:29,212 - INFO - Duration: 2.67 seconds
+2025-11-13 23:00:59,364 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 23:00:59,365 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 23:00:59,365 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-13 23:00:59,365 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 23:00:59,366 - INFO - ============================================================
+2025-11-13 23:00:59,366 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-13 23:00:59,366 - INFO - ============================================================
+2025-11-13 23:00:59,386 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-13 23:00:59,387 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-13 23:01:01,229 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-13 23:01:01,938 - INFO - 
+============================================================
+2025-11-13 23:01:01,939 - INFO - Clarkson Law Firm scraping complete!
+2025-11-13 23:01:01,939 - INFO - Total recent cases found: 0
+2025-11-13 23:01:01,940 - INFO - ============================================================
+2025-11-13 23:01:01,940 - INFO - Scraping completed!
+2025-11-13 23:01:01,940 - INFO - Total items scraped: 0
+2025-11-13 23:01:01,941 - INFO - Duration: 2.57 seconds
+2025-11-14 19:53:52,267 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-14 19:53:52,299 - INFO - Date filtering enabled: last 24 hours
+2025-11-14 19:53:52,299 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-14 19:53:52,299 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-14 19:53:52,299 - INFO - ============================================================
+2025-11-14 19:53:52,299 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-14 19:53:52,300 - INFO - ============================================================
+2025-11-14 19:53:52,333 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-14 19:53:52,333 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-14 19:53:54,194 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-14 19:53:54,962 - INFO - 
+============================================================
+2025-11-14 19:53:54,963 - INFO - Clarkson Law Firm scraping complete!
+2025-11-14 19:53:54,963 - INFO - Total recent cases found: 0
+2025-11-14 19:53:54,963 - INFO - ============================================================
+2025-11-14 19:53:54,964 - INFO - Scraping completed!
+2025-11-14 19:53:54,964 - INFO - Total items scraped: 0
+2025-11-14 19:53:54,965 - INFO - Duration: 2.66 seconds
+2025-11-17 20:32:18,481 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-17 20:32:18,481 - INFO - Date filtering enabled: last 24 hours
+2025-11-17 20:32:18,481 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-17 20:32:18,482 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-17 20:32:18,482 - INFO - ============================================================
+2025-11-17 20:32:18,482 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-17 20:32:18,482 - INFO - ============================================================
+2025-11-17 20:32:18,506 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-17 20:32:18,506 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-17 20:32:20,344 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-17 20:32:21,033 - INFO - 
+============================================================
+2025-11-17 20:32:21,034 - INFO - Clarkson Law Firm scraping complete!
+2025-11-17 20:32:21,034 - INFO - Total recent cases found: 0
+2025-11-17 20:32:21,034 - INFO - ============================================================
+2025-11-17 20:32:21,035 - INFO - Scraping completed!
+2025-11-17 20:32:21,035 - INFO - Total items scraped: 0
+2025-11-17 20:32:21,035 - INFO - Duration: 2.55 seconds
+2025-11-18 20:10:19,444 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-18 20:10:19,445 - INFO - Date filtering enabled: last 24 hours
+2025-11-18 20:10:19,445 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-18 20:10:19,445 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-18 20:10:19,445 - INFO - ============================================================
+2025-11-18 20:10:19,446 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-18 20:10:19,446 - INFO - ============================================================
+2025-11-18 20:10:19,476 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-18 20:10:19,476 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-18 20:10:21,568 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-18 20:10:22,283 - INFO - 
+============================================================
+2025-11-18 20:10:22,284 - INFO - Clarkson Law Firm scraping complete!
+2025-11-18 20:10:22,285 - INFO - Total recent cases found: 0
+2025-11-18 20:10:22,285 - INFO - ============================================================
+2025-11-18 20:10:22,286 - INFO - Scraping completed!
+2025-11-18 20:10:22,286 - INFO - Total items scraped: 0
+2025-11-18 20:10:22,287 - INFO - Duration: 2.84 seconds
+2025-11-27 22:26:16,521 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-27 22:26:16,521 - INFO - Date filtering enabled: last 24 hours
+2025-11-27 22:26:16,521 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-27 22:26:16,522 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-27 22:26:16,522 - INFO - ============================================================
+2025-11-27 22:26:16,522 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-27 22:26:16,522 - INFO - ============================================================
+2025-11-27 22:26:16,544 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.956323+00:00
+2025-11-27 22:26:16,544 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-27 22:26:18,270 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-27 22:26:18,975 - INFO - Found recent case: Justice for Image-Based Sexual Abuse...
+2025-11-27 22:26:19,978 - INFO - 
+============================================================
+2025-11-27 22:26:19,979 - INFO - Clarkson Law Firm scraping complete!
+2025-11-27 22:26:19,979 - INFO - Total recent cases found: 1
+2025-11-27 22:26:19,980 - INFO - ============================================================
+2025-11-27 22:26:19,982 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\clarkson_data_20251127_222619.json
+2025-11-27 22:26:19,982 - INFO - Scraping completed!
+2025-11-27 22:26:19,983 - INFO - Total items scraped: 1
+2025-11-27 22:26:19,984 - INFO - Duration: 3.46 seconds
+2025-11-28 22:23:25,936 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 22:23:25,937 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:23:25,937 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 22:23:25,938 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 22:23:25,938 - INFO - ============================================================
+2025-11-28 22:23:25,938 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 22:23:25,938 - INFO - ============================================================
+2025-11-28 22:23:25,972 - INFO - Filtering for cases newer than: 2025-11-27T17:14:59.009419+00:00
+2025-11-28 22:23:25,972 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-28 22:23:28,370 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-28 22:23:29,189 - INFO - 
+============================================================
+2025-11-28 22:23:29,190 - INFO - Clarkson Law Firm scraping complete!
+2025-11-28 22:23:29,191 - INFO - Total recent cases found: 0
+2025-11-28 22:23:29,192 - INFO - ============================================================
+2025-11-28 22:23:29,192 - INFO - Scraping completed!
+2025-11-28 22:23:29,193 - INFO - Total items scraped: 0
+2025-11-28 22:23:29,193 - INFO - Duration: 3.25 seconds
+2025-11-28 22:45:29,080 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 22:45:29,080 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:45:29,081 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 22:45:29,081 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 22:45:29,082 - INFO - ============================================================
+2025-11-28 22:45:29,082 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 22:45:29,082 - INFO - ============================================================
+2025-11-28 22:45:29,110 - INFO - Filtering for cases newer than: 2025-11-27T17:14:59.009419+00:00
+2025-11-28 22:45:29,111 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-28 22:45:31,324 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-28 22:45:32,192 - INFO - 
+============================================================
+2025-11-28 22:45:32,193 - INFO - Clarkson Law Firm scraping complete!
+2025-11-28 22:45:32,194 - INFO - Total recent cases found: 0
+2025-11-28 22:45:32,194 - INFO - ============================================================
+2025-11-28 22:45:32,195 - INFO - Scraping completed!
+2025-11-28 22:45:32,195 - INFO - Total items scraped: 0
+2025-11-28 22:45:32,196 - INFO - Duration: 3.11 seconds
+2025-11-28 23:23:19,030 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 23:23:19,031 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 23:23:19,031 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-28 23:23:19,031 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 23:23:19,031 - INFO - ============================================================
+2025-11-28 23:23:19,032 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-28 23:23:19,032 - INFO - ============================================================
+2025-11-28 23:23:19,062 - INFO - Filtering for cases newer than: 2025-11-28T17:33:09.782465+00:00
+2025-11-28 23:23:19,084 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-28 23:23:21,114 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-28 23:23:21,731 - INFO - 
+============================================================
+2025-11-28 23:23:21,732 - INFO - Clarkson Law Firm scraping complete!
+2025-11-28 23:23:21,732 - INFO - Total recent cases found: 0
+2025-11-28 23:23:21,732 - INFO - ============================================================
+2025-11-28 23:23:21,733 - INFO - Scraping completed!
+2025-11-28 23:23:21,733 - INFO - Total items scraped: 0
+2025-11-28 23:23:21,733 - INFO - Duration: 2.70 seconds
+2025-11-29 00:17:16,687 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-29 00:17:16,688 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 00:17:16,688 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-29 00:17:16,689 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-29 00:17:16,689 - INFO - ============================================================
+2025-11-29 00:17:16,689 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-29 00:17:16,690 - INFO - ============================================================
+2025-11-29 00:17:16,720 - INFO - Filtering for cases newer than: 2025-11-28T18:17:44.062969+00:00
+2025-11-29 00:17:16,720 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-29 00:17:19,596 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-29 00:17:20,224 - INFO - 
+============================================================
+2025-11-29 00:17:20,225 - INFO - Clarkson Law Firm scraping complete!
+2025-11-29 00:17:20,225 - INFO - Total recent cases found: 0
+2025-11-29 00:17:20,226 - INFO - ============================================================
+2025-11-29 00:17:20,226 - INFO - Scraping completed!
+2025-11-29 00:17:20,227 - INFO - Total items scraped: 0
+2025-11-29 00:17:20,227 - INFO - Duration: 3.54 seconds
+2025-11-29 00:52:15,952 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-29 00:52:15,952 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 00:52:15,953 - INFO - Initialized Clarkson Law Firm scraper
+2025-11-29 00:52:15,953 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-29 00:52:15,954 - INFO - ============================================================
+2025-11-29 00:52:15,954 - INFO - Starting Clarkson Law Firm scraper...
+2025-11-29 00:52:15,954 - INFO - ============================================================
+2025-11-29 00:52:15,987 - INFO - Filtering for cases newer than: 2025-11-28T19:04:42.228233+00:00
+2025-11-29 00:52:15,988 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-11-29 00:52:18,174 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-11-29 00:52:18,864 - INFO - 
+============================================================
+2025-11-29 00:52:18,864 - INFO - Clarkson Law Firm scraping complete!
+2025-11-29 00:52:18,865 - INFO - Total recent cases found: 0
+2025-11-29 00:52:18,865 - INFO - ============================================================
+2025-11-29 00:52:18,865 - INFO - Scraping completed!
+2025-11-29 00:52:18,865 - INFO - Total items scraped: 0
+2025-11-29 00:52:18,865 - INFO - Duration: 2.91 seconds
+2025-12-02 02:25:49,343 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-02 02:25:49,344 - INFO - Date filtering enabled: last 24 hours
+2025-12-02 02:25:49,344 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-02 02:25:49,344 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-02 02:25:49,345 - INFO - ============================================================
+2025-12-02 02:25:49,345 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-02 02:25:49,345 - INFO - ============================================================
+2025-12-02 02:25:49,379 - INFO - Filtering for cases newer than: 2025-11-28T19:39:26.984751+00:00
+2025-12-02 02:25:49,379 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-02 02:25:51,396 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-02 02:25:52,127 - INFO - 
+============================================================
+2025-12-02 02:25:52,128 - INFO - Clarkson Law Firm scraping complete!
+2025-12-02 02:25:52,128 - INFO - Total recent cases found: 0
+2025-12-02 02:25:52,129 - INFO - ============================================================
+2025-12-02 02:25:52,130 - INFO - Scraping completed!
+2025-12-02 02:25:52,131 - INFO - Total items scraped: 0
+2025-12-02 02:25:52,134 - INFO - Duration: 2.79 seconds
+2025-12-03 19:43:26,506 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 19:43:26,507 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 19:43:26,508 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 19:43:26,508 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 19:43:26,508 - INFO - ============================================================
+2025-12-03 19:43:26,509 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 19:43:26,509 - INFO - ============================================================
+2025-12-03 19:43:26,575 - INFO - Filtering for cases newer than: 2025-12-01T21:14:29.932084+00:00
+2025-12-03 19:43:26,576 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-03 19:43:29,374 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-03 19:43:30,303 - INFO - 
+============================================================
+2025-12-03 19:43:30,304 - INFO - Clarkson Law Firm scraping complete!
+2025-12-03 19:43:30,305 - INFO - Total recent cases found: 0
+2025-12-03 19:43:30,306 - INFO - ============================================================
+2025-12-03 19:43:30,306 - INFO - Scraping completed!
+2025-12-03 19:43:30,307 - INFO - Total items scraped: 0
+2025-12-03 19:43:30,307 - INFO - Duration: 3.80 seconds
+2025-12-03 21:09:28,323 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 21:09:28,356 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 21:09:28,357 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 21:09:28,357 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 21:09:28,358 - INFO - ============================================================
+2025-12-03 21:09:28,360 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 21:09:28,360 - INFO - ============================================================
+2025-12-03 21:09:28,421 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.486753+00:00
+2025-12-03 21:09:28,421 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-03 21:09:31,297 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-03 21:09:32,335 - INFO - 
+============================================================
+2025-12-03 21:09:32,336 - INFO - Clarkson Law Firm scraping complete!
+2025-12-03 21:09:32,336 - INFO - Total recent cases found: 0
+2025-12-03 21:09:32,337 - INFO - ============================================================
+2025-12-03 21:09:32,338 - INFO - Scraping completed!
+2025-12-03 21:09:32,338 - INFO - Total items scraped: 0
+2025-12-03 21:09:32,339 - INFO - Duration: 3.98 seconds
+2025-12-03 22:45:00,449 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 22:45:00,451 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 22:45:00,453 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 22:45:00,454 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 22:45:00,490 - INFO - ============================================================
+2025-12-03 22:45:00,497 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 22:45:00,498 - INFO - ============================================================
+2025-12-03 22:45:00,626 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.486753+00:00
+2025-12-03 22:45:00,628 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-03 22:45:04,805 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-03 22:45:05,954 - INFO - 
+============================================================
+2025-12-03 22:45:05,956 - INFO - Clarkson Law Firm scraping complete!
+2025-12-03 22:45:05,958 - INFO - Total recent cases found: 0
+2025-12-03 22:45:05,959 - INFO - ============================================================
+2025-12-03 22:45:05,968 - INFO - Scraping completed!
+2025-12-03 22:45:05,971 - INFO - Total items scraped: 0
+2025-12-03 22:45:05,972 - INFO - Duration: 5.48 seconds
+2025-12-03 23:51:52,292 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 23:51:52,293 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 23:51:52,293 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-03 23:51:52,294 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 23:51:52,294 - INFO - ============================================================
+2025-12-03 23:51:52,294 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-03 23:51:52,294 - INFO - ============================================================
+2025-12-03 23:51:52,328 - INFO - Filtering for cases newer than: 2025-12-03T17:33:48.629225+00:00
+2025-12-03 23:51:52,328 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-03 23:51:54,822 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-03 23:51:55,732 - INFO - 
+============================================================
+2025-12-03 23:51:55,733 - INFO - Clarkson Law Firm scraping complete!
+2025-12-03 23:51:55,733 - INFO - Total recent cases found: 0
+2025-12-03 23:51:55,734 - INFO - ============================================================
+2025-12-03 23:51:55,734 - INFO - Scraping completed!
+2025-12-03 23:51:55,734 - INFO - Total items scraped: 0
+2025-12-03 23:51:55,735 - INFO - Duration: 3.44 seconds
+2025-12-04 19:58:24,571 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-04 19:58:24,572 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 19:58:24,572 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-04 19:58:24,573 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-04 19:58:24,573 - INFO - ============================================================
+2025-12-04 19:58:24,574 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-04 19:58:24,575 - INFO - ============================================================
+2025-12-04 19:58:24,612 - INFO - Filtering for cases newer than: 2025-12-03T18:41:25.131843+00:00
+2025-12-04 19:58:24,612 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-04 19:58:27,502 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-04 19:58:28,492 - INFO - 
+============================================================
+2025-12-04 19:58:28,492 - INFO - Clarkson Law Firm scraping complete!
+2025-12-04 19:58:28,493 - INFO - Total recent cases found: 0
+2025-12-04 19:58:28,494 - INFO - ============================================================
+2025-12-04 19:58:28,494 - INFO - Scraping completed!
+2025-12-04 19:58:28,495 - INFO - Total items scraped: 0
+2025-12-04 19:58:28,496 - INFO - Duration: 3.92 seconds
+2025-12-05 00:09:39,058 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-05 00:09:39,058 - INFO - Date filtering enabled: last 24 hours
+2025-12-05 00:09:39,058 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-05 00:09:39,058 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-05 00:09:39,058 - INFO - ============================================================
+2025-12-05 00:09:39,058 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-05 00:09:39,058 - INFO - ============================================================
+2025-12-05 00:09:39,068 - INFO - Filtering for cases newer than: 2025-12-04T14:48:38.613144+00:00
+2025-12-05 00:09:39,068 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-05 00:09:41,402 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-05 00:09:42,336 - INFO - 
+============================================================
+2025-12-05 00:09:42,336 - INFO - Clarkson Law Firm scraping complete!
+2025-12-05 00:09:42,336 - INFO - Total recent cases found: 0
+2025-12-05 00:09:42,336 - INFO - ============================================================
+2025-12-05 00:09:42,336 - INFO - Scraping completed!
+2025-12-05 00:09:42,336 - INFO - Total items scraped: 0
+2025-12-05 00:09:42,336 - INFO - Duration: 3.28 seconds
+2025-12-13 00:31:01,505 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-13 00:31:01,506 - INFO - Date filtering enabled: last 24 hours
+2025-12-13 00:31:01,506 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-13 00:31:01,506 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-13 00:31:01,506 - INFO - ============================================================
+2025-12-13 00:31:01,506 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-13 00:31:01,506 - INFO - ============================================================
+2025-12-13 00:31:01,543 - INFO - Filtering for cases newer than: 2025-12-04T18:58:13.285494+00:00
+2025-12-13 00:31:01,543 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-13 00:31:03,332 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-13 00:31:06,435 - INFO - 
+============================================================
+2025-12-13 00:31:06,435 - INFO - Clarkson Law Firm scraping complete!
+2025-12-13 00:31:06,436 - INFO - Total recent cases found: 0
+2025-12-13 00:31:06,436 - INFO - ============================================================
+2025-12-13 00:31:06,437 - INFO - Scraping completed!
+2025-12-13 00:31:06,437 - INFO - Total items scraped: 0
+2025-12-13 00:31:06,438 - INFO - Duration: 4.93 seconds
+2025-12-16 01:25:56,602 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 01:25:56,603 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 01:25:56,603 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 01:25:56,603 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 01:25:56,603 - INFO - ============================================================
+2025-12-16 01:25:56,603 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 01:25:56,604 - INFO - ============================================================
+2025-12-16 01:25:56,663 - INFO - Filtering for cases newer than: 2025-12-12T19:18:45.128390+00:00
+2025-12-16 01:25:56,663 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-16 01:25:58,305 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-16 01:25:58,973 - INFO - 
+============================================================
+2025-12-16 01:25:58,974 - INFO - Clarkson Law Firm scraping complete!
+2025-12-16 01:25:58,975 - INFO - Total recent cases found: 0
+2025-12-16 01:25:58,975 - INFO - ============================================================
+2025-12-16 01:25:58,976 - INFO - Scraping completed!
+2025-12-16 01:25:58,976 - INFO - Total items scraped: 0
+2025-12-16 01:25:58,977 - INFO - Duration: 2.37 seconds
+2025-12-16 21:39:51,247 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 21:39:51,248 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 21:39:51,248 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 21:39:51,248 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 21:39:51,248 - INFO - ============================================================
+2025-12-16 21:39:51,249 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 21:39:51,249 - INFO - ============================================================
+2025-12-16 21:39:51,283 - INFO - Filtering for cases newer than: 2025-12-15T20:14:13.845397+00:00
+2025-12-16 21:39:51,284 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-16 21:39:53,037 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-16 21:39:53,614 - INFO - 
+============================================================
+2025-12-16 21:39:53,616 - INFO - Clarkson Law Firm scraping complete!
+2025-12-16 21:39:53,617 - INFO - Total recent cases found: 0
+2025-12-16 21:39:53,618 - INFO - ============================================================
+2025-12-16 21:39:53,620 - INFO - Scraping completed!
+2025-12-16 21:39:53,623 - INFO - Total items scraped: 0
+2025-12-16 21:39:53,624 - INFO - Duration: 2.37 seconds
+2025-12-16 21:56:20,645 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 21:56:20,648 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 21:56:20,649 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-16 21:56:20,663 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 21:56:20,664 - INFO - ============================================================
+2025-12-16 21:56:20,665 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-16 21:56:20,697 - INFO - ============================================================
+2025-12-16 21:56:21,097 - INFO - Filtering for cases newer than: 2025-12-15T20:14:13.845397+00:00
+2025-12-16 21:56:21,098 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-16 21:56:25,872 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-16 21:56:26,867 - INFO - 
+============================================================
+2025-12-16 21:56:26,869 - INFO - Clarkson Law Firm scraping complete!
+2025-12-16 21:56:26,869 - INFO - Total recent cases found: 0
+2025-12-16 21:56:26,869 - INFO - ============================================================
+2025-12-16 21:56:26,870 - INFO - Scraping completed!
+2025-12-16 21:56:26,870 - INFO - Total items scraped: 0
+2025-12-16 21:56:26,871 - INFO - Duration: 6.21 seconds
+2025-12-17 19:35:14,385 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-17 19:35:14,387 - INFO - Date filtering enabled: last 24 hours
+2025-12-17 19:35:14,387 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-17 19:35:14,387 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-17 19:35:14,387 - INFO - ============================================================
+2025-12-17 19:35:14,387 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-17 19:35:14,387 - INFO - ============================================================
+2025-12-17 19:35:14,470 - INFO - Filtering for cases newer than: 2025-12-16T16:44:23.261594+00:00
+2025-12-17 19:35:14,470 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-17 19:35:16,748 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-17 19:35:17,391 - INFO - 
+============================================================
+2025-12-17 19:35:17,391 - INFO - Clarkson Law Firm scraping complete!
+2025-12-17 19:35:17,392 - INFO - Total recent cases found: 0
+2025-12-17 19:35:17,392 - INFO - ============================================================
+2025-12-17 19:35:17,392 - INFO - Scraping completed!
+2025-12-17 19:35:17,393 - INFO - Total items scraped: 0
+2025-12-17 19:35:17,394 - INFO - Duration: 3.01 seconds
+2025-12-18 21:00:28,701 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-18 21:00:28,701 - INFO - Date filtering enabled: last 24 hours
+2025-12-18 21:00:28,701 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-18 21:00:28,701 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-18 21:00:28,701 - INFO - ============================================================
+2025-12-18 21:00:28,701 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-18 21:00:28,701 - INFO - ============================================================
+2025-12-18 21:00:28,713 - INFO - Filtering for cases newer than: 2025-12-17T14:27:05.762164+00:00
+2025-12-18 21:00:28,713 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-18 21:02:32,130 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-18 21:02:32,130 - INFO - Date filtering enabled: last 24 hours
+2025-12-18 21:02:32,130 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-18 21:02:32,130 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-18 21:02:32,130 - INFO - ============================================================
+2025-12-18 21:02:32,130 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-18 21:02:32,130 - INFO - ============================================================
+2025-12-18 21:02:32,141 - INFO - Filtering for cases newer than: 2025-12-17T14:27:05.762164+00:00
+2025-12-18 21:02:32,141 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-18 21:02:33,512 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-18 21:02:34,050 - INFO - 
+============================================================
+2025-12-18 21:02:34,050 - INFO - Clarkson Law Firm scraping complete!
+2025-12-18 21:02:34,050 - INFO - Total recent cases found: 0
+2025-12-18 21:02:34,050 - INFO - ============================================================
+2025-12-18 21:02:34,050 - INFO - Scraping completed!
+2025-12-18 21:02:34,050 - INFO - Total items scraped: 0
+2025-12-18 21:02:34,050 - INFO - Duration: 1.92 seconds
+2025-12-19 20:58:50,427 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-19 20:58:50,428 - INFO - Date filtering enabled: last 24 hours
+2025-12-19 20:58:50,429 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-19 20:58:50,429 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-19 20:58:50,429 - INFO - ============================================================
+2025-12-19 20:58:50,429 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-19 20:58:50,429 - INFO - ============================================================
+2025-12-19 20:58:50,441 - INFO - Filtering for cases newer than: 2025-12-18T15:50:08.039175+00:00
+2025-12-19 20:58:50,441 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-19 20:58:51,835 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-19 20:58:52,359 - INFO - 
+============================================================
+2025-12-19 20:58:52,359 - INFO - Clarkson Law Firm scraping complete!
+2025-12-19 20:58:52,359 - INFO - Total recent cases found: 0
+2025-12-19 20:58:52,359 - INFO - ============================================================
+2025-12-19 20:58:52,359 - INFO - Scraping completed!
+2025-12-19 20:58:52,359 - INFO - Total items scraped: 0
+2025-12-19 20:58:52,359 - INFO - Duration: 1.93 seconds
+2025-12-22 20:40:51,193 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-22 20:40:51,194 - INFO - Date filtering enabled: last 24 hours
+2025-12-22 20:40:51,194 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-22 20:40:51,195 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-22 20:40:51,195 - INFO - ============================================================
+2025-12-22 20:40:51,196 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-22 20:40:51,196 - INFO - ============================================================
+2025-12-22 20:40:51,270 - INFO - Filtering for cases newer than: 2025-12-19T15:46:57.756773+00:00
+2025-12-22 20:40:51,271 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-22 20:40:53,104 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-22 20:40:53,748 - INFO - 
+============================================================
+2025-12-22 20:40:53,749 - INFO - Clarkson Law Firm scraping complete!
+2025-12-22 20:40:53,749 - INFO - Total recent cases found: 0
+2025-12-22 20:40:53,750 - INFO - ============================================================
+2025-12-22 20:40:53,750 - INFO - Scraping completed!
+2025-12-22 20:40:53,751 - INFO - Total items scraped: 0
+2025-12-22 20:40:53,751 - INFO - Duration: 2.56 seconds
+2025-12-23 20:36:02,018 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-23 20:36:02,051 - INFO - Date filtering enabled: last 24 hours
+2025-12-23 20:36:02,052 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-23 20:36:02,052 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-23 20:36:02,053 - INFO - ============================================================
+2025-12-23 20:36:02,053 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-23 20:36:02,054 - INFO - ============================================================
+2025-12-23 20:36:02,113 - INFO - Filtering for cases newer than: 2025-12-22T15:29:19.858560+00:00
+2025-12-23 20:36:02,113 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-23 20:36:04,032 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-23 20:36:04,627 - INFO - 
+============================================================
+2025-12-23 20:36:04,629 - INFO - Clarkson Law Firm scraping complete!
+2025-12-23 20:36:04,630 - INFO - Total recent cases found: 0
+2025-12-23 20:36:04,631 - INFO - ============================================================
+2025-12-23 20:36:04,632 - INFO - Scraping completed!
+2025-12-23 20:36:04,633 - INFO - Total items scraped: 0
+2025-12-23 20:36:04,635 - INFO - Duration: 2.58 seconds
+2025-12-24 19:43:34,156 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-24 19:43:34,157 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 19:43:34,157 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-24 19:43:34,157 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-24 19:43:34,157 - INFO - ============================================================
+2025-12-24 19:43:34,157 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-24 19:43:34,158 - INFO - ============================================================
+2025-12-24 19:43:34,200 - INFO - Filtering for cases newer than: 2025-12-23T15:25:32.924417+00:00
+2025-12-24 19:43:34,201 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-24 19:43:35,729 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-24 19:43:36,243 - INFO - 
+============================================================
+2025-12-24 19:43:36,244 - INFO - Clarkson Law Firm scraping complete!
+2025-12-24 19:43:36,244 - INFO - Total recent cases found: 0
+2025-12-24 19:43:36,245 - INFO - ============================================================
+2025-12-24 19:43:36,245 - INFO - Scraping completed!
+2025-12-24 19:43:36,246 - INFO - Total items scraped: 0
+2025-12-24 19:43:36,246 - INFO - Duration: 2.09 seconds
+2025-12-24 20:22:41,029 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-24 20:22:41,029 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 20:22:41,030 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-24 20:22:41,030 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-24 20:22:41,030 - INFO - ============================================================
+2025-12-24 20:22:41,030 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-24 20:22:41,030 - INFO - ============================================================
+2025-12-24 20:22:41,091 - INFO - Filtering for cases newer than: 2025-12-24T14:33:16.940748+00:00
+2025-12-24 20:22:41,092 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-24 20:22:42,783 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-24 20:22:43,350 - INFO - 
+============================================================
+2025-12-24 20:22:43,351 - INFO - Clarkson Law Firm scraping complete!
+2025-12-24 20:22:43,352 - INFO - Total recent cases found: 0
+2025-12-24 20:22:43,352 - INFO - ============================================================
+2025-12-24 20:22:43,352 - INFO - Scraping completed!
+2025-12-24 20:22:43,353 - INFO - Total items scraped: 0
+2025-12-24 20:22:43,353 - INFO - Duration: 2.32 seconds
+2025-12-26 21:09:08,737 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-26 21:09:08,742 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 21:09:08,742 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-26 21:09:08,742 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-26 21:09:08,743 - INFO - ============================================================
+2025-12-26 21:09:08,743 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-26 21:09:08,743 - INFO - ============================================================
+2025-12-26 21:09:08,835 - INFO - Filtering for cases newer than: 2025-12-24T15:08:23.755097+00:00
+2025-12-26 21:09:08,836 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-26 21:09:11,147 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-26 21:09:11,975 - INFO - 
+============================================================
+2025-12-26 21:09:11,977 - INFO - Clarkson Law Firm scraping complete!
+2025-12-26 21:09:11,978 - INFO - Total recent cases found: 0
+2025-12-26 21:09:11,979 - INFO - ============================================================
+2025-12-26 21:09:11,980 - INFO - Scraping completed!
+2025-12-26 21:09:11,981 - INFO - Total items scraped: 0
+2025-12-26 21:09:11,982 - INFO - Duration: 3.24 seconds
+2025-12-26 22:26:34,126 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-26 22:26:34,127 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 22:26:34,127 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-26 22:26:34,128 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-26 22:26:34,128 - INFO - ============================================================
+2025-12-26 22:26:34,129 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-26 22:26:34,129 - INFO - ============================================================
+2025-12-26 22:26:34,176 - INFO - Filtering for cases newer than: 2025-12-26T15:57:21.662538+00:00
+2025-12-26 22:26:34,176 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-26 22:26:36,102 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-26 22:26:36,697 - INFO - 
+============================================================
+2025-12-26 22:26:36,698 - INFO - Clarkson Law Firm scraping complete!
+2025-12-26 22:26:36,699 - INFO - Total recent cases found: 0
+2025-12-26 22:26:36,699 - INFO - ============================================================
+2025-12-26 22:26:36,700 - INFO - Scraping completed!
+2025-12-26 22:26:36,700 - INFO - Total items scraped: 0
+2025-12-26 22:26:36,700 - INFO - Duration: 2.57 seconds
+2025-12-30 21:56:07,090 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-30 21:56:07,090 - INFO - Date filtering enabled: last 24 hours
+2025-12-30 21:56:07,090 - INFO - Initialized Clarkson Law Firm scraper
+2025-12-30 21:56:07,090 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-30 21:56:07,090 - INFO - ============================================================
+2025-12-30 21:56:07,090 - INFO - Starting Clarkson Law Firm scraper...
+2025-12-30 21:56:07,090 - INFO - ============================================================
+2025-12-30 21:56:07,104 - INFO - Filtering for cases newer than: 2025-12-26T17:20:07.445621+00:00
+2025-12-30 21:56:07,104 - INFO - Fetching: https://clarksonlawfirm.com/
+2025-12-30 21:56:08,531 - INFO - Fetching: https://clarksonlawfirm.com/lp/matt-weiss-university-of-michigan-cyber-abuse-investigation/
+2025-12-30 21:56:09,081 - INFO - 
+============================================================
+2025-12-30 21:56:09,081 - INFO - Clarkson Law Firm scraping complete!
+2025-12-30 21:56:09,081 - INFO - Total recent cases found: 0
+2025-12-30 21:56:09,081 - INFO - ============================================================
+2025-12-30 21:56:09,081 - INFO - Scraping completed!
+2025-12-30 21:56:09,085 - INFO - Total items scraped: 0
+2025-12-30 21:56:09,085 - INFO - Duration: 1.99 seconds

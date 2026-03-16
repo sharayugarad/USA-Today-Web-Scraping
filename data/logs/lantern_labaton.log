@@ -1,0 +1,1989 @@
+2025-11-06 02:11:22,602 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 02:11:22,607 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 02:11:22,612 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 02:11:22,615 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 02:11:22,616 - INFO - ============================================================
+2025-11-06 02:11:22,618 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 02:11:22,619 - INFO - ============================================================
+2025-11-06 02:11:22,677 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 02:11:22,683 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 02:11:22,684 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 02:11:25,413 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 02:11:25,414 - INFO - Found 9 case URLs to process
+2025-11-06 02:11:25,414 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 02:11:27,105 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 02:11:28,107 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-11-06 02:11:28,992 - INFO - Found open case: FloatMe - Lantern...
+2025-11-06 02:11:29,993 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 02:11:30,857 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 02:11:31,872 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 02:11:32,579 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 02:11:33,580 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 02:11:34,569 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 02:11:35,570 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 02:11:36,563 - INFO - Found open case: Albert - Lantern...
+2025-11-06 02:11:37,564 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 02:11:38,412 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 02:11:39,414 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 02:11:40,456 - INFO - Found open case: Klover - Lantern...
+2025-11-06 02:11:41,459 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 02:11:42,403 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 02:11:43,407 - INFO - 
+============================================================
+2025-11-06 02:11:43,409 - INFO - Lantern Labaton scraping complete!
+2025-11-06 02:11:43,410 - INFO - Total open cases found: 9
+2025-11-06 02:11:43,410 - INFO - ============================================================
+2025-11-06 02:11:43,413 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_021143.json
+2025-11-06 02:11:43,415 - INFO - Scraping completed!
+2025-11-06 02:11:43,416 - INFO - Total items scraped: 9
+2025-11-06 02:11:43,417 - INFO - Duration: 20.80 seconds
+2025-11-06 03:13:51,767 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 03:13:51,768 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 03:13:51,768 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 03:13:51,773 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 03:13:51,774 - INFO - ============================================================
+2025-11-06 03:13:51,775 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 03:13:51,776 - INFO - ============================================================
+2025-11-06 03:13:51,866 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 03:13:51,868 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 03:13:51,868 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 03:13:55,619 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 03:13:55,622 - INFO - Found 9 case URLs to process
+2025-11-06 03:13:55,623 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 03:13:56,950 - INFO - Found open case: Albert - Lantern...
+2025-11-06 03:13:57,954 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 03:13:59,059 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 03:14:00,064 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 03:14:01,182 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 03:14:02,185 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 03:14:02,972 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 03:14:03,974 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 03:14:04,832 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 03:14:05,834 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 03:14:06,876 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 03:14:07,878 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 03:14:09,117 - INFO - Found open case: Klover - Lantern...
+2025-11-06 03:14:10,118 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-11-06 03:14:11,173 - INFO - Found open case: FloatMe - Lantern...
+2025-11-06 03:14:12,196 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 03:14:13,818 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 03:14:14,820 - INFO - 
+============================================================
+2025-11-06 03:14:14,821 - INFO - Lantern Labaton scraping complete!
+2025-11-06 03:14:14,822 - INFO - Total open cases found: 9
+2025-11-06 03:14:14,823 - INFO - ============================================================
+2025-11-06 03:14:14,831 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_031414.json
+2025-11-06 03:14:14,833 - INFO - Scraping completed!
+2025-11-06 03:14:14,834 - INFO - Total items scraped: 9
+2025-11-06 03:14:14,835 - INFO - Duration: 23.06 seconds
+2025-11-06 21:02:13,914 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 21:02:13,917 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 21:02:13,919 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 21:02:13,922 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 21:02:13,923 - INFO - ============================================================
+2025-11-06 21:02:13,925 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 21:02:13,926 - INFO - ============================================================
+2025-11-06 21:02:14,036 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 21:02:14,039 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 21:02:14,040 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 21:02:17,966 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 21:02:17,967 - INFO - Found 9 case URLs to process
+2025-11-06 21:02:17,967 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 21:02:18,793 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 21:02:19,797 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 21:02:20,840 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 21:02:21,843 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 21:02:23,043 - INFO - Found open case: Klover - Lantern...
+2025-11-06 21:02:24,044 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 21:02:24,942 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 21:02:25,944 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-06 21:02:27,009 - INFO - Found open case: Tilt - Lantern...
+2025-11-06 21:02:28,011 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 21:02:28,918 - INFO - Found open case: Albert - Lantern...
+2025-11-06 21:02:29,920 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 21:02:30,879 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 21:02:31,881 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 21:02:32,758 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 21:02:33,760 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 21:02:34,587 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 21:02:35,589 - INFO - 
+============================================================
+2025-11-06 21:02:35,590 - INFO - Lantern Labaton scraping complete!
+2025-11-06 21:02:35,591 - INFO - Total open cases found: 9
+2025-11-06 21:02:35,598 - INFO - ============================================================
+2025-11-06 21:02:35,602 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_210235.json
+2025-11-06 21:02:35,603 - INFO - Scraping completed!
+2025-11-06 21:02:35,604 - INFO - Total items scraped: 9
+2025-11-06 21:02:35,605 - INFO - Duration: 21.68 seconds
+2025-11-06 21:47:58,137 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 21:47:58,138 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 21:47:58,139 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 21:47:58,140 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 21:47:58,141 - INFO - ============================================================
+2025-11-06 21:47:58,141 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 21:47:58,142 - INFO - ============================================================
+2025-11-06 21:47:58,189 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 21:47:58,189 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 21:47:58,190 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 21:47:59,743 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 21:47:59,744 - INFO - Found 9 case URLs to process
+2025-11-06 21:47:59,744 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-06 21:48:00,671 - INFO - Found open case: Tilt - Lantern...
+2025-11-06 21:48:01,672 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 21:48:02,163 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 21:48:03,164 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 21:48:03,870 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 21:48:04,871 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 21:48:05,320 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 21:48:06,321 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 21:48:07,273 - INFO - Found open case: Klover - Lantern...
+2025-11-06 21:48:08,274 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 21:48:09,306 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 21:48:10,308 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 21:48:11,113 - INFO - Found open case: Albert - Lantern...
+2025-11-06 22:44:53,500 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 22:44:56,081 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 22:44:57,082 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 22:44:58,018 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 22:44:59,019 - INFO - 
+============================================================
+2025-11-06 22:44:59,020 - INFO - Lantern Labaton scraping complete!
+2025-11-06 22:44:59,020 - INFO - Total open cases found: 9
+2025-11-06 22:44:59,021 - INFO - ============================================================
+2025-11-06 22:44:59,023 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_224459.json
+2025-11-06 22:44:59,023 - INFO - Scraping completed!
+2025-11-06 22:44:59,024 - INFO - Total items scraped: 9
+2025-11-06 22:44:59,024 - INFO - Duration: 3420.88 seconds
+2025-11-06 23:11:30,519 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 23:11:30,520 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:11:30,520 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 23:11:30,522 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 23:11:30,523 - INFO - ============================================================
+2025-11-06 23:11:30,524 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 23:11:30,525 - INFO - ============================================================
+2025-11-06 23:11:30,617 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 23:11:30,618 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 23:11:30,618 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 23:11:32,831 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 23:11:32,832 - INFO - Found 9 case URLs to process
+2025-11-06 23:11:32,834 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 23:11:33,610 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 23:11:34,613 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 23:11:35,537 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 23:11:36,539 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 23:11:37,501 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 23:11:38,503 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 23:11:39,492 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 23:11:40,494 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 23:11:41,389 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 23:11:42,392 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-06 23:11:42,891 - INFO - Found open case: Tilt - Lantern...
+2025-11-06 23:11:43,892 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 23:11:44,716 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 23:11:45,718 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 23:11:46,671 - INFO - Found open case: Klover - Lantern...
+2025-11-06 23:11:47,672 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 23:11:48,606 - INFO - Found open case: Albert - Lantern...
+2025-11-06 23:11:49,608 - INFO - 
+============================================================
+2025-11-06 23:11:49,609 - INFO - Lantern Labaton scraping complete!
+2025-11-06 23:11:49,610 - INFO - Total open cases found: 9
+2025-11-06 23:11:49,611 - INFO - ============================================================
+2025-11-06 23:11:49,617 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_231149.json
+2025-11-06 23:11:49,618 - INFO - Scraping completed!
+2025-11-06 23:11:49,621 - INFO - Total items scraped: 9
+2025-11-06 23:11:49,621 - INFO - Duration: 19.09 seconds
+2025-11-06 23:51:29,101 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 23:51:29,101 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:51:29,102 - INFO - Initialized Lantern Labaton scraper
+2025-11-06 23:51:29,102 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 23:51:29,103 - INFO - ============================================================
+2025-11-06 23:51:29,103 - INFO - Starting Lantern Labaton scraper...
+2025-11-06 23:51:29,104 - INFO - ============================================================
+2025-11-06 23:51:29,155 - INFO - First run - filtering for cases from last 24 hours
+2025-11-06 23:51:29,156 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-06 23:51:29,157 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-06 23:51:30,554 - INFO - Discovered 9 case URLs from explore page
+2025-11-06 23:51:30,554 - INFO - Found 9 case URLs to process
+2025-11-06 23:51:30,554 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-06 23:51:31,031 - INFO - Found open case: Twilio - Lantern...
+2025-11-06 23:51:32,034 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-06 23:51:32,691 - INFO - Found open case: Cleo - Lantern...
+2025-11-06 23:51:33,692 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-06 23:51:34,596 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-06 23:51:35,598 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-06 23:51:36,065 - INFO - Found open case: Tilt - Lantern...
+2025-11-06 23:51:37,066 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-06 23:51:37,468 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-06 23:51:38,469 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-06 23:51:38,886 - INFO - Found open case: Albert - Lantern...
+2025-11-06 23:51:39,887 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-06 23:51:40,658 - INFO - Found open case: Klover - Lantern...
+2025-11-06 23:51:41,660 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-06 23:51:42,596 - INFO - Found open case: Finicity - Lantern...
+2025-11-06 23:51:43,597 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-06 23:51:44,543 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-06 23:51:45,545 - INFO - 
+============================================================
+2025-11-06 23:51:45,546 - INFO - Lantern Labaton scraping complete!
+2025-11-06 23:51:45,547 - INFO - Total open cases found: 9
+2025-11-06 23:51:45,548 - INFO - ============================================================
+2025-11-06 23:51:45,552 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251106_235145.json
+2025-11-06 23:51:45,555 - INFO - Scraping completed!
+2025-11-06 23:51:45,558 - INFO - Total items scraped: 9
+2025-11-06 23:51:45,558 - INFO - Duration: 16.45 seconds
+2025-11-07 20:51:39,558 - INFO - Initialized Lantern Labaton scraper
+2025-11-07 20:51:39,588 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:51:39,593 - INFO - Initialized Lantern Labaton scraper
+2025-11-07 20:51:39,605 - INFO - Starting Lantern Labaton scraper...
+2025-11-07 20:51:39,609 - INFO - ============================================================
+2025-11-07 20:51:39,618 - INFO - Starting Lantern Labaton scraper...
+2025-11-07 20:51:39,622 - INFO - ============================================================
+2025-11-07 20:51:40,935 - INFO - First run - filtering for cases from last 24 hours
+2025-11-07 20:51:40,939 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-07 20:51:40,945 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-07 20:51:45,854 - INFO - Discovered 9 case URLs from explore page
+2025-11-07 20:51:45,860 - INFO - Found 9 case URLs to process
+2025-11-07 20:51:45,885 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-07 20:51:47,371 - INFO - Found open case: Albert - Lantern...
+2025-11-07 20:51:48,375 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-07 20:51:49,252 - INFO - Found open case: Finicity - Lantern...
+2025-11-07 20:51:50,255 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-07 20:51:51,115 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-07 20:51:52,117 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-07 20:51:52,935 - INFO - Found open case: Cleo - Lantern...
+2025-11-07 20:51:53,937 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-11-07 20:51:54,778 - INFO - Found open case: FloatMe - Lantern...
+2025-11-07 20:51:55,792 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-07 20:51:56,599 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-07 20:51:57,611 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-07 20:51:58,427 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-07 20:51:59,428 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-07 20:52:00,368 - INFO - Found open case: Twilio - Lantern...
+2025-11-07 20:52:01,373 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-07 20:52:02,192 - INFO - Found open case: Klover - Lantern...
+2025-11-07 20:52:03,209 - INFO - 
+============================================================
+2025-11-07 20:52:03,210 - INFO - Lantern Labaton scraping complete!
+2025-11-07 20:52:03,211 - INFO - Total open cases found: 9
+2025-11-07 20:52:03,212 - INFO - ============================================================
+2025-11-07 20:52:03,228 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251107_205203.json
+2025-11-07 20:52:03,233 - INFO - Scraping completed!
+2025-11-07 20:52:03,235 - INFO - Total items scraped: 9
+2025-11-07 20:52:03,240 - INFO - Duration: 23.62 seconds
+2025-11-10 20:57:58,263 - INFO - Initialized Lantern Labaton scraper
+2025-11-10 20:57:58,264 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 20:57:58,265 - INFO - Initialized Lantern Labaton scraper
+2025-11-10 20:57:58,265 - INFO - Starting Lantern Labaton scraper...
+2025-11-10 20:57:58,266 - INFO - ============================================================
+2025-11-10 20:57:58,266 - INFO - Starting Lantern Labaton scraper...
+2025-11-10 20:57:58,268 - INFO - ============================================================
+2025-11-10 20:57:58,309 - INFO - First run - filtering for cases from last 24 hours
+2025-11-10 20:57:58,309 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-10 20:57:58,309 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-10 20:58:00,098 - INFO - Discovered 9 case URLs from explore page
+2025-11-10 20:58:00,099 - INFO - Found 9 case URLs to process
+2025-11-10 20:58:00,099 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-10 20:58:00,594 - INFO - Found open case: Albert - Lantern...
+2025-11-10 20:58:01,595 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-10 20:58:02,423 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-10 20:58:03,424 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-10 20:58:04,282 - INFO - Found open case: Twilio - Lantern...
+2025-11-10 20:58:05,283 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-10 20:58:05,686 - INFO - Found open case: Tilt - Lantern...
+2025-11-10 20:58:06,687 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-10 20:58:07,546 - INFO - Found open case: Klover - Lantern...
+2025-11-10 20:58:08,547 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-10 20:58:09,419 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-10 20:58:10,419 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-10 20:58:10,860 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-10 20:58:11,861 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-10 20:58:12,715 - INFO - Found open case: Cleo - Lantern...
+2025-11-10 20:58:13,716 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-10 20:58:14,587 - INFO - Found open case: Finicity - Lantern...
+2025-11-10 20:58:15,588 - INFO - 
+============================================================
+2025-11-10 20:58:15,589 - INFO - Lantern Labaton scraping complete!
+2025-11-10 20:58:15,590 - INFO - Total open cases found: 9
+2025-11-10 20:58:15,591 - INFO - ============================================================
+2025-11-10 20:58:15,594 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251110_205815.json
+2025-11-10 20:58:15,594 - INFO - Scraping completed!
+2025-11-10 20:58:15,595 - INFO - Total items scraped: 9
+2025-11-10 20:58:15,595 - INFO - Duration: 17.33 seconds
+2025-11-10 23:15:51,050 - INFO - Initialized Lantern Labaton scraper
+2025-11-10 23:15:51,050 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 23:15:51,051 - INFO - Initialized Lantern Labaton scraper
+2025-11-10 23:15:51,052 - INFO - Starting Lantern Labaton scraper...
+2025-11-10 23:15:51,053 - INFO - ============================================================
+2025-11-10 23:15:51,053 - INFO - Starting Lantern Labaton scraper...
+2025-11-10 23:15:51,053 - INFO - ============================================================
+2025-11-10 23:15:51,101 - INFO - First run - filtering for cases from last 24 hours
+2025-11-10 23:15:51,101 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-10 23:15:51,101 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-10 23:15:52,910 - INFO - Discovered 9 case URLs from explore page
+2025-11-10 23:15:52,911 - INFO - Found 9 case URLs to process
+2025-11-10 23:15:52,911 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-10 23:15:53,835 - INFO - Found open case: Twilio - Lantern...
+2025-11-10 23:15:54,836 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-10 23:15:55,741 - INFO - Found open case: Albert - Lantern...
+2025-11-10 23:15:56,743 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-10 23:15:57,491 - INFO - Found open case: Cleo - Lantern...
+2025-11-10 23:15:58,493 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-10 23:15:59,115 - INFO - Found open case: Tilt - Lantern...
+2025-11-10 23:16:00,115 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-10 23:16:00,796 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-10 23:16:01,798 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-10 23:16:02,546 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-10 23:16:03,546 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-10 23:16:04,263 - INFO - Found open case: Finicity - Lantern...
+2025-11-10 23:16:05,265 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-10 23:16:06,368 - INFO - Found open case: Prosper - Lantern...
+2025-11-10 23:16:07,369 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-10 23:16:08,001 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-10 23:16:09,002 - INFO - 
+============================================================
+2025-11-10 23:16:09,003 - INFO - Lantern Labaton scraping complete!
+2025-11-10 23:16:09,004 - INFO - Total open cases found: 9
+2025-11-10 23:16:09,004 - INFO - ============================================================
+2025-11-10 23:16:09,006 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251110_231609.json
+2025-11-10 23:16:09,007 - INFO - Scraping completed!
+2025-11-10 23:16:09,007 - INFO - Total items scraped: 9
+2025-11-10 23:16:09,007 - INFO - Duration: 17.95 seconds
+2025-11-11 02:29:27,262 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 02:29:27,263 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 02:29:27,264 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 02:29:27,265 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 02:29:27,266 - INFO - ============================================================
+2025-11-11 02:29:27,266 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 02:29:27,266 - INFO - ============================================================
+2025-11-11 02:29:27,308 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 02:29:27,308 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-11 02:29:27,308 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-11 02:29:28,420 - INFO - Discovered 9 case URLs from explore page
+2025-11-11 02:29:28,421 - INFO - Found 9 case URLs to process
+2025-11-11 02:29:28,421 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-11 02:29:29,071 - INFO - Found open case: Albert - Lantern...
+2025-11-11 02:29:30,072 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-11 02:29:30,891 - INFO - Found open case: Twilio - Lantern...
+2025-11-11 02:29:31,893 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-11 02:29:32,583 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-11 02:29:33,584 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-11 02:29:34,309 - INFO - Found open case: Prosper - Lantern...
+2025-11-11 02:29:35,310 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-11 02:29:36,362 - INFO - Found open case: Cleo - Lantern...
+2025-11-11 02:29:37,363 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-11 02:29:38,277 - INFO - Found open case: Finicity - Lantern...
+2025-11-11 02:29:39,278 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-11 02:29:40,166 - INFO - Found open case: Tilt - Lantern...
+2025-11-11 02:29:41,167 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-11 02:29:41,860 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-11 02:29:42,861 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-11 02:29:43,837 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-11 02:29:44,838 - INFO - 
+============================================================
+2025-11-11 02:29:44,839 - INFO - Lantern Labaton scraping complete!
+2025-11-11 02:29:44,840 - INFO - Total open cases found: 9
+2025-11-11 02:29:44,841 - INFO - ============================================================
+2025-11-11 02:29:44,843 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251111_022944.json
+2025-11-11 02:29:44,843 - INFO - Scraping completed!
+2025-11-11 02:29:44,844 - INFO - Total items scraped: 9
+2025-11-11 02:29:44,844 - INFO - Duration: 17.58 seconds
+2025-11-11 03:01:59,476 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 03:01:59,477 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 03:01:59,477 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 03:01:59,479 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 03:01:59,479 - INFO - ============================================================
+2025-11-11 03:01:59,479 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 03:01:59,480 - INFO - ============================================================
+2025-11-11 03:01:59,532 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 03:01:59,533 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-11 03:01:59,533 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-11 03:02:01,038 - INFO - Discovered 9 case URLs from explore page
+2025-11-11 03:02:01,038 - INFO - Found 9 case URLs to process
+2025-11-11 03:02:01,039 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-11 03:02:01,899 - INFO - Found open case: Twilio - Lantern...
+2025-11-11 03:02:02,901 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-11 03:02:03,786 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-11 03:02:04,787 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-11 03:02:05,213 - INFO - Found open case: Tilt - Lantern...
+2025-11-11 03:02:06,214 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-11 03:02:06,662 - INFO - Found open case: Prosper - Lantern...
+2025-11-11 03:02:07,663 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-11 03:02:08,571 - INFO - Found open case: Cleo - Lantern...
+2025-11-11 03:02:09,572 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-11 03:02:10,329 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-11 03:02:11,335 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-11 03:02:11,995 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-11 03:02:12,996 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-11 03:02:13,878 - INFO - Found open case: Finicity - Lantern...
+2025-11-11 03:02:14,879 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-11 03:02:15,788 - INFO - Found open case: Albert - Lantern...
+2025-11-11 03:02:16,789 - INFO - 
+============================================================
+2025-11-11 03:02:16,790 - INFO - Lantern Labaton scraping complete!
+2025-11-11 03:02:16,791 - INFO - Total open cases found: 9
+2025-11-11 03:02:16,791 - INFO - ============================================================
+2025-11-11 03:02:16,793 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251111_030216.json
+2025-11-11 03:02:16,794 - INFO - Scraping completed!
+2025-11-11 03:02:16,794 - INFO - Total items scraped: 9
+2025-11-11 03:02:16,795 - INFO - Duration: 17.32 seconds
+2025-11-11 22:08:34,053 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 22:08:34,055 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:08:34,055 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 22:08:34,055 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 22:08:34,055 - INFO - ============================================================
+2025-11-11 22:08:34,056 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 22:08:34,056 - INFO - ============================================================
+2025-11-11 22:08:34,112 - INFO - First run - filtering for cases from last 24 hours
+2025-11-11 22:08:34,113 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-11 22:08:34,113 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-11 22:08:35,488 - INFO - Discovered 9 case URLs from explore page
+2025-11-11 22:08:35,489 - INFO - Found 9 case URLs to process
+2025-11-11 22:08:35,490 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-11 22:08:36,674 - INFO - Found open case: Tilt - Lantern...
+2025-11-11 22:08:37,675 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-11 22:08:38,722 - INFO - Found open case: Finicity - Lantern...
+2025-11-11 22:08:39,725 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-11 22:08:40,658 - INFO - Found open case: Cleo - Lantern...
+2025-11-11 22:08:41,660 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-11 22:08:42,746 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-11 22:08:43,748 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-11 22:08:44,559 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-11 22:08:45,561 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-11 22:08:46,334 - INFO - Found open case: Albert - Lantern...
+2025-11-11 22:08:47,335 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-11 22:08:48,366 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-11 22:08:49,369 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-11 22:08:50,525 - INFO - Found open case: Twilio - Lantern...
+2025-11-11 22:08:51,528 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-11 22:08:51,982 - INFO - Found open case: Prosper - Lantern...
+2025-11-11 22:08:52,983 - INFO - 
+============================================================
+2025-11-11 22:08:52,985 - INFO - Lantern Labaton scraping complete!
+2025-11-11 22:08:52,985 - INFO - Total open cases found: 9
+2025-11-11 22:08:52,986 - INFO - ============================================================
+2025-11-11 22:08:52,989 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251111_220852.json
+2025-11-11 22:08:52,995 - INFO - Scraping completed!
+2025-11-11 22:08:52,995 - INFO - Total items scraped: 9
+2025-11-11 22:08:52,996 - INFO - Duration: 18.94 seconds
+2025-11-11 22:34:05,104 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 22:34:05,104 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:34:05,109 - INFO - Initialized Lantern Labaton scraper
+2025-11-11 22:34:05,111 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 22:34:05,111 - INFO - ============================================================
+2025-11-11 22:34:05,111 - INFO - Starting Lantern Labaton scraper...
+2025-11-11 22:34:05,111 - INFO - ============================================================
+2025-11-11 22:34:05,171 - INFO - Filtering for cases newer than: 2025-11-11T16:43:28.958545+00:00
+2025-11-11 22:34:05,172 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-11 22:34:05,172 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-11 22:34:08,915 - INFO - Discovered 9 case URLs from explore page
+2025-11-11 22:34:08,916 - INFO - Found 9 case URLs to process
+2025-11-11 22:34:08,917 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-11 22:34:09,377 - INFO - Found open case: Albert - Lantern...
+2025-11-11 22:34:10,383 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-11 22:34:10,793 - INFO - Found open case: Cleo - Lantern...
+2025-11-11 22:34:11,795 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-11 22:34:12,251 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-11 22:34:13,252 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-11 22:34:14,517 - INFO - Found open case: Tilt - Lantern...
+2025-11-11 22:34:15,518 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-11 22:34:16,082 - INFO - Found open case: Finicity - Lantern...
+2025-11-11 22:34:17,083 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-11 22:34:17,491 - INFO - Found open case: Twilio - Lantern...
+2025-11-11 22:34:18,492 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-11 22:34:18,949 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-11 22:34:19,950 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-11 22:34:20,401 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-11 22:34:21,402 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-11 22:34:21,831 - INFO - Found open case: Prosper - Lantern...
+2025-11-11 22:34:22,832 - INFO - 
+============================================================
+2025-11-11 22:34:22,833 - INFO - Lantern Labaton scraping complete!
+2025-11-11 22:34:22,834 - INFO - Total open cases found: 9
+2025-11-11 22:34:22,838 - INFO - ============================================================
+2025-11-11 22:34:22,842 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251111_223422.json
+2025-11-11 22:34:22,843 - INFO - Scraping completed!
+2025-11-11 22:34:22,848 - INFO - Total items scraped: 9
+2025-11-11 22:34:22,849 - INFO - Duration: 17.73 seconds
+2025-11-12 00:14:01,439 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 00:14:01,440 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:14:01,440 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 00:14:01,440 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 00:14:01,441 - INFO - ============================================================
+2025-11-12 00:14:01,441 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 00:14:01,442 - INFO - ============================================================
+2025-11-12 00:14:01,484 - INFO - Filtering for cases newer than: 2025-11-11T17:08:38.676768+00:00
+2025-11-12 00:14:01,485 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-12 00:14:01,485 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-12 00:14:02,908 - INFO - Discovered 9 case URLs from explore page
+2025-11-12 00:14:02,909 - INFO - Found 9 case URLs to process
+2025-11-12 00:14:02,909 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-12 00:14:03,298 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-12 00:14:04,299 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-12 00:14:05,353 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-12 00:14:06,354 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-12 00:14:07,242 - INFO - Found open case: Cleo - Lantern...
+2025-11-12 00:14:08,244 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-12 00:14:08,667 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-12 00:14:09,668 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-12 00:14:10,544 - INFO - Found open case: Tilt - Lantern...
+2025-11-12 00:14:11,545 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-12 00:14:11,950 - INFO - Found open case: Finicity - Lantern...
+2025-11-12 00:14:12,951 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-12 00:14:13,419 - INFO - Found open case: Prosper - Lantern...
+2025-11-12 00:14:14,420 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-12 00:14:15,073 - INFO - Found open case: Twilio - Lantern...
+2025-11-12 00:14:16,075 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-12 00:14:16,517 - INFO - Found open case: Albert - Lantern...
+2025-11-12 00:14:17,518 - INFO - 
+============================================================
+2025-11-12 00:14:17,519 - INFO - Lantern Labaton scraping complete!
+2025-11-12 00:14:17,519 - INFO - Total open cases found: 9
+2025-11-12 00:14:17,520 - INFO - ============================================================
+2025-11-12 00:14:17,522 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251112_001417.json
+2025-11-12 00:14:17,523 - INFO - Scraping completed!
+2025-11-12 00:14:17,524 - INFO - Total items scraped: 9
+2025-11-12 00:14:17,524 - INFO - Duration: 16.08 seconds
+2025-11-12 00:48:10,997 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 00:48:10,997 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:48:10,998 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 00:48:10,998 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 00:48:10,998 - INFO - ============================================================
+2025-11-12 00:48:10,998 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 00:48:10,998 - INFO - ============================================================
+2025-11-12 00:48:11,030 - INFO - Filtering for cases newer than: 2025-11-11T18:48:17.214163+00:00
+2025-11-12 00:48:11,030 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-12 00:48:11,031 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-12 00:48:13,012 - INFO - Discovered 9 case URLs from explore page
+2025-11-12 00:48:13,013 - INFO - Found 9 case URLs to process
+2025-11-12 00:48:13,013 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-12 00:48:13,386 - INFO - Found open case: Prosper - Lantern...
+2025-11-12 00:48:14,387 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-12 00:48:14,810 - INFO - Found open case: Finicity - Lantern...
+2025-11-12 00:48:15,810 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-12 00:48:16,196 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-12 00:48:17,197 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-12 00:48:17,613 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-12 00:48:18,615 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-12 00:48:19,053 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-12 00:48:20,055 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-12 00:48:20,490 - INFO - Found open case: Tilt - Lantern...
+2025-11-12 00:48:21,491 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-12 00:48:22,181 - INFO - Found open case: Cleo - Lantern...
+2025-11-12 00:48:23,182 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-12 00:48:23,608 - INFO - Found open case: Twilio - Lantern...
+2025-11-12 00:48:24,610 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-12 00:48:25,039 - INFO - Found open case: Albert - Lantern...
+2025-11-12 00:48:26,040 - INFO - 
+============================================================
+2025-11-12 00:48:26,041 - INFO - Lantern Labaton scraping complete!
+2025-11-12 00:48:26,041 - INFO - Total open cases found: 9
+2025-11-12 00:48:26,042 - INFO - ============================================================
+2025-11-12 00:48:26,044 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251112_004826.json
+2025-11-12 00:48:26,045 - INFO - Scraping completed!
+2025-11-12 00:48:26,046 - INFO - Total items scraped: 9
+2025-11-12 00:48:26,047 - INFO - Duration: 15.05 seconds
+2025-11-12 21:13:59,877 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 21:13:59,877 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 21:13:59,878 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 21:13:59,878 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 21:13:59,878 - INFO - ============================================================
+2025-11-12 21:13:59,878 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 21:13:59,879 - INFO - ============================================================
+2025-11-12 21:13:59,910 - INFO - Filtering for cases newer than: 2025-11-11T19:21:45.053677+00:00
+2025-11-12 21:13:59,910 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-12 21:13:59,910 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-12 21:14:01,813 - INFO - Discovered 9 case URLs from explore page
+2025-11-12 21:14:01,814 - INFO - Found 9 case URLs to process
+2025-11-12 21:14:01,815 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-12 21:14:02,695 - INFO - Found open case: Cleo - Lantern...
+2025-11-12 21:14:03,696 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-12 21:14:07,732 - INFO - Found open case: Albert - Lantern...
+2025-11-12 21:14:08,733 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-12 21:14:11,062 - INFO - Found open case: Twilio - Lantern...
+2025-11-12 21:14:12,063 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-12 21:14:12,908 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-12 21:14:13,909 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-12 21:14:14,640 - INFO - Found open case: Prosper - Lantern...
+2025-11-12 21:14:15,641 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-12 21:14:16,984 - INFO - Found open case: Finicity - Lantern...
+2025-11-12 21:14:17,985 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-12 21:14:18,748 - INFO - Found open case: Tilt - Lantern...
+2025-11-12 21:14:19,749 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-12 21:14:26,408 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-12 21:14:27,409 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-12 21:14:30,185 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-12 21:14:31,186 - INFO - 
+============================================================
+2025-11-12 21:14:31,187 - INFO - Lantern Labaton scraping complete!
+2025-11-12 21:14:31,187 - INFO - Total open cases found: 9
+2025-11-12 21:14:31,188 - INFO - ============================================================
+2025-11-12 21:14:31,190 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251112_211431.json
+2025-11-12 21:14:31,191 - INFO - Scraping completed!
+2025-11-12 21:14:31,191 - INFO - Total items scraped: 9
+2025-11-12 21:14:31,192 - INFO - Duration: 31.31 seconds
+2025-11-12 22:32:48,761 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 22:32:48,762 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 22:32:48,763 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 22:32:48,763 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 22:32:48,763 - INFO - ============================================================
+2025-11-12 22:32:48,763 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 22:32:48,764 - INFO - ============================================================
+2025-11-12 22:32:48,830 - INFO - Filtering for cases newer than: 2025-11-12T15:49:47.538065+00:00
+2025-11-12 22:32:48,830 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-12 22:32:48,831 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-12 22:32:51,601 - INFO - Discovered 9 case URLs from explore page
+2025-11-12 22:32:51,602 - INFO - Found 9 case URLs to process
+2025-11-12 22:32:51,603 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-12 22:32:52,119 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-12 22:32:53,120 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-12 22:32:54,141 - INFO - Found open case: Cleo - Lantern...
+2025-11-12 22:32:55,143 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-12 22:32:55,594 - INFO - Found open case: Twilio - Lantern...
+2025-11-12 22:32:56,595 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-12 22:32:57,069 - INFO - Found open case: Tilt - Lantern...
+2025-11-12 22:32:58,071 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-12 22:32:58,582 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-12 22:32:59,584 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-12 22:33:00,269 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-12 22:33:01,270 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-12 22:33:01,816 - INFO - Found open case: Finicity - Lantern...
+2025-11-12 22:33:02,818 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-12 22:33:03,305 - INFO - Found open case: Prosper - Lantern...
+2025-11-12 22:33:04,307 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-12 22:33:04,717 - INFO - Found open case: Albert - Lantern...
+2025-11-12 22:33:05,718 - INFO - 
+============================================================
+2025-11-12 22:33:05,719 - INFO - Lantern Labaton scraping complete!
+2025-11-12 22:33:05,720 - INFO - Total open cases found: 9
+2025-11-12 22:33:05,720 - INFO - ============================================================
+2025-11-12 22:33:05,722 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251112_223305.json
+2025-11-12 22:33:05,722 - INFO - Scraping completed!
+2025-11-12 22:33:05,722 - INFO - Total items scraped: 9
+2025-11-12 22:33:05,723 - INFO - Duration: 16.96 seconds
+2025-11-12 23:04:30,699 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 23:04:30,700 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 23:04:30,701 - INFO - Initialized Lantern Labaton scraper
+2025-11-12 23:04:30,701 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 23:04:30,701 - INFO - ============================================================
+2025-11-12 23:04:30,702 - INFO - Starting Lantern Labaton scraper...
+2025-11-12 23:04:30,704 - INFO - ============================================================
+2025-11-12 23:04:30,764 - INFO - Filtering for cases newer than: 2025-11-12T17:07:07.276064+00:00
+2025-11-12 23:04:30,765 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-12 23:04:30,765 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-12 23:04:32,744 - INFO - Discovered 9 case URLs from explore page
+2025-11-12 23:04:32,744 - INFO - Found 9 case URLs to process
+2025-11-12 23:04:32,745 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-12 23:04:33,301 - INFO - Found open case: Finicity - Lantern...
+2025-11-12 23:04:34,302 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-12 23:04:34,748 - INFO - Found open case: Albert - Lantern...
+2025-11-12 23:04:35,750 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-12 23:04:36,270 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-12 23:04:37,271 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-12 23:04:37,795 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-12 23:04:38,797 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-12 23:04:39,556 - INFO - Found open case: Cleo - Lantern...
+2025-11-12 23:04:40,558 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-12 23:04:41,083 - INFO - Found open case: Tilt - Lantern...
+2025-11-12 23:04:42,084 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-12 23:04:42,523 - INFO - Found open case: Twilio - Lantern...
+2025-11-12 23:04:43,525 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-12 23:04:44,074 - INFO - Found open case: Prosper - Lantern...
+2025-11-12 23:04:45,075 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-12 23:04:45,509 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-12 23:04:46,511 - INFO - 
+============================================================
+2025-11-12 23:04:46,512 - INFO - Lantern Labaton scraping complete!
+2025-11-12 23:04:46,513 - INFO - Total open cases found: 9
+2025-11-12 23:04:46,514 - INFO - ============================================================
+2025-11-12 23:04:46,516 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251112_230446.json
+2025-11-12 23:04:46,517 - INFO - Scraping completed!
+2025-11-12 23:04:46,521 - INFO - Total items scraped: 9
+2025-11-12 23:04:46,522 - INFO - Duration: 15.82 seconds
+2025-11-13 20:45:50,380 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 20:45:50,380 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 20:45:50,381 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 20:45:50,381 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 20:45:50,381 - INFO - ============================================================
+2025-11-13 20:45:50,381 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 20:45:50,381 - INFO - ============================================================
+2025-11-13 20:45:50,419 - INFO - Filtering for cases newer than: 2025-11-12T17:39:23.915111+00:00
+2025-11-13 20:45:50,419 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-13 20:45:50,419 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-13 20:45:52,616 - INFO - Discovered 9 case URLs from explore page
+2025-11-13 20:45:52,616 - INFO - Found 9 case URLs to process
+2025-11-13 20:45:52,617 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-13 20:45:53,755 - INFO - Found open case: Twilio - Lantern...
+2025-11-13 20:45:54,756 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-13 20:45:55,233 - INFO - Found open case: Albert - Lantern...
+2025-11-13 20:45:56,235 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-13 20:45:57,928 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-13 20:45:58,930 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-13 20:45:59,950 - INFO - Found open case: Finicity - Lantern...
+2025-11-13 20:46:00,952 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-13 20:46:01,361 - INFO - Found open case: Cleo - Lantern...
+2025-11-13 20:46:02,362 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-13 20:46:02,808 - INFO - Found open case: Tilt - Lantern...
+2025-11-13 20:46:03,809 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-13 20:46:04,647 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-13 20:46:05,648 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-13 20:46:06,050 - INFO - Found open case: Prosper - Lantern...
+2025-11-13 20:46:07,051 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-13 20:46:08,045 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-13 20:46:09,046 - INFO - 
+============================================================
+2025-11-13 20:46:09,047 - INFO - Lantern Labaton scraping complete!
+2025-11-13 20:46:09,048 - INFO - Total open cases found: 9
+2025-11-13 20:46:09,048 - INFO - ============================================================
+2025-11-13 20:46:09,055 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251113_204609.json
+2025-11-13 20:46:09,055 - INFO - Scraping completed!
+2025-11-13 20:46:09,056 - INFO - Total items scraped: 9
+2025-11-13 20:46:09,056 - INFO - Duration: 18.67 seconds
+2025-11-13 22:23:23,678 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 22:23:23,678 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:23:23,680 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 22:23:23,680 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 22:23:23,681 - INFO - ============================================================
+2025-11-13 22:23:23,681 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 22:23:23,682 - INFO - ============================================================
+2025-11-13 22:23:23,739 - INFO - Filtering for cases newer than: 2025-11-12T17:39:23.915111+00:00
+2025-11-13 22:23:23,739 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-13 22:23:23,739 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-13 22:23:26,278 - INFO - Discovered 9 case URLs from explore page
+2025-11-13 22:23:26,279 - INFO - Found 9 case URLs to process
+2025-11-13 22:23:26,281 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-13 22:23:27,136 - INFO - Found open case: Albert - Lantern...
+2025-11-13 22:23:28,137 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-13 22:23:29,168 - INFO - Found open case: Finicity - Lantern...
+2025-11-13 22:23:30,170 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-13 22:23:31,131 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-13 22:23:32,133 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-13 22:23:32,803 - INFO - Found open case: Cleo - Lantern...
+2025-11-13 22:23:33,804 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-13 22:23:34,315 - INFO - Found open case: Tilt - Lantern...
+2025-11-13 22:23:35,317 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-13 22:23:36,058 - INFO - Found open case: Twilio - Lantern...
+2025-11-13 22:23:37,061 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-13 22:23:37,799 - INFO - Found open case: Prosper - Lantern...
+2025-11-13 22:23:38,801 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-13 22:23:39,942 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-13 22:23:40,943 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-13 22:23:41,871 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-13 22:23:42,872 - INFO - 
+============================================================
+2025-11-13 22:23:42,883 - INFO - Lantern Labaton scraping complete!
+2025-11-13 22:23:42,894 - INFO - Total open cases found: 9
+2025-11-13 22:23:42,897 - INFO - ============================================================
+2025-11-13 22:23:42,899 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251113_222342.json
+2025-11-13 22:23:42,902 - INFO - Scraping completed!
+2025-11-13 22:23:42,902 - INFO - Total items scraped: 9
+2025-11-13 22:23:42,903 - INFO - Duration: 19.22 seconds
+2025-11-13 22:43:12,262 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 22:43:12,262 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:43:12,263 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 22:43:12,263 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 22:43:12,266 - INFO - ============================================================
+2025-11-13 22:43:12,267 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 22:43:12,268 - INFO - ============================================================
+2025-11-13 22:43:12,311 - INFO - Filtering for cases newer than: 2025-11-12T17:39:23.915111+00:00
+2025-11-13 22:43:12,311 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-13 22:43:12,311 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-13 22:43:13,502 - INFO - Discovered 9 case URLs from explore page
+2025-11-13 22:43:13,504 - INFO - Found 9 case URLs to process
+2025-11-13 22:43:13,504 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-13 22:43:14,481 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-13 22:43:15,483 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-13 22:43:16,367 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-13 22:43:17,368 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-13 22:43:18,128 - INFO - Found open case: Prosper - Lantern...
+2025-11-13 22:43:19,130 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-13 22:43:19,852 - INFO - Found open case: Tilt - Lantern...
+2025-11-13 22:43:20,853 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-13 22:43:21,698 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-13 22:43:22,700 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-13 22:43:23,436 - INFO - Found open case: Twilio - Lantern...
+2025-11-13 22:43:24,437 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-13 22:43:25,486 - INFO - Found open case: Finicity - Lantern...
+2025-11-13 22:43:26,488 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-13 22:43:27,644 - INFO - Found open case: Albert - Lantern...
+2025-11-13 22:43:28,646 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-13 22:43:29,369 - INFO - Found open case: Cleo - Lantern...
+2025-11-13 22:43:30,371 - INFO - 
+============================================================
+2025-11-13 22:43:30,372 - INFO - Lantern Labaton scraping complete!
+2025-11-13 22:43:30,373 - INFO - Total open cases found: 9
+2025-11-13 22:43:30,374 - INFO - ============================================================
+2025-11-13 22:43:30,376 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251113_224330.json
+2025-11-13 22:43:30,381 - INFO - Scraping completed!
+2025-11-13 22:43:30,385 - INFO - Total items scraped: 9
+2025-11-13 22:43:30,388 - INFO - Duration: 18.11 seconds
+2025-11-13 23:12:37,176 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 23:12:37,177 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 23:12:37,178 - INFO - Initialized Lantern Labaton scraper
+2025-11-13 23:12:37,179 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 23:12:37,180 - INFO - ============================================================
+2025-11-13 23:12:37,181 - INFO - Starting Lantern Labaton scraper...
+2025-11-13 23:12:37,182 - INFO - ============================================================
+2025-11-13 23:12:37,317 - INFO - Filtering for cases newer than: 2025-11-12T17:39:23.915111+00:00
+2025-11-13 23:12:37,320 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-13 23:12:37,321 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-13 23:12:40,707 - INFO - Discovered 9 case URLs from explore page
+2025-11-13 23:12:40,708 - INFO - Found 9 case URLs to process
+2025-11-13 23:12:40,710 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-13 23:12:41,265 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-13 23:12:42,267 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-13 23:12:42,900 - INFO - Found open case: Finicity - Lantern...
+2025-11-13 23:12:43,933 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-13 23:12:44,612 - INFO - Found open case: Albert - Lantern...
+2025-11-13 23:12:45,614 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-13 23:12:46,202 - INFO - Found open case: Prosper - Lantern...
+2025-11-13 23:12:47,206 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-13 23:12:47,851 - INFO - Found open case: Cleo - Lantern...
+2025-11-13 23:12:48,873 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-13 23:12:49,430 - INFO - Found open case: Twilio - Lantern...
+2025-11-13 23:12:50,432 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-13 23:12:51,318 - INFO - Found open case: Tilt - Lantern...
+2025-11-13 23:12:52,321 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-13 23:12:52,964 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-13 23:12:53,966 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-13 23:12:54,544 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-13 23:12:55,547 - INFO - 
+============================================================
+2025-11-13 23:12:55,550 - INFO - Lantern Labaton scraping complete!
+2025-11-13 23:12:55,553 - INFO - Total open cases found: 9
+2025-11-13 23:12:55,555 - INFO - ============================================================
+2025-11-13 23:12:55,579 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251113_231255.json
+2025-11-13 23:12:55,593 - INFO - Scraping completed!
+2025-11-13 23:12:55,595 - INFO - Total items scraped: 9
+2025-11-13 23:12:55,603 - INFO - Duration: 18.41 seconds
+2025-11-14 20:06:14,444 - INFO - Initialized Lantern Labaton scraper
+2025-11-14 20:06:14,447 - INFO - Date filtering enabled: last 24 hours
+2025-11-14 20:06:14,448 - INFO - Initialized Lantern Labaton scraper
+2025-11-14 20:06:14,449 - INFO - Starting Lantern Labaton scraper...
+2025-11-14 20:06:14,450 - INFO - ============================================================
+2025-11-14 20:06:14,451 - INFO - Starting Lantern Labaton scraper...
+2025-11-14 20:06:14,452 - INFO - ============================================================
+2025-11-14 20:06:14,551 - INFO - Filtering for cases newer than: 2025-11-13T17:47:42.219769+00:00
+2025-11-14 20:06:14,552 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-14 20:06:14,553 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-14 20:06:17,049 - INFO - Discovered 9 case URLs from explore page
+2025-11-14 20:06:17,054 - INFO - Found 9 case URLs to process
+2025-11-14 20:06:17,056 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-14 20:06:17,971 - INFO - Found open case: Prosper - Lantern...
+2025-11-14 20:06:18,978 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-14 20:06:19,570 - INFO - Found open case: Twilio - Lantern...
+2025-11-14 20:06:20,571 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-14 20:06:21,506 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-14 20:06:22,508 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-14 20:06:23,219 - INFO - Found open case: Cleo - Lantern...
+2025-11-14 20:06:24,220 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-14 20:06:25,175 - INFO - Found open case: Albert - Lantern...
+2025-11-14 20:06:26,176 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-14 20:06:26,924 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-14 20:06:27,925 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-14 20:06:28,739 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-14 20:06:29,741 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-14 20:06:30,546 - INFO - Found open case: Finicity - Lantern...
+2025-11-14 20:06:31,549 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-14 20:06:32,519 - INFO - Found open case: Tilt - Lantern...
+2025-11-14 20:06:33,520 - INFO - 
+============================================================
+2025-11-14 20:06:33,522 - INFO - Lantern Labaton scraping complete!
+2025-11-14 20:06:33,524 - INFO - Total open cases found: 9
+2025-11-14 20:06:33,525 - INFO - ============================================================
+2025-11-14 20:06:33,529 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251114_200633.json
+2025-11-14 20:06:33,531 - INFO - Scraping completed!
+2025-11-14 20:06:33,533 - INFO - Total items scraped: 9
+2025-11-14 20:06:33,534 - INFO - Duration: 19.08 seconds
+2025-11-17 20:44:50,965 - INFO - Initialized Lantern Labaton scraper
+2025-11-17 20:44:50,966 - INFO - Date filtering enabled: last 24 hours
+2025-11-17 20:44:50,966 - INFO - Initialized Lantern Labaton scraper
+2025-11-17 20:44:50,967 - INFO - Starting Lantern Labaton scraper...
+2025-11-17 20:44:50,967 - INFO - ============================================================
+2025-11-17 20:44:50,967 - INFO - Starting Lantern Labaton scraper...
+2025-11-17 20:44:50,968 - INFO - ============================================================
+2025-11-17 20:44:51,036 - INFO - Filtering for cases newer than: 2025-11-14T14:40:55.425614+00:00
+2025-11-17 20:44:51,036 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-17 20:44:51,037 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-17 20:44:52,942 - INFO - Discovered 9 case URLs from explore page
+2025-11-17 20:44:52,943 - INFO - Found 9 case URLs to process
+2025-11-17 20:44:52,943 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-17 20:44:53,894 - INFO - Found open case: Albert - Lantern...
+2025-11-17 20:44:54,895 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-17 20:44:55,658 - INFO - Found open case: Tilt - Lantern...
+2025-11-17 20:44:56,659 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-17 20:44:57,396 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-17 20:44:58,398 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-17 20:44:59,411 - INFO - Found open case: Finicity - Lantern...
+2025-11-17 20:45:00,412 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-17 20:45:01,360 - INFO - Found open case: Cleo - Lantern...
+2025-11-17 20:45:02,362 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-17 20:45:03,272 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-17 20:45:04,273 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-17 20:45:05,256 - INFO - Found open case: Twilio - Lantern...
+2025-11-17 20:45:06,258 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-17 20:45:07,275 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-17 20:45:08,276 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-17 20:45:09,052 - INFO - Found open case: Prosper - Lantern...
+2025-11-17 20:45:10,053 - INFO - 
+============================================================
+2025-11-17 20:45:10,054 - INFO - Lantern Labaton scraping complete!
+2025-11-17 20:45:10,055 - INFO - Total open cases found: 9
+2025-11-17 20:45:10,055 - INFO - ============================================================
+2025-11-17 20:45:10,062 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251117_204510.json
+2025-11-17 20:45:10,064 - INFO - Scraping completed!
+2025-11-17 20:45:10,065 - INFO - Total items scraped: 9
+2025-11-17 20:45:10,066 - INFO - Duration: 19.10 seconds
+2025-11-18 20:22:16,170 - INFO - Initialized Lantern Labaton scraper
+2025-11-18 20:22:16,172 - INFO - Date filtering enabled: last 24 hours
+2025-11-18 20:22:16,173 - INFO - Initialized Lantern Labaton scraper
+2025-11-18 20:22:16,173 - INFO - Starting Lantern Labaton scraper...
+2025-11-18 20:22:16,174 - INFO - ============================================================
+2025-11-18 20:22:16,174 - INFO - Starting Lantern Labaton scraper...
+2025-11-18 20:22:16,174 - INFO - ============================================================
+2025-11-18 20:22:16,237 - INFO - Filtering for cases newer than: 2025-11-17T15:20:01.259970+00:00
+2025-11-18 20:22:16,238 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-18 20:22:16,238 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-18 20:22:18,160 - INFO - Discovered 9 case URLs from explore page
+2025-11-18 20:22:18,161 - INFO - Found 9 case URLs to process
+2025-11-18 20:22:18,162 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-18 20:22:19,228 - INFO - Found open case: Cleo - Lantern...
+2025-11-18 20:22:20,230 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-18 20:22:20,993 - INFO - Found open case: Tilt - Lantern...
+2025-11-18 20:22:21,995 - INFO - Fetching: https://lantern.labaton.com/case/twilio
+2025-11-18 20:22:23,032 - INFO - Found open case: Twilio - Lantern...
+2025-11-18 20:22:24,034 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-18 20:22:24,778 - INFO - Found open case: Finicity - Lantern...
+2025-11-18 20:22:25,779 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-18 20:22:26,628 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-18 20:22:27,629 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-18 20:22:28,642 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-18 20:22:29,644 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-18 20:22:30,411 - INFO - Found open case: Albert - Lantern...
+2025-11-18 20:22:31,414 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-18 20:22:32,127 - INFO - Found open case: Prosper - Lantern...
+2025-11-18 20:22:33,129 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-18 20:22:34,440 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-18 20:22:35,441 - INFO - 
+============================================================
+2025-11-18 20:22:35,445 - INFO - Lantern Labaton scraping complete!
+2025-11-18 20:22:35,448 - INFO - Total open cases found: 9
+2025-11-18 20:22:35,450 - INFO - ============================================================
+2025-11-18 20:22:35,505 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251118_202235.json
+2025-11-18 20:22:35,513 - INFO - Scraping completed!
+2025-11-18 20:22:35,513 - INFO - Total items scraped: 9
+2025-11-18 20:22:35,514 - INFO - Duration: 19.34 seconds
+2025-11-27 22:38:53,340 - INFO - Initialized Lantern Labaton scraper
+2025-11-27 22:38:53,342 - INFO - Date filtering enabled: last 24 hours
+2025-11-27 22:38:53,343 - INFO - Initialized Lantern Labaton scraper
+2025-11-27 22:38:53,344 - INFO - Starting Lantern Labaton scraper...
+2025-11-27 22:38:53,344 - INFO - ============================================================
+2025-11-27 22:38:53,344 - INFO - Starting Lantern Labaton scraper...
+2025-11-27 22:38:53,345 - INFO - ============================================================
+2025-11-27 22:38:53,417 - INFO - Filtering for cases newer than: 2025-11-18T14:57:07.742397+00:00
+2025-11-27 22:38:53,417 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-27 22:38:53,417 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-27 22:38:56,241 - INFO - Discovered 9 case URLs from explore page
+2025-11-27 22:38:56,242 - INFO - Found 9 case URLs to process
+2025-11-27 22:38:56,243 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-27 22:38:57,133 - INFO - Found open case: Cleo - Lantern...
+2025-11-27 22:38:58,135 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-27 22:38:58,951 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-27 22:38:59,952 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-27 22:39:01,039 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-27 22:39:02,040 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-27 22:39:02,720 - INFO - Found open case: Albert - Lantern...
+2025-11-27 22:39:03,722 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-27 22:39:05,066 - INFO - Found open case: Klover - Lantern...
+2025-11-27 22:39:06,069 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-27 22:39:07,156 - INFO - Found open case: Finicity - Lantern...
+2025-11-27 22:39:08,158 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-27 22:39:09,220 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-27 22:39:10,227 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-27 22:39:11,063 - INFO - Found open case: Prosper - Lantern...
+2025-11-27 22:39:12,068 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-27 22:39:12,813 - INFO - Found open case: Tilt - Lantern...
+2025-11-27 22:39:13,816 - INFO - 
+============================================================
+2025-11-27 22:39:13,819 - INFO - Lantern Labaton scraping complete!
+2025-11-27 22:39:13,819 - INFO - Total open cases found: 9
+2025-11-27 22:39:13,820 - INFO - ============================================================
+2025-11-27 22:39:13,822 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251127_223913.json
+2025-11-27 22:39:13,832 - INFO - Scraping completed!
+2025-11-27 22:39:13,834 - INFO - Total items scraped: 9
+2025-11-27 22:39:13,835 - INFO - Duration: 20.49 seconds
+2025-11-28 22:35:24,150 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 22:35:24,152 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:35:24,152 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 22:35:24,153 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 22:35:24,153 - INFO - ============================================================
+2025-11-28 22:35:24,153 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 22:35:24,155 - INFO - ============================================================
+2025-11-28 22:35:24,272 - INFO - Filtering for cases newer than: 2025-11-27T17:14:59.013111+00:00
+2025-11-28 22:35:24,272 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-28 22:35:24,272 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-28 22:35:27,732 - INFO - Discovered 9 case URLs from explore page
+2025-11-28 22:35:27,733 - INFO - Found 9 case URLs to process
+2025-11-28 22:35:27,733 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-28 22:35:28,799 - INFO - Found open case: Tilt - Lantern...
+2025-11-28 22:35:29,800 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-28 22:35:31,048 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-28 22:35:32,050 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-28 22:35:33,100 - INFO - Found open case: Cleo - Lantern...
+2025-11-28 22:35:34,102 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-28 22:35:35,149 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-28 22:35:36,151 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-28 22:35:37,189 - INFO - Found open case: Finicity - Lantern...
+2025-11-28 22:35:38,191 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-28 22:35:39,456 - INFO - Found open case: Klover - Lantern...
+2025-11-28 22:35:40,457 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-28 22:35:41,705 - INFO - Found open case: Albert - Lantern...
+2025-11-28 22:35:42,706 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-28 22:35:43,744 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-28 22:35:44,749 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-28 22:35:45,793 - INFO - Found open case: Prosper - Lantern...
+2025-11-28 22:35:46,794 - INFO - 
+============================================================
+2025-11-28 22:35:46,797 - INFO - Lantern Labaton scraping complete!
+2025-11-28 22:35:46,798 - INFO - Total open cases found: 9
+2025-11-28 22:35:46,799 - INFO - ============================================================
+2025-11-28 22:35:46,807 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251128_223546.json
+2025-11-28 22:35:46,809 - INFO - Scraping completed!
+2025-11-28 22:35:46,811 - INFO - Total items scraped: 9
+2025-11-28 22:35:46,811 - INFO - Duration: 22.66 seconds
+2025-11-28 22:57:59,264 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 22:57:59,268 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:57:59,268 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 22:57:59,269 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 22:57:59,269 - INFO - ============================================================
+2025-11-28 22:57:59,269 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 22:57:59,269 - INFO - ============================================================
+2025-11-28 22:57:59,324 - INFO - Filtering for cases newer than: 2025-11-27T17:14:59.013111+00:00
+2025-11-28 22:57:59,325 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-28 22:57:59,325 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-28 22:58:01,411 - INFO - Discovered 9 case URLs from explore page
+2025-11-28 22:58:01,412 - INFO - Found 9 case URLs to process
+2025-11-28 22:58:01,412 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-28 22:58:01,987 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-28 22:58:02,989 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-28 22:58:03,579 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-28 22:58:04,580 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-28 22:58:05,164 - INFO - Found open case: Tilt - Lantern...
+2025-11-28 22:58:06,165 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-28 22:58:06,845 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-28 22:58:07,847 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-28 22:58:08,386 - INFO - Found open case: Albert - Lantern...
+2025-11-28 22:58:09,388 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-28 22:58:10,005 - INFO - Found open case: Cleo - Lantern...
+2025-11-28 22:58:11,007 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-28 22:58:11,678 - INFO - Found open case: Klover - Lantern...
+2025-11-28 22:58:12,679 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-28 22:58:13,291 - INFO - Found open case: Prosper - Lantern...
+2025-11-28 22:58:14,292 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-28 22:58:14,904 - INFO - Found open case: Finicity - Lantern...
+2025-11-28 22:58:15,905 - INFO - 
+============================================================
+2025-11-28 22:58:15,906 - INFO - Lantern Labaton scraping complete!
+2025-11-28 22:58:15,907 - INFO - Total open cases found: 9
+2025-11-28 22:58:15,908 - INFO - ============================================================
+2025-11-28 22:58:15,911 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251128_225815.json
+2025-11-28 22:58:15,914 - INFO - Scraping completed!
+2025-11-28 22:58:15,917 - INFO - Total items scraped: 9
+2025-11-28 22:58:15,921 - INFO - Duration: 16.65 seconds
+2025-11-28 23:34:41,738 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 23:34:41,740 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 23:34:41,741 - INFO - Initialized Lantern Labaton scraper
+2025-11-28 23:34:41,741 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 23:34:41,741 - INFO - ============================================================
+2025-11-28 23:34:41,742 - INFO - Starting Lantern Labaton scraper...
+2025-11-28 23:34:41,742 - INFO - ============================================================
+2025-11-28 23:34:41,805 - INFO - Filtering for cases newer than: 2025-11-28T17:33:09.764052+00:00
+2025-11-28 23:34:41,806 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-28 23:34:41,806 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-28 23:34:44,496 - INFO - Discovered 9 case URLs from explore page
+2025-11-28 23:34:44,497 - INFO - Found 9 case URLs to process
+2025-11-28 23:34:44,498 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-28 23:34:45,377 - INFO - Found open case: Klover - Lantern...
+2025-11-28 23:34:46,379 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-28 23:34:47,829 - INFO - Found open case: Albert - Lantern...
+2025-11-28 23:34:48,830 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-28 23:34:49,547 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-28 23:34:50,548 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-28 23:34:51,716 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-28 23:34:52,718 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-28 23:34:53,481 - INFO - Found open case: Cleo - Lantern...
+2025-11-28 23:34:54,483 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-28 23:34:55,466 - INFO - Found open case: Tilt - Lantern...
+2025-11-28 23:34:56,467 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-28 23:34:58,493 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-28 23:34:59,494 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-28 23:35:00,149 - INFO - Found open case: Prosper - Lantern...
+2025-11-28 23:35:01,150 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-28 23:35:02,787 - INFO - Found open case: Finicity - Lantern...
+2025-11-28 23:35:03,788 - INFO - 
+============================================================
+2025-11-28 23:35:03,790 - INFO - Lantern Labaton scraping complete!
+2025-11-28 23:35:03,791 - INFO - Total open cases found: 9
+2025-11-28 23:35:03,792 - INFO - ============================================================
+2025-11-28 23:35:03,795 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251128_233503.json
+2025-11-28 23:35:03,800 - INFO - Scraping completed!
+2025-11-28 23:35:03,807 - INFO - Total items scraped: 9
+2025-11-28 23:35:03,808 - INFO - Duration: 22.06 seconds
+2025-11-29 00:29:31,558 - INFO - Initialized Lantern Labaton scraper
+2025-11-29 00:29:31,558 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 00:29:31,559 - INFO - Initialized Lantern Labaton scraper
+2025-11-29 00:29:31,560 - INFO - Starting Lantern Labaton scraper...
+2025-11-29 00:29:31,561 - INFO - ============================================================
+2025-11-29 00:29:31,562 - INFO - Starting Lantern Labaton scraper...
+2025-11-29 00:29:31,563 - INFO - ============================================================
+2025-11-29 00:29:31,717 - INFO - Filtering for cases newer than: 2025-11-28T18:17:44.049945+00:00
+2025-11-29 00:29:31,722 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-29 00:29:31,731 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-29 00:29:34,603 - INFO - Discovered 9 case URLs from explore page
+2025-11-29 00:29:34,604 - INFO - Found 9 case URLs to process
+2025-11-29 00:29:34,605 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-29 00:29:35,399 - INFO - Found open case: Tilt - Lantern...
+2025-11-29 00:29:36,401 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-29 00:29:36,954 - INFO - Found open case: Klover - Lantern...
+2025-11-29 00:29:37,956 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-29 00:29:38,859 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-29 00:29:39,861 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-29 00:29:40,591 - INFO - Found open case: Finicity - Lantern...
+2025-11-29 00:29:41,593 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-29 00:29:42,191 - INFO - Found open case: Albert - Lantern...
+2025-11-29 00:29:43,193 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-29 00:29:43,827 - INFO - Found open case: Cleo - Lantern...
+2025-11-29 00:29:44,829 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-29 00:29:45,474 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-29 00:29:46,476 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-29 00:29:47,209 - INFO - Found open case: Prosper - Lantern...
+2025-11-29 00:29:48,211 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-29 00:29:48,783 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-29 00:29:49,784 - INFO - 
+============================================================
+2025-11-29 00:29:49,786 - INFO - Lantern Labaton scraping complete!
+2025-11-29 00:29:49,788 - INFO - Total open cases found: 9
+2025-11-29 00:29:49,789 - INFO - ============================================================
+2025-11-29 00:29:49,802 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251129_002949.json
+2025-11-29 00:29:49,805 - INFO - Scraping completed!
+2025-11-29 00:29:49,806 - INFO - Total items scraped: 9
+2025-11-29 00:29:49,807 - INFO - Duration: 18.24 seconds
+2025-11-29 01:04:52,416 - INFO - Initialized Lantern Labaton scraper
+2025-11-29 01:04:52,417 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 01:04:52,418 - INFO - Initialized Lantern Labaton scraper
+2025-11-29 01:04:52,419 - INFO - Starting Lantern Labaton scraper...
+2025-11-29 01:04:52,422 - INFO - ============================================================
+2025-11-29 01:04:52,422 - INFO - Starting Lantern Labaton scraper...
+2025-11-29 01:04:52,423 - INFO - ============================================================
+2025-11-29 01:04:52,531 - INFO - Filtering for cases newer than: 2025-11-28T19:04:42.213156+00:00
+2025-11-29 01:04:52,532 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-11-29 01:04:52,533 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-11-29 01:04:55,500 - INFO - Discovered 9 case URLs from explore page
+2025-11-29 01:04:55,501 - INFO - Found 9 case URLs to process
+2025-11-29 01:04:55,501 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-11-29 01:04:56,401 - INFO - Found open case: SeatGeek - Lantern...
+2025-11-29 01:04:57,402 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-11-29 01:04:58,534 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-11-29 01:04:59,535 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-11-29 01:05:00,071 - INFO - Found open case: Tilt - Lantern...
+2025-11-29 01:05:01,073 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-11-29 01:05:01,706 - INFO - Found open case: VGW Holdings - Lantern...
+2025-11-29 01:05:02,707 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-11-29 01:05:03,180 - INFO - Found open case: Finicity - Lantern...
+2025-11-29 01:05:04,182 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-11-29 01:05:04,683 - INFO - Found open case: Klover - Lantern...
+2025-11-29 01:05:05,685 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-11-29 01:05:06,224 - INFO - Found open case: Cleo - Lantern...
+2025-11-29 01:05:07,226 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-11-29 01:05:07,747 - INFO - Found open case: Albert - Lantern...
+2025-11-29 01:05:08,749 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-11-29 01:05:09,485 - INFO - Found open case: Prosper - Lantern...
+2025-11-29 01:05:10,487 - INFO - 
+============================================================
+2025-11-29 01:05:10,488 - INFO - Lantern Labaton scraping complete!
+2025-11-29 01:05:10,489 - INFO - Total open cases found: 9
+2025-11-29 01:05:10,490 - INFO - ============================================================
+2025-11-29 01:05:10,494 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251129_010510.json
+2025-11-29 01:05:10,504 - INFO - Scraping completed!
+2025-11-29 01:05:10,504 - INFO - Total items scraped: 9
+2025-11-29 01:05:10,505 - INFO - Duration: 18.08 seconds
+2025-12-02 02:38:14,495 - INFO - Initialized Lantern Labaton scraper
+2025-12-02 02:38:14,497 - INFO - Date filtering enabled: last 24 hours
+2025-12-02 02:38:14,497 - INFO - Initialized Lantern Labaton scraper
+2025-12-02 02:38:14,499 - INFO - Starting Lantern Labaton scraper...
+2025-12-02 02:38:14,499 - INFO - ============================================================
+2025-12-02 02:38:14,500 - INFO - Starting Lantern Labaton scraper...
+2025-12-02 02:38:14,502 - INFO - ============================================================
+2025-12-02 02:38:14,627 - INFO - Filtering for cases newer than: 2025-11-28T19:39:26.996767+00:00
+2025-12-02 02:38:14,628 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-02 02:38:14,629 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-02 02:38:18,522 - INFO - Discovered 9 case URLs from explore page
+2025-12-02 02:38:18,523 - INFO - Found 9 case URLs to process
+2025-12-02 02:38:18,524 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-02 02:38:19,250 - INFO - Found open case: Cleo - Lantern...
+2025-12-02 02:38:20,252 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-02 02:38:21,391 - INFO - Found open case: Albert - Lantern...
+2025-12-02 02:38:22,393 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-02 02:38:22,926 - INFO - Found open case: Tilt - Lantern...
+2025-12-02 02:38:23,928 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-02 02:38:24,708 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-02 02:38:25,710 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-02 02:38:26,179 - INFO - Found open case: Prosper - Lantern...
+2025-12-02 02:38:27,181 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-02 02:38:28,169 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-02 02:38:29,171 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-02 02:38:30,293 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-02 02:38:31,295 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-02 02:38:32,130 - INFO - Found open case: Finicity - Lantern...
+2025-12-02 02:38:33,136 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-02 02:38:34,128 - INFO - Found open case: Klover - Lantern...
+2025-12-02 02:38:35,129 - INFO - 
+============================================================
+2025-12-02 02:38:35,131 - INFO - Lantern Labaton scraping complete!
+2025-12-02 02:38:35,134 - INFO - Total open cases found: 9
+2025-12-02 02:38:35,138 - INFO - ============================================================
+2025-12-02 02:38:35,158 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251202_023835.json
+2025-12-02 02:38:35,178 - INFO - Scraping completed!
+2025-12-02 02:38:35,179 - INFO - Total items scraped: 9
+2025-12-02 02:38:35,180 - INFO - Duration: 20.68 seconds
+2025-12-03 19:57:15,329 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 19:57:15,330 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 19:57:15,330 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 19:57:15,330 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 19:57:15,331 - INFO - ============================================================
+2025-12-03 19:57:15,331 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 19:57:15,332 - INFO - ============================================================
+2025-12-03 19:57:15,434 - INFO - Filtering for cases newer than: 2025-12-01T21:14:29.984836+00:00
+2025-12-03 19:57:15,434 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-03 19:57:15,435 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-03 19:57:18,266 - INFO - Discovered 9 case URLs from explore page
+2025-12-03 19:57:18,266 - INFO - Found 9 case URLs to process
+2025-12-03 19:57:18,267 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-03 19:57:19,195 - INFO - Found open case: Tilt - Lantern...
+2025-12-03 19:57:20,196 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-03 19:57:21,197 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-03 19:57:22,198 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-03 19:57:23,244 - INFO - Found open case: Cleo - Lantern...
+2025-12-03 19:57:24,245 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-03 19:57:25,235 - INFO - Found open case: Klover - Lantern...
+2025-12-03 19:57:26,237 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-03 19:57:26,961 - INFO - Found open case: Prosper - Lantern...
+2025-12-03 19:57:27,962 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-03 19:57:28,891 - INFO - Found open case: Finicity - Lantern...
+2025-12-03 19:57:29,892 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-03 19:57:30,650 - INFO - Found open case: Albert - Lantern...
+2025-12-03 19:57:31,651 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-03 19:57:32,576 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-03 19:57:33,576 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-03 19:57:34,285 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-03 19:57:35,285 - INFO - 
+============================================================
+2025-12-03 19:57:35,286 - INFO - Lantern Labaton scraping complete!
+2025-12-03 19:57:35,286 - INFO - Total open cases found: 9
+2025-12-03 19:57:35,286 - INFO - ============================================================
+2025-12-03 19:57:35,289 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251203_195735.json
+2025-12-03 19:57:35,289 - INFO - Scraping completed!
+2025-12-03 19:57:35,289 - INFO - Total items scraped: 9
+2025-12-03 19:57:35,290 - INFO - Duration: 19.96 seconds
+2025-12-03 21:22:50,248 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 21:22:50,256 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 21:22:50,257 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 21:22:50,257 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 21:22:50,258 - INFO - ============================================================
+2025-12-03 21:22:50,258 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 21:22:50,259 - INFO - ============================================================
+2025-12-03 21:22:50,333 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.488078+00:00
+2025-12-03 21:22:50,334 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-03 21:22:50,334 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-03 21:22:52,226 - INFO - Discovered 9 case URLs from explore page
+2025-12-03 21:22:52,227 - INFO - Found 9 case URLs to process
+2025-12-03 21:22:52,228 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-03 21:22:53,365 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-03 21:22:54,367 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-03 21:22:55,210 - INFO - Found open case: Albert - Lantern...
+2025-12-03 21:22:56,212 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-03 21:22:57,063 - INFO - Found open case: Tilt - Lantern...
+2025-12-03 21:22:58,064 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-03 21:22:59,101 - INFO - Found open case: Klover - Lantern...
+2025-12-03 21:23:00,102 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-03 21:23:00,943 - INFO - Found open case: Prosper - Lantern...
+2025-12-03 21:23:01,945 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-03 21:23:02,983 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-03 21:23:03,985 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-03 21:23:05,059 - INFO - Found open case: Finicity - Lantern...
+2025-12-03 21:23:06,060 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-03 21:23:06,882 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-03 21:23:07,885 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-03 21:23:08,924 - INFO - Found open case: Cleo - Lantern...
+2025-12-03 21:23:09,927 - INFO - 
+============================================================
+2025-12-03 21:23:09,928 - INFO - Lantern Labaton scraping complete!
+2025-12-03 21:23:09,929 - INFO - Total open cases found: 9
+2025-12-03 21:23:09,929 - INFO - ============================================================
+2025-12-03 21:23:09,932 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251203_212309.json
+2025-12-03 21:23:09,935 - INFO - Scraping completed!
+2025-12-03 21:23:09,937 - INFO - Total items scraped: 9
+2025-12-03 21:23:09,939 - INFO - Duration: 19.68 seconds
+2025-12-03 22:58:47,451 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 22:58:47,451 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 22:58:47,452 - INFO - Initialized Lantern Labaton scraper
+2025-12-03 22:58:47,452 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 22:58:47,452 - INFO - ============================================================
+2025-12-03 22:58:47,453 - INFO - Starting Lantern Labaton scraper...
+2025-12-03 22:58:47,453 - INFO - ============================================================
+2025-12-03 22:58:47,495 - INFO - Filtering for cases newer than: 2025-12-03T14:32:34.488078+00:00
+2025-12-03 22:58:47,495 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-03 22:58:47,495 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-03 22:58:49,770 - INFO - Discovered 9 case URLs from explore page
+2025-12-03 22:58:49,771 - INFO - Found 9 case URLs to process
+2025-12-03 22:58:49,771 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-03 22:58:50,514 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-03 22:58:51,516 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-03 22:58:52,179 - INFO - Found open case: Albert - Lantern...
+2025-12-03 22:58:53,180 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-03 22:58:53,692 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-03 22:58:54,693 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-03 22:58:55,119 - INFO - Found open case: Klover - Lantern...
+2025-12-03 22:58:56,120 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-03 22:58:56,511 - INFO - Found open case: Finicity - Lantern...
+2025-12-03 22:58:57,512 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-03 22:58:57,913 - INFO - Found open case: Tilt - Lantern...
+2025-12-03 22:58:58,915 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-03 22:58:59,296 - INFO - Found open case: Prosper - Lantern...
+2025-12-03 22:59:00,297 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-03 22:59:00,732 - INFO - Found open case: Cleo - Lantern...
+2025-12-03 22:59:01,733 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-03 22:59:02,192 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-03 22:59:03,193 - INFO - 
+============================================================
+2025-12-03 22:59:03,194 - INFO - Lantern Labaton scraping complete!
+2025-12-03 22:59:03,194 - INFO - Total open cases found: 9
+2025-12-03 22:59:03,195 - INFO - ============================================================
+2025-12-03 22:59:03,197 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251203_225903.json
+2025-12-03 22:59:03,197 - INFO - Scraping completed!
+2025-12-03 22:59:03,198 - INFO - Total items scraped: 9
+2025-12-03 22:59:03,198 - INFO - Duration: 15.74 seconds
+2025-12-04 00:05:38,815 - INFO - Initialized Lantern Labaton scraper
+2025-12-04 00:05:38,816 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 00:05:38,817 - INFO - Initialized Lantern Labaton scraper
+2025-12-04 00:05:38,818 - INFO - Starting Lantern Labaton scraper...
+2025-12-04 00:05:38,818 - INFO - ============================================================
+2025-12-04 00:05:38,819 - INFO - Starting Lantern Labaton scraper...
+2025-12-04 00:05:38,820 - INFO - ============================================================
+2025-12-04 00:05:38,996 - INFO - Filtering for cases newer than: 2025-12-03T17:33:48.632959+00:00
+2025-12-04 00:05:39,018 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-04 00:05:39,019 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-04 00:05:42,912 - INFO - Discovered 9 case URLs from explore page
+2025-12-04 00:05:42,914 - INFO - Found 9 case URLs to process
+2025-12-04 00:05:42,916 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-04 00:05:43,963 - INFO - Found open case: Albert - Lantern...
+2025-12-04 00:05:44,964 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-04 00:05:45,958 - INFO - Found open case: Cleo - Lantern...
+2025-12-04 00:05:46,960 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-04 00:05:47,976 - INFO - Found open case: Prosper - Lantern...
+2025-12-04 00:05:49,008 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-04 00:05:49,993 - INFO - Found open case: Tilt - Lantern...
+2025-12-04 00:05:50,996 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-04 00:05:52,007 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-04 00:05:53,009 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-04 00:05:54,188 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-04 00:05:55,194 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-04 00:05:56,164 - INFO - Found open case: Klover - Lantern...
+2025-12-04 00:05:57,168 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-04 00:05:58,211 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-04 00:05:59,212 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-04 00:06:00,268 - INFO - Found open case: Finicity - Lantern...
+2025-12-04 00:06:01,270 - INFO - 
+============================================================
+2025-12-04 00:06:01,275 - INFO - Lantern Labaton scraping complete!
+2025-12-04 00:06:01,276 - INFO - Total open cases found: 9
+2025-12-04 00:06:01,314 - INFO - ============================================================
+2025-12-04 00:06:01,334 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251204_000601.json
+2025-12-04 00:06:01,351 - INFO - Scraping completed!
+2025-12-04 00:06:01,354 - INFO - Total items scraped: 9
+2025-12-04 00:06:01,370 - INFO - Duration: 22.53 seconds
+2025-12-04 20:12:40,365 - INFO - Initialized Lantern Labaton scraper
+2025-12-04 20:12:40,370 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 20:12:40,372 - INFO - Initialized Lantern Labaton scraper
+2025-12-04 20:12:40,373 - INFO - Starting Lantern Labaton scraper...
+2025-12-04 20:12:40,374 - INFO - ============================================================
+2025-12-04 20:12:40,375 - INFO - Starting Lantern Labaton scraper...
+2025-12-04 20:12:40,375 - INFO - ============================================================
+2025-12-04 20:12:40,456 - INFO - Filtering for cases newer than: 2025-12-03T18:41:25.143577+00:00
+2025-12-04 20:12:40,456 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-04 20:12:40,457 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-04 20:12:42,585 - INFO - Discovered 9 case URLs from explore page
+2025-12-04 20:12:42,586 - INFO - Found 9 case URLs to process
+2025-12-04 20:12:42,587 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-04 20:12:43,639 - INFO - Found open case: Klover - Lantern...
+2025-12-04 20:12:44,640 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-04 20:12:45,417 - INFO - Found open case: Albert - Lantern...
+2025-12-04 20:12:46,419 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-04 20:12:47,369 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-04 20:12:48,371 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-04 20:12:49,118 - INFO - Found open case: Finicity - Lantern...
+2025-12-04 20:12:50,120 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-04 20:12:51,170 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-04 20:12:52,172 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-04 20:12:53,207 - INFO - Found open case: Prosper - Lantern...
+2025-12-04 20:12:54,208 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-04 20:12:55,044 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-04 20:12:56,045 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-04 20:12:56,812 - INFO - Found open case: Tilt - Lantern...
+2025-12-04 20:12:57,814 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-04 20:12:58,723 - INFO - Found open case: Cleo - Lantern...
+2025-12-04 20:12:59,782 - INFO - 
+============================================================
+2025-12-04 20:12:59,784 - INFO - Lantern Labaton scraping complete!
+2025-12-04 20:12:59,784 - INFO - Total open cases found: 9
+2025-12-04 20:12:59,784 - INFO - ============================================================
+2025-12-04 20:12:59,786 - INFO - Data saved to C:\Users\Rahul\Desktop\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251204_201259.json
+2025-12-04 20:12:59,786 - INFO - Scraping completed!
+2025-12-04 20:12:59,787 - INFO - Total items scraped: 9
+2025-12-04 20:12:59,787 - INFO - Duration: 19.41 seconds
+2025-12-05 00:22:56,482 - INFO - Initialized Lantern Labaton scraper
+2025-12-05 00:22:56,482 - INFO - Date filtering enabled: last 24 hours
+2025-12-05 00:22:56,482 - INFO - Initialized Lantern Labaton scraper
+2025-12-05 00:22:56,482 - INFO - Starting Lantern Labaton scraper...
+2025-12-05 00:22:56,482 - INFO - ============================================================
+2025-12-05 00:22:56,482 - INFO - Starting Lantern Labaton scraper...
+2025-12-05 00:22:56,482 - INFO - ============================================================
+2025-12-05 00:22:56,493 - INFO - Filtering for cases newer than: 2025-12-04T14:48:38.626237+00:00
+2025-12-05 00:22:56,493 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-05 00:22:56,493 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-05 00:22:59,050 - INFO - Discovered 9 case URLs from explore page
+2025-12-05 00:22:59,050 - INFO - Found 9 case URLs to process
+2025-12-05 00:22:59,050 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-05 00:23:00,251 - INFO - Found open case: Albert - Lantern...
+2025-12-05 00:23:01,251 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-05 00:23:02,152 - INFO - Found open case: Prosper - Lantern...
+2025-12-05 00:23:03,153 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-05 00:23:03,893 - INFO - Found open case: Cleo - Lantern...
+2025-12-05 00:23:04,894 - INFO - Fetching: https://lantern.labaton.com/case/tilt
+2025-12-05 00:23:05,769 - INFO - Found open case: Tilt - Lantern...
+2025-12-05 00:23:06,769 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-05 00:23:07,485 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-05 00:23:08,485 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-05 00:23:09,125 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-05 00:23:10,125 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-05 00:23:11,687 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-05 00:23:12,687 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-05 00:23:13,627 - INFO - Found open case: Klover - Lantern...
+2025-12-05 00:23:14,627 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-05 00:23:15,366 - INFO - Found open case: Finicity - Lantern...
+2025-12-05 00:23:16,366 - INFO - 
+============================================================
+2025-12-05 00:23:16,367 - INFO - Lantern Labaton scraping complete!
+2025-12-05 00:23:16,367 - INFO - Total open cases found: 9
+2025-12-05 00:23:16,367 - INFO - ============================================================
+2025-12-05 00:23:16,367 - INFO - Data saved to /home/deepak/CodeLab/GitHub/Mass-Arbitration-Web-Scraping/data/scraped/lantern_labaton_data_20251205_002316.json
+2025-12-05 00:23:16,367 - INFO - Scraping completed!
+2025-12-05 00:23:16,367 - INFO - Total items scraped: 9
+2025-12-05 00:23:16,368 - INFO - Duration: 19.89 seconds
+2025-12-13 00:43:11,857 - INFO - Initialized Lantern Labaton scraper
+2025-12-13 00:43:11,859 - INFO - Date filtering enabled: last 24 hours
+2025-12-13 00:43:11,860 - INFO - Initialized Lantern Labaton scraper
+2025-12-13 00:43:11,860 - INFO - Starting Lantern Labaton scraper...
+2025-12-13 00:43:11,860 - INFO - ============================================================
+2025-12-13 00:43:11,861 - INFO - Starting Lantern Labaton scraper...
+2025-12-13 00:43:11,861 - INFO - ============================================================
+2025-12-13 00:43:11,908 - INFO - Filtering for cases newer than: 2025-12-04T18:58:13.287800+00:00
+2025-12-13 00:43:11,908 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-13 00:43:11,908 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-13 00:43:13,950 - INFO - Discovered 9 case URLs from explore page
+2025-12-13 00:43:13,950 - INFO - Found 9 case URLs to process
+2025-12-13 00:43:13,951 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-13 00:43:14,856 - INFO - Found open case: Cleo - Lantern...
+2025-12-13 00:43:15,857 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-13 00:43:16,789 - INFO - Found open case: Klover - Lantern...
+2025-12-13 00:43:17,790 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-13 00:43:19,020 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-13 00:43:20,022 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-13 00:43:20,965 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-13 00:43:21,966 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-13 00:43:22,851 - INFO - Found open case: Prosper - Lantern...
+2025-12-13 00:43:23,852 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-13 00:43:24,787 - INFO - Found open case: Finicity - Lantern...
+2025-12-13 00:43:25,789 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-13 00:43:26,672 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-13 00:43:27,674 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-13 00:43:28,337 - INFO - Found open case: Albert - Lantern...
+2025-12-13 00:43:29,339 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-12-13 00:43:29,989 - INFO - Found open case: FloatMe - Lantern...
+2025-12-13 00:43:30,991 - INFO - 
+============================================================
+2025-12-13 00:43:30,992 - INFO - Lantern Labaton scraping complete!
+2025-12-13 00:43:30,992 - INFO - Total open cases found: 9
+2025-12-13 00:43:30,993 - INFO - ============================================================
+2025-12-13 00:43:31,000 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251213_004330.json
+2025-12-13 00:43:31,000 - INFO - Scraping completed!
+2025-12-13 00:43:31,002 - INFO - Total items scraped: 9
+2025-12-13 00:43:31,002 - INFO - Duration: 19.14 seconds
+2025-12-16 01:38:39,374 - INFO - Initialized Lantern Labaton scraper
+2025-12-16 01:38:39,376 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 01:38:39,377 - INFO - Initialized Lantern Labaton scraper
+2025-12-16 01:38:39,378 - INFO - Starting Lantern Labaton scraper...
+2025-12-16 01:38:39,378 - INFO - ============================================================
+2025-12-16 01:38:39,379 - INFO - Starting Lantern Labaton scraper...
+2025-12-16 01:38:39,379 - INFO - ============================================================
+2025-12-16 01:38:39,461 - INFO - Filtering for cases newer than: 2025-12-12T19:18:45.130453+00:00
+2025-12-16 01:38:39,462 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-16 01:38:39,463 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-16 01:38:42,329 - INFO - Discovered 9 case URLs from explore page
+2025-12-16 01:38:42,331 - INFO - Found 9 case URLs to process
+2025-12-16 01:38:42,333 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-16 01:38:43,339 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-16 01:38:44,341 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-16 01:38:45,287 - INFO - Found open case: Klover - Lantern...
+2025-12-16 01:38:46,289 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-12-16 01:38:47,221 - INFO - Found open case: FloatMe - Lantern...
+2025-12-16 01:38:48,222 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-16 01:38:49,291 - INFO - Found open case: Prosper - Lantern...
+2025-12-16 01:38:50,294 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-16 01:38:51,240 - INFO - Found open case: Finicity - Lantern...
+2025-12-16 01:38:52,241 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-16 01:38:53,199 - INFO - Found open case: Cleo - Lantern...
+2025-12-16 01:38:54,201 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-16 01:38:55,237 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-16 01:38:56,238 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-16 01:38:56,967 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-16 01:38:57,969 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-16 01:38:58,644 - INFO - Found open case: Albert - Lantern...
+2025-12-16 01:38:59,645 - INFO - 
+============================================================
+2025-12-16 01:38:59,646 - INFO - Lantern Labaton scraping complete!
+2025-12-16 01:38:59,647 - INFO - Total open cases found: 9
+2025-12-16 01:38:59,648 - INFO - ============================================================
+2025-12-16 01:38:59,651 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251216_013859.json
+2025-12-16 01:38:59,660 - INFO - Scraping completed!
+2025-12-16 01:38:59,662 - INFO - Total items scraped: 9
+2025-12-16 01:38:59,663 - INFO - Duration: 20.28 seconds
+2025-12-16 22:08:24,494 - INFO - Initialized Lantern Labaton scraper
+2025-12-16 22:08:24,530 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 22:08:24,531 - INFO - Initialized Lantern Labaton scraper
+2025-12-16 22:08:24,533 - INFO - Starting Lantern Labaton scraper...
+2025-12-16 22:08:24,534 - INFO - ============================================================
+2025-12-16 22:08:24,535 - INFO - Starting Lantern Labaton scraper...
+2025-12-16 22:08:24,537 - INFO - ============================================================
+2025-12-16 22:08:24,768 - INFO - Filtering for cases newer than: 2025-12-15T20:14:13.852158+00:00
+2025-12-16 22:08:24,770 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-16 22:08:24,771 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-16 22:08:29,675 - INFO - Discovered 9 case URLs from explore page
+2025-12-16 22:08:29,679 - INFO - Found 9 case URLs to process
+2025-12-16 22:08:29,681 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-16 22:08:30,965 - INFO - Found open case: Finicity - Lantern...
+2025-12-16 22:08:31,971 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-16 22:08:33,004 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-16 22:08:34,008 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-16 22:08:35,259 - INFO - Found open case: Cleo - Lantern...
+2025-12-16 22:08:36,260 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-16 22:08:37,412 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-16 22:08:38,416 - INFO - Fetching: https://lantern.labaton.com/case/floatme
+2025-12-16 22:08:39,424 - INFO - Found open case: FloatMe - Lantern...
+2025-12-16 22:08:40,426 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-16 22:08:41,578 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-16 22:08:42,581 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-16 22:08:43,812 - INFO - Found open case: Klover - Lantern...
+2025-12-16 22:08:44,817 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-16 22:08:46,023 - INFO - Found open case: Prosper - Lantern...
+2025-12-16 22:08:47,055 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-16 22:08:48,944 - INFO - Found open case: Albert - Lantern...
+2025-12-16 22:08:49,947 - INFO - 
+============================================================
+2025-12-16 22:08:49,951 - INFO - Lantern Labaton scraping complete!
+2025-12-16 22:08:49,953 - INFO - Total open cases found: 9
+2025-12-16 22:08:49,954 - INFO - ============================================================
+2025-12-16 22:08:49,975 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251216_220849.json
+2025-12-16 22:08:49,987 - INFO - Scraping completed!
+2025-12-16 22:08:49,988 - INFO - Total items scraped: 9
+2025-12-16 22:08:49,993 - INFO - Duration: 25.45 seconds
+2025-12-17 19:49:14,759 - INFO - Initialized Lantern Labaton scraper
+2025-12-17 19:49:14,761 - INFO - Date filtering enabled: last 24 hours
+2025-12-17 19:49:14,762 - INFO - Initialized Lantern Labaton scraper
+2025-12-17 19:49:14,762 - INFO - Starting Lantern Labaton scraper...
+2025-12-17 19:49:14,763 - INFO - ============================================================
+2025-12-17 19:49:14,763 - INFO - Starting Lantern Labaton scraper...
+2025-12-17 19:49:14,764 - INFO - ============================================================
+2025-12-17 19:49:14,830 - INFO - Filtering for cases newer than: 2025-12-16T16:44:23.292106+00:00
+2025-12-17 19:49:14,830 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-17 19:49:14,830 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-17 19:49:20,822 - INFO - Discovered 9 case URLs from explore page
+2025-12-17 19:49:20,822 - INFO - Found 9 case URLs to process
+2025-12-17 19:49:20,823 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-17 19:49:22,083 - INFO - Found open case: Albert - Lantern...
+2025-12-17 19:49:23,084 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-17 19:49:24,453 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-17 19:49:25,454 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-17 19:49:27,181 - INFO - Found open case: Cleo - Lantern...
+2025-12-17 19:49:28,182 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-17 19:49:29,016 - INFO - Found open case: Prosper - Lantern...
+2025-12-17 19:49:30,018 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-17 19:49:31,511 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-17 19:49:32,512 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-17 19:49:33,704 - INFO - Found open case: Finicity - Lantern...
+2025-12-17 19:49:34,705 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-17 19:49:35,983 - INFO - Found open case: Klover - Lantern...
+2025-12-17 19:49:36,985 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-17 19:49:38,434 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-17 19:49:39,435 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-17 19:49:40,439 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-17 19:49:41,440 - INFO - 
+============================================================
+2025-12-17 19:49:41,441 - INFO - Lantern Labaton scraping complete!
+2025-12-17 19:49:41,442 - INFO - Total open cases found: 9
+2025-12-17 19:49:41,443 - INFO - ============================================================
+2025-12-17 19:49:41,449 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251217_194941.json
+2025-12-17 19:49:41,452 - INFO - Scraping completed!
+2025-12-17 19:49:41,453 - INFO - Total items scraped: 9
+2025-12-17 19:49:41,454 - INFO - Duration: 26.69 seconds
+2025-12-18 21:14:39,584 - INFO - Initialized Lantern Labaton scraper
+2025-12-18 21:14:39,584 - INFO - Date filtering enabled: last 24 hours
+2025-12-18 21:14:39,584 - INFO - Initialized Lantern Labaton scraper
+2025-12-18 21:14:39,584 - INFO - Starting Lantern Labaton scraper...
+2025-12-18 21:14:39,584 - INFO - ============================================================
+2025-12-18 21:14:39,584 - INFO - Starting Lantern Labaton scraper...
+2025-12-18 21:14:39,584 - INFO - ============================================================
+2025-12-18 21:14:39,595 - INFO - Filtering for cases newer than: 2025-12-17T14:27:05.751931+00:00
+2025-12-18 21:14:39,595 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-18 21:14:39,595 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-18 21:14:41,931 - INFO - Discovered 9 case URLs from explore page
+2025-12-18 21:14:41,931 - INFO - Found 9 case URLs to process
+2025-12-18 21:14:41,931 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-18 21:14:42,657 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-18 21:14:43,657 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-18 21:14:44,518 - INFO - Found open case: Prosper - Lantern...
+2025-12-18 21:14:45,518 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-18 21:14:46,537 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-18 21:14:47,537 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-18 21:14:48,546 - INFO - Found open case: Finicity - Lantern...
+2025-12-18 21:14:49,546 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-18 21:14:50,329 - INFO - Found open case: Cleo - Lantern...
+2025-12-18 21:14:51,329 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-18 21:14:52,379 - INFO - Found open case: Klover - Lantern...
+2025-12-18 21:14:53,379 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-18 21:14:54,019 - INFO - Found open case: Albert - Lantern...
+2025-12-18 21:14:55,020 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-18 21:14:55,759 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-18 21:14:56,759 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-18 21:14:57,598 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-18 21:14:58,598 - INFO - 
+============================================================
+2025-12-18 21:14:58,598 - INFO - Lantern Labaton scraping complete!
+2025-12-18 21:14:58,598 - INFO - Total open cases found: 9
+2025-12-18 21:14:58,598 - INFO - ============================================================
+2025-12-18 21:14:58,599 - INFO - Data saved to /home/deepak/CodeLab/GitHub/Mass-Arbitration-Web-Scraping/data/scraped/lantern_labaton_data_20251218_211458.json
+2025-12-18 21:14:58,599 - INFO - Scraping completed!
+2025-12-18 21:14:58,599 - INFO - Total items scraped: 9
+2025-12-18 21:14:58,599 - INFO - Duration: 19.01 seconds
+2025-12-19 21:11:12,017 - INFO - Initialized Lantern Labaton scraper
+2025-12-19 21:11:12,017 - INFO - Date filtering enabled: last 24 hours
+2025-12-19 21:11:12,017 - INFO - Initialized Lantern Labaton scraper
+2025-12-19 21:11:12,017 - INFO - Starting Lantern Labaton scraper...
+2025-12-19 21:11:12,017 - INFO - ============================================================
+2025-12-19 21:11:12,017 - INFO - Starting Lantern Labaton scraper...
+2025-12-19 21:11:12,017 - INFO - ============================================================
+2025-12-19 21:11:12,030 - INFO - Filtering for cases newer than: 2025-12-18T15:50:08.039814+00:00
+2025-12-19 21:11:12,030 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-19 21:11:12,030 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-19 21:11:13,632 - INFO - Discovered 9 case URLs from explore page
+2025-12-19 21:11:13,632 - INFO - Found 9 case URLs to process
+2025-12-19 21:11:13,632 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-19 21:11:14,606 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-19 21:11:15,607 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-19 21:11:16,564 - INFO - Found open case: Prosper - Lantern...
+2025-12-19 21:11:17,564 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-19 21:11:18,498 - INFO - Found open case: Klover - Lantern...
+2025-12-19 21:11:19,498 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-19 21:11:20,166 - INFO - Found open case: Cleo - Lantern...
+2025-12-19 21:11:21,167 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-19 21:11:22,188 - INFO - Found open case: Finicity - Lantern...
+2025-12-19 21:11:23,188 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-19 21:11:23,926 - INFO - Found open case: Albert - Lantern...
+2025-12-19 21:11:24,926 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-19 21:11:25,978 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-19 21:11:26,978 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-19 21:11:27,717 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-19 21:11:28,717 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-19 21:11:29,666 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-19 21:11:30,666 - INFO - 
+============================================================
+2025-12-19 21:11:30,666 - INFO - Lantern Labaton scraping complete!
+2025-12-19 21:11:30,666 - INFO - Total open cases found: 9
+2025-12-19 21:11:30,666 - INFO - ============================================================
+2025-12-19 21:11:30,667 - INFO - Data saved to /home/deepak/CodeLab/GitHub/Mass-Arbitration-Web-Scraping/data/scraped/lantern_labaton_data_20251219_211130.json
+2025-12-19 21:11:30,667 - INFO - Scraping completed!
+2025-12-19 21:11:30,667 - INFO - Total items scraped: 9
+2025-12-19 21:11:30,667 - INFO - Duration: 18.65 seconds
+2025-12-22 20:53:48,711 - INFO - Initialized Lantern Labaton scraper
+2025-12-22 20:53:48,711 - INFO - Date filtering enabled: last 24 hours
+2025-12-22 20:53:48,711 - INFO - Initialized Lantern Labaton scraper
+2025-12-22 20:53:48,712 - INFO - Starting Lantern Labaton scraper...
+2025-12-22 20:53:48,712 - INFO - ============================================================
+2025-12-22 20:53:48,712 - INFO - Starting Lantern Labaton scraper...
+2025-12-22 20:53:48,712 - INFO - ============================================================
+2025-12-22 20:53:48,770 - INFO - Filtering for cases newer than: 2025-12-19T15:46:57.761314+00:00
+2025-12-22 20:53:48,770 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-22 20:53:48,770 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-22 20:53:50,644 - INFO - Discovered 9 case URLs from explore page
+2025-12-22 20:53:50,645 - INFO - Found 9 case URLs to process
+2025-12-22 20:53:50,646 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-22 20:53:51,466 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-22 20:53:52,467 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-22 20:53:52,876 - INFO - Found open case: Albert - Lantern...
+2025-12-22 20:53:53,877 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-22 20:53:54,798 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-22 20:53:55,799 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-22 20:53:56,724 - INFO - Found open case: Cleo - Lantern...
+2025-12-22 20:53:57,724 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-22 20:53:58,597 - INFO - Found open case: Finicity - Lantern...
+2025-12-22 20:53:59,597 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-22 20:54:00,537 - INFO - Found open case: Prosper - Lantern...
+2025-12-22 20:54:01,538 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-22 20:54:02,542 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-22 20:54:03,543 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-22 20:54:04,427 - INFO - Found open case: Klover - Lantern...
+2025-12-22 20:54:05,428 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-22 20:54:06,188 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-22 20:54:07,188 - INFO - 
+============================================================
+2025-12-22 20:54:07,189 - INFO - Lantern Labaton scraping complete!
+2025-12-22 20:54:07,190 - INFO - Total open cases found: 9
+2025-12-22 20:54:07,190 - INFO - ============================================================
+2025-12-22 20:54:07,193 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251222_205407.json
+2025-12-22 20:54:07,193 - INFO - Scraping completed!
+2025-12-22 20:54:07,194 - INFO - Total items scraped: 9
+2025-12-22 20:54:07,195 - INFO - Duration: 18.48 seconds
+2025-12-23 20:49:25,247 - INFO - Initialized Lantern Labaton scraper
+2025-12-23 20:49:25,251 - INFO - Date filtering enabled: last 24 hours
+2025-12-23 20:49:25,252 - INFO - Initialized Lantern Labaton scraper
+2025-12-23 20:49:25,253 - INFO - Starting Lantern Labaton scraper...
+2025-12-23 20:49:25,253 - INFO - ============================================================
+2025-12-23 20:49:25,254 - INFO - Starting Lantern Labaton scraper...
+2025-12-23 20:49:25,255 - INFO - ============================================================
+2025-12-23 20:49:25,450 - INFO - Filtering for cases newer than: 2025-12-22T15:29:19.862676+00:00
+2025-12-23 20:49:25,452 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-23 20:49:25,453 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-23 20:49:29,102 - INFO - Discovered 9 case URLs from explore page
+2025-12-23 20:49:29,104 - INFO - Found 9 case URLs to process
+2025-12-23 20:49:29,105 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-23 20:49:30,339 - INFO - Found open case: Albert - Lantern...
+2025-12-23 20:49:31,342 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-23 20:49:32,399 - INFO - Found open case: Cleo - Lantern...
+2025-12-23 20:49:33,401 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-23 20:49:34,436 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-23 20:49:35,439 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-23 20:49:36,390 - INFO - Found open case: Klover - Lantern...
+2025-12-23 20:49:37,391 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-23 20:49:38,535 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-23 20:49:39,537 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-23 20:49:40,485 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-23 20:49:41,487 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-23 20:49:42,431 - INFO - Found open case: Prosper - Lantern...
+2025-12-23 20:49:43,433 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-23 20:49:44,568 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-23 20:49:45,571 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-23 20:49:46,936 - INFO - Found open case: Finicity - Lantern...
+2025-12-23 20:49:47,937 - INFO - 
+============================================================
+2025-12-23 20:49:47,938 - INFO - Lantern Labaton scraping complete!
+2025-12-23 20:49:47,939 - INFO - Total open cases found: 9
+2025-12-23 20:49:47,940 - INFO - ============================================================
+2025-12-23 20:49:47,944 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251223_204947.json
+2025-12-23 20:49:47,947 - INFO - Scraping completed!
+2025-12-23 20:49:47,948 - INFO - Total items scraped: 9
+2025-12-23 20:49:47,949 - INFO - Duration: 22.69 seconds
+2025-12-24 19:58:13,280 - INFO - Initialized Lantern Labaton scraper
+2025-12-24 19:58:13,280 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 19:58:13,281 - INFO - Initialized Lantern Labaton scraper
+2025-12-24 19:58:13,281 - INFO - Starting Lantern Labaton scraper...
+2025-12-24 19:58:13,281 - INFO - ============================================================
+2025-12-24 19:58:13,282 - INFO - Starting Lantern Labaton scraper...
+2025-12-24 19:58:13,282 - INFO - ============================================================
+2025-12-24 19:58:13,341 - INFO - Filtering for cases newer than: 2025-12-23T15:25:32.935122+00:00
+2025-12-24 19:58:13,341 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-24 19:58:13,342 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-24 19:58:16,014 - INFO - Discovered 9 case URLs from explore page
+2025-12-24 19:58:16,015 - INFO - Found 9 case URLs to process
+2025-12-24 19:58:16,015 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-24 19:58:17,277 - INFO - Found open case: Albert - Lantern...
+2025-12-24 19:58:18,279 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-24 19:58:19,288 - INFO - Found open case: Prosper - Lantern...
+2025-12-24 19:58:20,289 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-24 19:58:21,241 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-24 19:58:22,242 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-24 19:58:23,193 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-24 19:58:24,194 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-24 19:58:25,299 - INFO - Found open case: Finicity - Lantern...
+2025-12-24 19:58:26,300 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-24 19:58:27,231 - INFO - Found open case: Klover - Lantern...
+2025-12-24 19:58:28,232 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-24 19:58:29,148 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-24 19:58:30,149 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-24 19:58:30,868 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-24 19:58:31,869 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-24 19:58:32,792 - INFO - Found open case: Cleo - Lantern...
+2025-12-24 19:58:33,793 - INFO - 
+============================================================
+2025-12-24 19:58:33,794 - INFO - Lantern Labaton scraping complete!
+2025-12-24 19:58:33,794 - INFO - Total open cases found: 9
+2025-12-24 19:58:33,794 - INFO - ============================================================
+2025-12-24 19:58:33,797 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251224_195833.json
+2025-12-24 19:58:33,797 - INFO - Scraping completed!
+2025-12-24 19:58:33,798 - INFO - Total items scraped: 9
+2025-12-24 19:58:33,798 - INFO - Duration: 20.52 seconds
+2025-12-24 20:33:50,793 - INFO - Initialized Lantern Labaton scraper
+2025-12-24 20:33:50,796 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 20:33:50,797 - INFO - Initialized Lantern Labaton scraper
+2025-12-24 20:33:50,798 - INFO - Starting Lantern Labaton scraper...
+2025-12-24 20:33:50,799 - INFO - ============================================================
+2025-12-24 20:33:50,799 - INFO - Starting Lantern Labaton scraper...
+2025-12-24 20:33:50,799 - INFO - ============================================================
+2025-12-24 20:33:50,899 - INFO - Filtering for cases newer than: 2025-12-24T14:33:16.958921+00:00
+2025-12-24 20:33:50,900 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-24 20:33:50,900 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-24 20:33:53,134 - INFO - Discovered 9 case URLs from explore page
+2025-12-24 20:33:53,135 - INFO - Found 9 case URLs to process
+2025-12-24 20:33:53,136 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-24 20:33:54,195 - INFO - Found open case: Prosper - Lantern...
+2025-12-24 20:33:55,196 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-24 20:33:55,932 - INFO - Found open case: Cleo - Lantern...
+2025-12-24 20:33:56,934 - INFO - Fetching: https://lantern.labaton.com/case/seatgeek
+2025-12-24 20:33:57,996 - INFO - Found open case: SeatGeek - Lantern...
+2025-12-24 20:33:58,998 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-24 20:33:59,925 - INFO - Found open case: Albert - Lantern...
+2025-12-24 20:34:00,928 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-24 20:34:01,878 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-24 20:34:02,879 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-24 20:34:03,815 - INFO - Found open case: Finicity - Lantern...
+2025-12-24 20:34:04,816 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-24 20:34:05,777 - INFO - Found open case: Klover - Lantern...
+2025-12-24 20:34:06,778 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-24 20:34:07,707 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-24 20:34:08,708 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-24 20:34:09,452 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-24 20:34:10,453 - INFO - 
+============================================================
+2025-12-24 20:34:10,454 - INFO - Lantern Labaton scraping complete!
+2025-12-24 20:34:10,455 - INFO - Total open cases found: 9
+2025-12-24 20:34:10,456 - INFO - ============================================================
+2025-12-24 20:34:10,459 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251224_203410.json
+2025-12-24 20:34:10,464 - INFO - Scraping completed!
+2025-12-24 20:34:10,465 - INFO - Total items scraped: 9
+2025-12-24 20:34:10,465 - INFO - Duration: 19.66 seconds
+2025-12-26 21:21:33,995 - INFO - Initialized Lantern Labaton scraper
+2025-12-26 21:21:33,997 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 21:21:33,998 - INFO - Initialized Lantern Labaton scraper
+2025-12-26 21:21:33,998 - INFO - Starting Lantern Labaton scraper...
+2025-12-26 21:21:33,999 - INFO - ============================================================
+2025-12-26 21:21:34,000 - INFO - Starting Lantern Labaton scraper...
+2025-12-26 21:21:34,001 - INFO - ============================================================
+2025-12-26 21:21:34,234 - INFO - Filtering for cases newer than: 2025-12-24T15:08:23.765854+00:00
+2025-12-26 21:21:34,241 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-26 21:21:34,242 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-26 21:21:39,247 - INFO - Discovered 9 case URLs from explore page
+2025-12-26 21:21:39,250 - INFO - Found 9 case URLs to process
+2025-12-26 21:21:39,253 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-26 21:21:40,309 - INFO - Found open case: Albert - Lantern...
+2025-12-26 21:21:41,311 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-26 21:21:42,414 - INFO - Found open case: Klover - Lantern...
+2025-12-26 21:21:43,416 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-26 21:21:44,976 - INFO - Found open case: Prosper - Lantern...
+2025-12-26 21:21:45,978 - INFO - Fetching: https://lantern.labaton.com/case/the-athletic
+2025-12-26 21:21:47,186 - INFO - Found open case: The Athletic - Lantern...
+2025-12-26 21:21:48,192 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-26 21:21:49,724 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-26 21:21:50,726 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-26 21:21:51,966 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-26 21:21:52,969 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-26 21:21:54,150 - INFO - Found open case: Finicity - Lantern...
+2025-12-26 21:21:55,152 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-26 21:21:56,411 - INFO - Found open case: Cleo - Lantern...
+2025-12-26 21:21:57,413 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-26 21:21:58,911 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-26 21:21:59,913 - INFO - 
+============================================================
+2025-12-26 21:21:59,914 - INFO - Lantern Labaton scraping complete!
+2025-12-26 21:21:59,916 - INFO - Total open cases found: 9
+2025-12-26 21:21:59,917 - INFO - ============================================================
+2025-12-26 21:21:59,921 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251226_212159.json
+2025-12-26 21:21:59,929 - INFO - Scraping completed!
+2025-12-26 21:21:59,930 - INFO - Total items scraped: 9
+2025-12-26 21:21:59,931 - INFO - Duration: 25.93 seconds
+2025-12-26 22:38:40,432 - INFO - Initialized Lantern Labaton scraper
+2025-12-26 22:38:40,434 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 22:38:40,434 - INFO - Initialized Lantern Labaton scraper
+2025-12-26 22:38:40,435 - INFO - Starting Lantern Labaton scraper...
+2025-12-26 22:38:40,436 - INFO - ============================================================
+2025-12-26 22:38:40,436 - INFO - Starting Lantern Labaton scraper...
+2025-12-26 22:38:40,437 - INFO - ============================================================
+2025-12-26 22:38:40,625 - INFO - Filtering for cases newer than: 2025-12-26T15:57:21.657959+00:00
+2025-12-26 22:38:40,626 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-26 22:38:40,627 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-26 22:38:43,299 - INFO - Discovered 9 case URLs from explore page
+2025-12-26 22:38:43,300 - INFO - Found 9 case URLs to process
+2025-12-26 22:38:43,301 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-26 22:38:44,077 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-26 22:38:45,079 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-26 22:38:46,190 - INFO - Found open case: Klover - Lantern...
+2025-12-26 22:38:47,192 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-26 22:38:48,254 - INFO - Found open case: Cleo - Lantern...
+2025-12-26 22:38:49,255 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-26 22:38:50,356 - INFO - Found open case: Albert - Lantern...
+2025-12-26 22:38:51,357 - INFO - Fetching: https://lantern.labaton.com/case/the-athletic
+2025-12-26 22:38:51,958 - INFO - Found open case: The Athletic - Lantern...
+2025-12-26 22:38:52,960 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-26 22:38:54,031 - INFO - Found open case: Prosper - Lantern...
+2025-12-26 22:38:55,033 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-26 22:38:56,108 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-26 22:38:57,112 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-26 22:38:58,122 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-26 22:38:59,123 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-26 22:39:00,179 - INFO - Found open case: Finicity - Lantern...
+2025-12-26 22:39:01,181 - INFO - 
+============================================================
+2025-12-26 22:39:01,183 - INFO - Lantern Labaton scraping complete!
+2025-12-26 22:39:01,184 - INFO - Total open cases found: 9
+2025-12-26 22:39:01,184 - INFO - ============================================================
+2025-12-26 22:39:01,188 - INFO - Data saved to C:\Users\Rahul\Desktop\CodeLab\GitHub\Mass-Arbitration-Web-Scraping\data\scraped\lantern_labaton_data_20251226_223901.json
+2025-12-26 22:39:01,189 - INFO - Scraping completed!
+2025-12-26 22:39:01,189 - INFO - Total items scraped: 9
+2025-12-26 22:39:01,189 - INFO - Duration: 20.75 seconds
+2025-12-30 22:08:00,903 - INFO - Initialized Lantern Labaton scraper
+2025-12-30 22:08:00,903 - INFO - Date filtering enabled: last 24 hours
+2025-12-30 22:08:00,903 - INFO - Initialized Lantern Labaton scraper
+2025-12-30 22:08:00,903 - INFO - Starting Lantern Labaton scraper...
+2025-12-30 22:08:00,903 - INFO - ============================================================
+2025-12-30 22:08:00,903 - INFO - Starting Lantern Labaton scraper...
+2025-12-30 22:08:00,904 - INFO - ============================================================
+2025-12-30 22:08:00,920 - INFO - Filtering for cases newer than: 2025-12-26T17:20:07.481184+00:00
+2025-12-30 22:08:00,920 - INFO - Discovering cases from: https://lantern.labaton.com/explore-cases
+2025-12-30 22:08:00,920 - INFO - Fetching: https://lantern.labaton.com/explore-cases
+2025-12-30 22:08:02,963 - INFO - Discovered 9 case URLs from explore page
+2025-12-30 22:08:02,964 - INFO - Found 9 case URLs to process
+2025-12-30 22:08:02,964 - INFO - Fetching: https://lantern.labaton.com/case/prosper
+2025-12-30 22:08:03,681 - INFO - Found open case: Prosper - Lantern...
+2025-12-30 22:08:04,681 - INFO - Fetching: https://lantern.labaton.com/case/klover
+2025-12-30 22:08:05,345 - INFO - Found open case: Klover - Lantern...
+2025-12-30 22:08:06,345 - INFO - Fetching: https://lantern.labaton.com/case/finicity
+2025-12-30 22:08:07,017 - INFO - Found open case: Finicity - Lantern...
+2025-12-30 22:08:08,018 - INFO - Fetching: https://lantern.labaton.com/case/cleo
+2025-12-30 22:08:08,893 - INFO - Found open case: Cleo - Lantern...
+2025-12-30 22:08:09,894 - INFO - Fetching: https://lantern.labaton.com/case/gold-coin-group
+2025-12-30 22:08:10,558 - INFO - Found open case: Gold Coin Group - Lantern...
+2025-12-30 22:08:11,558 - INFO - Fetching: https://lantern.labaton.com/case/vgw-holdings
+2025-12-30 22:08:12,212 - INFO - Found open case: VGW Holdings - Lantern...
+2025-12-30 22:08:13,213 - INFO - Fetching: https://lantern.labaton.com/case/albert
+2025-12-30 22:08:14,135 - INFO - Found open case: Albert - Lantern...
+2025-12-30 22:08:15,135 - INFO - Fetching: https://lantern.labaton.com/case/the-athletic
+2025-12-30 22:08:15,810 - INFO - Found open case: The Athletic - Lantern...
+2025-12-30 22:08:16,811 - INFO - Fetching: https://lantern.labaton.com/case/summit-one-vanderbilt
+2025-12-30 22:08:17,709 - INFO - Found open case: Summit One Vanderbilt - Lantern...
+2025-12-30 22:08:18,710 - INFO - 
+============================================================
+2025-12-30 22:08:18,710 - INFO - Lantern Labaton scraping complete!
+2025-12-30 22:08:18,710 - INFO - Total open cases found: 9
+2025-12-30 22:08:18,710 - INFO - ============================================================
+2025-12-30 22:08:18,710 - INFO - Data saved to /home/deepak/CodeLab/GitHub/Mass-Arbitration-Web-Scraping/data/scraped/lantern_labaton_data_20251230_220818.json
+2025-12-30 22:08:18,710 - INFO - Scraping completed!
+2025-12-30 22:08:18,710 - INFO - Total items scraped: 9
+2025-12-30 22:08:18,710 - INFO - Duration: 17.81 seconds

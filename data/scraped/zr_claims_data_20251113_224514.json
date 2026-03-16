@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://zrclaims.com/case/healthcare-insurance-investigation/",
+    "title": "Healthcare Insurance Investigation",
+    "description": "We are investigating whether health insurance companies may have violated the law by failing to obtain the most cost-effective healthcare options for you and other employees.",
+    "date": null,
+    "scraped_at": "2025-11-13T22:44:43.440491",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  },
+  {
+    "url": "https://zrclaims.com/mortgage-data-privacy-investigations/",
+    "title": "Mortgage Data Privacy Investigations",
+    "description": "We are investigating several mortgage companies that may have violated privacy laws by using internet tracking software called pixels to collect and disclose sensitive information tied to online loan applications and loan inquiries without customer consent.",
+    "date": null,
+    "scraped_at": "2025-11-13T22:44:48.710463",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  },
+  {
+    "url": "https://zrclaims.com/case/rxsugar-deceptive-advertising-claims/",
+    "title": "RXSugar GLP-1 Boosters Deceptive Advertising Claims",
+    "description": "We are investigating whether RXSugar may have violated consumer protection laws by comparing the effects of their booster supplements to actual GLP-1 agonists like Ozempic and potentially giving consumers the false impression that they can achieve similar results.",
+    "date": null,
+    "scraped_at": "2025-11-13T22:44:50.453712",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  }
+]

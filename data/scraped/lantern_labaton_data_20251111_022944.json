@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://lantern.labaton.com/case/albert",
+    "title": "Albert - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:29.071663",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/twilio",
+    "title": "Twilio - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:30.891881",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/vgw-holdings",
+    "title": "VGW Holdings - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:32.583291",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/prosper",
+    "title": "Prosper - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:34.309736",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/cleo",
+    "title": "Cleo - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:36.362373",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/finicity",
+    "title": "Finicity - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:38.277488",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/tilt",
+    "title": "Tilt - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:40.166774",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/gold-coin-group",
+    "title": "Gold Coin Group - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:41.860583",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  },
+  {
+    "url": "https://lantern.labaton.com/case/seatgeek",
+    "title": "SeatGeek - Lantern",
+    "description": "[email protected]",
+    "potential_recovery": "$500 or more POTENTIAL RECOVERY",
+    "eligible_states": "California, New York, and Virginia",
+    "date": null,
+    "scraped_at": "2025-11-11T02:29:43.837085",
+    "source": "Lantern Labaton",
+    "status": "Open to New Clients"
+  }
+]

@@ -1,0 +1,35 @@
+# Mass ARB Scraper System - Python Dependencies
+# Use pip-tools to compile: pip-compile requirements.in
+# This generates requirements.txt with pinned versions
+
+# ============================================================================
+# WEB SCRAPING
+# ============================================================================
+requests
+beautifulsoup4
+lxml
+
+# ============================================================================
+# DATA PROCESSING
+# ============================================================================
+python-dateutil
+
+# ============================================================================
+# ENVIRONMENT & CONFIGURATION
+# ============================================================================
+python-dotenv
+
+# ============================================================================
+# OPTIONAL: For enhanced features
+# ============================================================================
+# Uncomment if needed for specific use cases
+
+# selenium              # For JavaScript-heavy sites
+# playwright            # Alternative to Selenium
+# scrapy                # For large-scale scraping
+# pandas                # For data analysis
+# openpyxl              # For Excel export
+# python-docx           # For Word document generation
+
+selenium
+webdriver-manager

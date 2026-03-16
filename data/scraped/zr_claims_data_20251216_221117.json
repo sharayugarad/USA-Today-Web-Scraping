@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://zrclaims.com/mortgage-data-privacy-investigations/",
+    "title": "Mortgage Data Privacy Investigations",
+    "description": "We are investigating several mortgage companies that may have violated privacy laws by using internet tracking software called pixels to collect and disclose sensitive information tied to online loan applications and loan inquiries without customer consent.",
+    "date": null,
+    "scraped_at": "2025-12-16T22:10:25.694234",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  },
+  {
+    "url": "https://zrclaims.com/case/healthcare-insurance-investigation/",
+    "title": "Healthcare Insurance Investigation",
+    "description": "We are investigating whether health insurance companies may have violated the law by failing to obtain the most cost-effective healthcare options for you and other employees.",
+    "date": null,
+    "scraped_at": "2025-12-16T22:10:50.324618",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  },
+  {
+    "url": "https://zrclaims.com/case/blackstone-fake-discount-investigation/",
+    "title": "Blackstone Fake Discount Investigation",
+    "description": "We are currently investigating Blackstone for allegedly displaying fake discounts for products sold on its website, ranging from its wetsuits to the rest of its product line.",
+    "date": null,
+    "scraped_at": "2025-12-16T22:11:15.275994",
+    "source": "ZR Claims (Zimmerman Reed)",
+    "type": "Investigation/Class Action"
+  }
+]

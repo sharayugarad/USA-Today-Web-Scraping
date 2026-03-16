@@ -1,0 +1,147 @@
+{
+  "clarkson": {
+    "scraper_name": "Clarkson Law Firm",
+    "last_run": "2025-12-30T16:42:49.832240+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.832240+00:00"
+  },
+  "classaction": {
+    "last_run": "2024-11-03T23:01:58",
+    "last_success": true,
+    "urls_found": 0
+  },
+  "forthepeople": {
+    "scraper_name": "For The People",
+    "last_run": "2025-12-30T16:42:49.862832+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.862832+00:00"
+  },
+  "lantern_labaton": {
+    "scraper_name": "Lantern Labaton",
+    "last_run": "2025-12-30T16:42:49.862992+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.862992+00:00"
+  },
+  "lowey": {
+    "scraper_name": "Lowey Dannenberg",
+    "last_run": "2025-12-30T16:42:49.863146+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.863146+00:00"
+  },
+  "zr_claims": {
+    "scraper_name": "ZR Claims",
+    "last_run": "2025-12-30T16:42:49.864005+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.864005+00:00"
+  },
+  "tx_ag": {
+    "scraper_name": "Texas AG",
+    "last_run": "2025-12-30T16:42:49.831906+00:00",
+    "last_success": true,
+    "urls_found": 1,
+    "timestamp": "2025-12-30T16:42:49.831906+00:00"
+  },
+  "classaction_org": {
+    "scraper_name": "ClassAction.org",
+    "last_run": "2025-12-30T16:42:49.864263+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.864263+00:00"
+  },
+  "ny_ag": {
+    "scraper_name": "New York AG",
+    "last_run": "2025-12-30T16:42:49.864683+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.864683+00:00"
+  },
+  "crosner": {
+    "scraper_name": "Crosner Legal",
+    "last_run": "2025-12-30T16:42:49.862642+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.862642+00:00"
+  },
+  "shamis_gentile": {
+    "scraper_name": "Shamis & Gentile",
+    "last_run": "2025-12-30T16:42:49.863295+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.863295+00:00"
+  },
+  "berger_montague": {
+    "scraper_name": "Berger Montague",
+    "last_run": "2025-12-30T16:42:49.863510+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.863510+00:00"
+  },
+  "siri_llp": {
+    "scraper_name": "Siri & Glimstad LLP",
+    "last_run": "2025-12-30T16:42:49.863657+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.863657+00:00"
+  },
+  "toppe_firm": {
+    "scraper_name": "Toppefirm",
+    "last_run": "2025-12-30T16:42:49.863814+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.863814+00:00"
+  },
+  "consumer_protection": {
+    "scraper_name": "Consumer Protection Law",
+    "last_run": "2025-12-30T16:42:49.864482+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:42:49.864482+00:00"
+  },
+  "test_scraper": {
+    "scraper_name": "Test Scraper",
+    "last_run": "2025-11-28T17:47:40.291284+00:00",
+    "last_success": true,
+    "urls_found": 5,
+    "timestamp": "2025-11-28T17:47:40.291284+00:00"
+  },
+  "rankiteo": {
+    "scraper_name": "Rankiteo",
+    "last_run": "2025-12-22T15:09:05.539110+00:00",
+    "last_success": true,
+    "urls_found": 11,
+    "timestamp": "2025-12-22T15:09:05.539110+00:00"
+  },
+  "joinclassactions": {
+    "scraper_name": "Join Class Actions",
+    "last_run": "2025-12-30T16:24:56.589158+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:24:56.589158+00:00"
+  },
+  "brannlaw": {
+    "scraper_name": "Brann Law",
+    "last_run": "2025-12-30T16:24:56.588553+00:00",
+    "last_success": true,
+    "urls_found": 0,
+    "timestamp": "2025-12-30T16:24:56.588553+00:00"
+  },
+  "breachsense": {
+    "scraper_name": "Breachsense",
+    "last_run": "2025-12-10T19:03:59.371498+00:00",
+    "last_success": true,
+    "urls_found": 12,
+    "timestamp": "2025-12-10T19:03:59.371498+00:00"
+  },
+  "usatoday_breaches": {
+    "scraper_name": "USA Today Healthcare Breaches",
+    "last_run": "2025-12-10T19:03:59.375732+00:00",
+    "last_success": true,
+    "urls_found": 1,
+    "timestamp": "2025-12-10T19:03:59.375732+00:00"
+  }
+}

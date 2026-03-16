@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://www.toppefirm.com/",
+    "hash": "c45f88a0e2f617849e4d69769658f589",
+    "scraped_at": "2025-10-31T23:17:29.529201",
+    "links": [
+      {
+        "link": "https://www.toppefirm.com/cart",
+        "text": "0",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/#page",
+        "text": "Skip to Content",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/",
+        "text": "",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/about",
+        "text": "About",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/contact",
+        "text": "Contact",
+        "type": "contact"
+      },
+      {
+        "link": "https://www.toppefirm.com/quickbooks",
+        "text": "QuickBooks Claims",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/",
+        "text": "",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/about",
+        "text": "About",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/contact",
+        "text": "Contact",
+        "type": "contact"
+      },
+      {
+        "link": "https://www.toppefirm.com/quickbooks",
+        "text": "QuickBooks Claims",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/about",
+        "text": "About",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/contact",
+        "text": "Contact",
+        "type": "contact"
+      },
+      {
+        "link": "https://www.toppefirm.com/quickbooks",
+        "text": "QuickBooks Claims",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/quickbooks",
+        "text": "here",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/quickbooks",
+        "text": "QuickBooks Claims",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/privacy-policy-1",
+        "text": "Privacy Policy",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/terms-of-use",
+        "text": "Terms of Use",
+        "type": "internal"
+      },
+      {
+        "link": "https://www.toppefirm.com/disclaimer-1",
+        "text": "Disclaimer",
+        "type": "internal"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/664b706801e5fa05f66a3716/e1616c69-c0a4-4f7e-917a-46959ada0b14/2+%285%29.png?format=1500w",
+        "alt": "The Toppe Firm, LLC"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/664b706801e5fa05f66a3716/e1616c69-c0a4-4f7e-917a-46959ada0b14/2+%285%29.png?format=1500w",
+        "alt": "The Toppe Firm, LLC"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/664b706801e5fa05f66a3716/d7107d07-ed3c-4d7b-b80f-e2411a5ee1dc/LMY00324.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/664b706801e5fa05f66a3716/b6ac68e6-d7fc-41e3-8cef-8b2dc6f007b3/iStock-479153972.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/664b706801e5fa05f66a3716/909cb08d-3059-4fbc-8d4f-c94ed578ec80/2+%285%29.png",
+        "alt": ""
+      }
+    ],
+    "forms": []
+  }
+]

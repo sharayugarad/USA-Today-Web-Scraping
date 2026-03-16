@@ -1,0 +1,9 @@
+{
+    "_note": "Email credentials are now loaded from config/secret.local.env. This file is kept for reference only.",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "use_ssl": false,
+    "sender_email": "(see config/secret.local.env)",
+    "sender_password": "(see config/secret.local.env)",
+    "receiver_emails": "(see config/secret.local.env)"
+}

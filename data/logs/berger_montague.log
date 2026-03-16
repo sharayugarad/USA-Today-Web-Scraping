@@ -1,0 +1,1136 @@
+2025-11-06 02:12:17,018 - INFO - Initialized Berger Montague scraper
+2025-11-06 02:12:17,019 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 02:12:17,022 - INFO - Initialized Berger Montague scraper
+2025-11-06 02:12:17,027 - INFO - Starting Berger Montague scraper...
+2025-11-06 02:12:17,028 - INFO - ============================================================
+2025-11-06 02:12:17,029 - INFO - Starting Berger Montague scraper...
+2025-11-06 02:12:17,030 - INFO - ============================================================
+2025-11-06 02:12:17,051 - INFO - First run - including all active investigations
+2025-11-06 02:12:17,053 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 02:12:17,638 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 02:12:17,640 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-06 02:12:17,640 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-06 02:12:17,728 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-06 02:12:17,730 - INFO - Discovered 0 potential investigation URLs
+2025-11-06 02:12:17,731 - INFO - 
+============================================================
+2025-11-06 02:12:17,732 - INFO - Berger Montague scraping complete!
+2025-11-06 02:12:17,733 - INFO - Total active investigations found: 0
+2025-11-06 02:12:17,734 - INFO - ============================================================
+2025-11-06 02:12:17,737 - INFO - Scraping completed!
+2025-11-06 02:12:17,740 - INFO - Total items scraped: 0
+2025-11-06 02:12:17,745 - INFO - Duration: 0.71 seconds
+2025-11-06 03:14:40,656 - INFO - Initialized Berger Montague scraper
+2025-11-06 03:14:40,660 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 03:14:40,662 - INFO - Initialized Berger Montague scraper
+2025-11-06 03:14:40,665 - INFO - Starting Berger Montague scraper...
+2025-11-06 03:14:40,666 - INFO - ============================================================
+2025-11-06 03:14:40,671 - INFO - Starting Berger Montague scraper...
+2025-11-06 03:14:40,673 - INFO - ============================================================
+2025-11-06 03:14:40,749 - INFO - First run - including all active investigations
+2025-11-06 03:14:40,751 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 03:14:42,262 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 03:14:42,264 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-06 03:14:42,266 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-06 03:14:42,385 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-06 03:14:42,388 - INFO - Discovered 0 potential investigation URLs
+2025-11-06 03:14:42,390 - INFO - 
+============================================================
+2025-11-06 03:14:42,396 - INFO - Berger Montague scraping complete!
+2025-11-06 03:14:42,397 - INFO - Total active investigations found: 0
+2025-11-06 03:14:42,398 - INFO - ============================================================
+2025-11-06 03:14:42,406 - INFO - Scraping completed!
+2025-11-06 03:14:42,408 - INFO - Total items scraped: 0
+2025-11-06 03:14:42,411 - INFO - Duration: 1.74 seconds
+2025-11-06 22:45:28,707 - INFO - Initialized Berger Montague scraper
+2025-11-06 22:45:28,708 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 22:45:28,709 - INFO - Initialized Berger Montague scraper
+2025-11-06 22:45:28,709 - INFO - Starting Berger Montague scraper...
+2025-11-06 22:45:28,710 - INFO - ============================================================
+2025-11-06 22:45:28,710 - INFO - Starting Berger Montague scraper...
+2025-11-06 22:45:28,711 - INFO - ============================================================
+2025-11-06 22:45:28,727 - INFO - First run - including all active investigations
+2025-11-06 22:45:28,728 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 22:45:29,304 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 22:45:29,305 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-06 22:45:29,306 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-06 22:45:29,400 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-06 22:45:29,400 - INFO - Discovered 0 potential investigation URLs
+2025-11-06 22:45:29,400 - INFO - 
+============================================================
+2025-11-06 22:45:29,400 - INFO - Berger Montague scraping complete!
+2025-11-06 22:45:29,401 - INFO - Total active investigations found: 0
+2025-11-06 22:45:29,401 - INFO - ============================================================
+2025-11-06 22:45:29,401 - INFO - Scraping completed!
+2025-11-06 22:45:29,401 - INFO - Total items scraped: 0
+2025-11-06 22:45:29,402 - INFO - Duration: 0.69 seconds
+2025-11-06 23:12:17,650 - INFO - Initialized Berger Montague scraper
+2025-11-06 23:12:17,652 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:12:17,653 - INFO - Initialized Berger Montague scraper
+2025-11-06 23:12:17,655 - INFO - Starting Berger Montague scraper...
+2025-11-06 23:12:17,655 - INFO - ============================================================
+2025-11-06 23:12:17,660 - INFO - Starting Berger Montague scraper...
+2025-11-06 23:12:17,662 - INFO - ============================================================
+2025-11-06 23:12:17,708 - INFO - First run - including all active investigations
+2025-11-06 23:12:17,708 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 23:12:18,819 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 23:12:18,820 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-06 23:12:18,821 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-06 23:12:18,923 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-06 23:12:18,925 - INFO - Discovered 0 potential investigation URLs
+2025-11-06 23:12:18,925 - INFO - 
+============================================================
+2025-11-06 23:12:18,926 - INFO - Berger Montague scraping complete!
+2025-11-06 23:12:18,927 - INFO - Total active investigations found: 0
+2025-11-06 23:12:18,927 - INFO - ============================================================
+2025-11-06 23:12:18,928 - INFO - Scraping completed!
+2025-11-06 23:12:18,929 - INFO - Total items scraped: 0
+2025-11-06 23:12:18,929 - INFO - Duration: 1.27 seconds
+2025-11-06 23:52:06,214 - INFO - Initialized Berger Montague scraper
+2025-11-06 23:52:06,215 - INFO - Date filtering enabled: last 24 hours
+2025-11-06 23:52:06,227 - INFO - Initialized Berger Montague scraper
+2025-11-06 23:52:06,232 - INFO - Starting Berger Montague scraper...
+2025-11-06 23:52:06,238 - INFO - ============================================================
+2025-11-06 23:52:06,239 - INFO - Starting Berger Montague scraper...
+2025-11-06 23:52:06,244 - INFO - ============================================================
+2025-11-06 23:52:06,267 - INFO - First run - including all active investigations
+2025-11-06 23:52:06,268 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 23:52:06,796 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-06 23:52:06,798 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-06 23:52:06,799 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-06 23:52:06,896 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-06 23:52:06,897 - INFO - Discovered 0 potential investigation URLs
+2025-11-06 23:52:06,898 - INFO - 
+============================================================
+2025-11-06 23:52:06,899 - INFO - Berger Montague scraping complete!
+2025-11-06 23:52:06,899 - INFO - Total active investigations found: 0
+2025-11-06 23:52:06,900 - INFO - ============================================================
+2025-11-06 23:52:06,900 - INFO - Scraping completed!
+2025-11-06 23:52:06,900 - INFO - Total items scraped: 0
+2025-11-06 23:52:06,901 - INFO - Duration: 0.66 seconds
+2025-11-07 20:52:38,156 - INFO - Initialized Berger Montague scraper
+2025-11-07 20:52:38,158 - INFO - Date filtering enabled: last 24 hours
+2025-11-07 20:52:38,167 - INFO - Initialized Berger Montague scraper
+2025-11-07 20:52:38,168 - INFO - Starting Berger Montague scraper...
+2025-11-07 20:52:38,169 - INFO - ============================================================
+2025-11-07 20:52:38,169 - INFO - Starting Berger Montague scraper...
+2025-11-07 20:52:38,170 - INFO - ============================================================
+2025-11-07 20:52:38,205 - INFO - First run - including all active investigations
+2025-11-07 20:52:38,206 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-07 20:52:39,201 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-07 20:52:39,201 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-07 20:52:39,201 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-07 20:52:39,297 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-07 20:52:39,297 - INFO - Discovered 0 potential investigation URLs
+2025-11-07 20:52:39,298 - INFO - 
+============================================================
+2025-11-07 20:52:39,298 - INFO - Berger Montague scraping complete!
+2025-11-07 20:52:39,298 - INFO - Total active investigations found: 0
+2025-11-07 20:52:39,298 - INFO - ============================================================
+2025-11-07 20:52:39,298 - INFO - Scraping completed!
+2025-11-07 20:52:39,299 - INFO - Total items scraped: 0
+2025-11-07 20:52:39,299 - INFO - Duration: 1.13 seconds
+2025-11-10 20:59:00,236 - INFO - Initialized Berger Montague scraper
+2025-11-10 20:59:00,238 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 20:59:00,238 - INFO - Initialized Berger Montague scraper
+2025-11-10 20:59:00,239 - INFO - Starting Berger Montague scraper...
+2025-11-10 20:59:00,239 - INFO - ============================================================
+2025-11-10 20:59:00,239 - INFO - Starting Berger Montague scraper...
+2025-11-10 20:59:00,240 - INFO - ============================================================
+2025-11-10 20:59:00,252 - INFO - First run - including all active investigations
+2025-11-10 20:59:00,252 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-10 20:59:00,706 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-10 20:59:00,707 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-10 20:59:00,707 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-10 20:59:00,826 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-10 20:59:00,827 - INFO - Discovered 0 potential investigation URLs
+2025-11-10 20:59:00,828 - INFO - 
+============================================================
+2025-11-10 20:59:00,829 - INFO - Berger Montague scraping complete!
+2025-11-10 20:59:00,829 - INFO - Total active investigations found: 0
+2025-11-10 20:59:00,830 - INFO - ============================================================
+2025-11-10 20:59:00,830 - INFO - Scraping completed!
+2025-11-10 20:59:00,831 - INFO - Total items scraped: 0
+2025-11-10 20:59:00,831 - INFO - Duration: 0.59 seconds
+2025-11-10 23:16:53,845 - INFO - Initialized Berger Montague scraper
+2025-11-10 23:16:53,846 - INFO - Date filtering enabled: last 24 hours
+2025-11-10 23:16:53,846 - INFO - Initialized Berger Montague scraper
+2025-11-10 23:16:53,847 - INFO - Starting Berger Montague scraper...
+2025-11-10 23:16:53,848 - INFO - ============================================================
+2025-11-10 23:16:53,848 - INFO - Starting Berger Montague scraper...
+2025-11-10 23:16:53,849 - INFO - ============================================================
+2025-11-10 23:16:53,862 - INFO - First run - including all active investigations
+2025-11-10 23:16:53,863 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-10 23:16:54,335 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-10 23:16:54,336 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-10 23:16:54,337 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-10 23:16:54,434 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-10 23:16:54,435 - INFO - Discovered 0 potential investigation URLs
+2025-11-10 23:16:54,435 - INFO - 
+============================================================
+2025-11-10 23:16:54,436 - INFO - Berger Montague scraping complete!
+2025-11-10 23:16:54,436 - INFO - Total active investigations found: 0
+2025-11-10 23:16:54,436 - INFO - ============================================================
+2025-11-10 23:16:54,437 - INFO - Scraping completed!
+2025-11-10 23:16:54,437 - INFO - Total items scraped: 0
+2025-11-10 23:16:54,438 - INFO - Duration: 0.59 seconds
+2025-11-11 02:30:13,090 - INFO - Initialized Berger Montague scraper
+2025-11-11 02:30:13,091 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 02:30:13,093 - INFO - Initialized Berger Montague scraper
+2025-11-11 02:30:13,093 - INFO - Starting Berger Montague scraper...
+2025-11-11 02:30:13,094 - INFO - ============================================================
+2025-11-11 02:30:13,094 - INFO - Starting Berger Montague scraper...
+2025-11-11 02:30:13,094 - INFO - ============================================================
+2025-11-11 02:30:13,113 - INFO - First run - including all active investigations
+2025-11-11 02:30:13,113 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 02:30:13,606 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 02:30:13,607 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-11 02:30:13,608 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-11 02:30:13,813 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-11 02:30:13,814 - INFO - Discovered 0 potential investigation URLs
+2025-11-11 02:30:13,814 - INFO - 
+============================================================
+2025-11-11 02:30:13,815 - INFO - Berger Montague scraping complete!
+2025-11-11 02:30:13,816 - INFO - Total active investigations found: 0
+2025-11-11 02:30:13,816 - INFO - ============================================================
+2025-11-11 02:30:13,817 - INFO - Scraping completed!
+2025-11-11 02:30:13,818 - INFO - Total items scraped: 0
+2025-11-11 02:30:13,818 - INFO - Duration: 0.72 seconds
+2025-11-11 03:02:49,353 - INFO - Initialized Berger Montague scraper
+2025-11-11 03:02:49,353 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 03:02:49,353 - INFO - Initialized Berger Montague scraper
+2025-11-11 03:02:49,354 - INFO - Starting Berger Montague scraper...
+2025-11-11 03:02:49,354 - INFO - ============================================================
+2025-11-11 03:02:49,354 - INFO - Starting Berger Montague scraper...
+2025-11-11 03:02:49,355 - INFO - ============================================================
+2025-11-11 03:02:49,371 - INFO - First run - including all active investigations
+2025-11-11 03:02:49,371 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 03:02:49,836 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 03:02:49,837 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-11 03:02:49,837 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-11 03:02:49,936 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-11 03:02:49,937 - INFO - Discovered 0 potential investigation URLs
+2025-11-11 03:02:49,937 - INFO - 
+============================================================
+2025-11-11 03:02:49,937 - INFO - Berger Montague scraping complete!
+2025-11-11 03:02:49,938 - INFO - Total active investigations found: 0
+2025-11-11 03:02:49,938 - INFO - ============================================================
+2025-11-11 03:02:49,938 - INFO - Scraping completed!
+2025-11-11 03:02:49,938 - INFO - Total items scraped: 0
+2025-11-11 03:02:49,939 - INFO - Duration: 0.58 seconds
+2025-11-11 22:09:18,413 - INFO - Initialized Berger Montague scraper
+2025-11-11 22:09:18,417 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:09:18,417 - INFO - Initialized Berger Montague scraper
+2025-11-11 22:09:18,418 - INFO - Starting Berger Montague scraper...
+2025-11-11 22:09:18,418 - INFO - ============================================================
+2025-11-11 22:09:18,419 - INFO - Starting Berger Montague scraper...
+2025-11-11 22:09:18,419 - INFO - ============================================================
+2025-11-11 22:09:18,456 - INFO - First run - including all active investigations
+2025-11-11 22:09:18,457 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 22:09:19,037 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 22:09:19,038 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-11 22:09:19,039 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-11 22:09:19,142 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-11 22:09:19,144 - INFO - Discovered 0 potential investigation URLs
+2025-11-11 22:09:19,144 - INFO - 
+============================================================
+2025-11-11 22:09:19,145 - INFO - Berger Montague scraping complete!
+2025-11-11 22:09:19,146 - INFO - Total active investigations found: 0
+2025-11-11 22:09:19,146 - INFO - ============================================================
+2025-11-11 22:09:19,147 - INFO - Scraping completed!
+2025-11-11 22:09:19,148 - INFO - Total items scraped: 0
+2025-11-11 22:09:19,149 - INFO - Duration: 0.73 seconds
+2025-11-11 22:34:39,717 - INFO - Initialized Berger Montague scraper
+2025-11-11 22:34:39,718 - INFO - Date filtering enabled: last 24 hours
+2025-11-11 22:34:39,718 - INFO - Initialized Berger Montague scraper
+2025-11-11 22:34:39,718 - INFO - Starting Berger Montague scraper...
+2025-11-11 22:34:39,718 - INFO - ============================================================
+2025-11-11 22:34:39,718 - INFO - Starting Berger Montague scraper...
+2025-11-11 22:34:39,718 - INFO - ============================================================
+2025-11-11 22:34:39,748 - INFO - First run - including all active investigations
+2025-11-11 22:34:39,749 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 22:34:40,268 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-11 22:34:40,269 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-11 22:34:40,270 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-11 22:34:40,386 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-11 22:34:40,387 - INFO - Discovered 0 potential investigation URLs
+2025-11-11 22:34:40,388 - INFO - 
+============================================================
+2025-11-11 22:34:40,388 - INFO - Berger Montague scraping complete!
+2025-11-11 22:34:40,388 - INFO - Total active investigations found: 0
+2025-11-11 22:34:40,389 - INFO - ============================================================
+2025-11-11 22:34:40,389 - INFO - Scraping completed!
+2025-11-11 22:34:40,389 - INFO - Total items scraped: 0
+2025-11-11 22:34:40,390 - INFO - Duration: 0.67 seconds
+2025-11-12 00:14:28,632 - INFO - Initialized Berger Montague scraper
+2025-11-12 00:14:28,633 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:14:28,634 - INFO - Initialized Berger Montague scraper
+2025-11-12 00:14:28,634 - INFO - Starting Berger Montague scraper...
+2025-11-12 00:14:28,635 - INFO - ============================================================
+2025-11-12 00:14:28,635 - INFO - Starting Berger Montague scraper...
+2025-11-12 00:14:28,635 - INFO - ============================================================
+2025-11-12 00:14:28,655 - INFO - First run - including all active investigations
+2025-11-12 00:14:28,655 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 00:14:29,157 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 00:14:29,158 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-12 00:14:29,158 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-12 00:14:29,261 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-12 00:14:29,262 - INFO - Discovered 0 potential investigation URLs
+2025-11-12 00:14:29,263 - INFO - 
+============================================================
+2025-11-12 00:14:29,263 - INFO - Berger Montague scraping complete!
+2025-11-12 00:14:29,264 - INFO - Total active investigations found: 0
+2025-11-12 00:14:29,265 - INFO - ============================================================
+2025-11-12 00:14:29,265 - INFO - Scraping completed!
+2025-11-12 00:14:29,266 - INFO - Total items scraped: 0
+2025-11-12 00:14:29,266 - INFO - Duration: 0.63 seconds
+2025-11-12 00:48:38,920 - INFO - Initialized Berger Montague scraper
+2025-11-12 00:48:38,921 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 00:48:38,921 - INFO - Initialized Berger Montague scraper
+2025-11-12 00:48:38,921 - INFO - Starting Berger Montague scraper...
+2025-11-12 00:48:38,921 - INFO - ============================================================
+2025-11-12 00:48:38,922 - INFO - Starting Berger Montague scraper...
+2025-11-12 00:48:38,922 - INFO - ============================================================
+2025-11-12 00:48:38,939 - INFO - First run - including all active investigations
+2025-11-12 00:48:38,939 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 00:48:39,406 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 00:48:39,407 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-12 00:48:39,407 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-12 00:48:39,497 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-12 00:48:39,498 - INFO - Discovered 0 potential investigation URLs
+2025-11-12 00:48:39,499 - INFO - 
+============================================================
+2025-11-12 00:48:39,499 - INFO - Berger Montague scraping complete!
+2025-11-12 00:48:39,500 - INFO - Total active investigations found: 0
+2025-11-12 00:48:39,500 - INFO - ============================================================
+2025-11-12 00:48:39,501 - INFO - Scraping completed!
+2025-11-12 00:48:39,501 - INFO - Total items scraped: 0
+2025-11-12 00:48:39,502 - INFO - Duration: 0.58 seconds
+2025-11-12 21:14:49,095 - INFO - Initialized Berger Montague scraper
+2025-11-12 21:14:49,096 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 21:14:49,097 - INFO - Initialized Berger Montague scraper
+2025-11-12 21:14:49,097 - INFO - Starting Berger Montague scraper...
+2025-11-12 21:14:49,097 - INFO - ============================================================
+2025-11-12 21:14:49,098 - INFO - Starting Berger Montague scraper...
+2025-11-12 21:14:49,098 - INFO - ============================================================
+2025-11-12 21:14:49,120 - INFO - First run - including all active investigations
+2025-11-12 21:14:49,120 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 21:14:50,519 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 21:14:50,519 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-12 21:14:50,520 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-12 21:14:51,296 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-12 21:14:51,297 - INFO - Discovered 0 potential investigation URLs
+2025-11-12 21:14:51,297 - INFO - 
+============================================================
+2025-11-12 21:14:51,297 - INFO - Berger Montague scraping complete!
+2025-11-12 21:14:51,297 - INFO - Total active investigations found: 0
+2025-11-12 21:14:51,298 - INFO - ============================================================
+2025-11-12 21:14:51,298 - INFO - Scraping completed!
+2025-11-12 21:14:51,298 - INFO - Total items scraped: 0
+2025-11-12 21:14:51,299 - INFO - Duration: 2.20 seconds
+2025-11-12 22:33:19,771 - INFO - Initialized Berger Montague scraper
+2025-11-12 22:33:19,773 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 22:33:19,774 - INFO - Initialized Berger Montague scraper
+2025-11-12 22:33:19,775 - INFO - Starting Berger Montague scraper...
+2025-11-12 22:33:19,775 - INFO - ============================================================
+2025-11-12 22:33:19,776 - INFO - Starting Berger Montague scraper...
+2025-11-12 22:33:19,777 - INFO - ============================================================
+2025-11-12 22:33:19,816 - INFO - First run - including all active investigations
+2025-11-12 22:33:19,816 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 22:33:20,668 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 22:33:20,669 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-12 22:33:20,669 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-12 22:33:20,762 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-12 22:33:20,763 - INFO - Discovered 0 potential investigation URLs
+2025-11-12 22:33:20,764 - INFO - 
+============================================================
+2025-11-12 22:33:20,764 - INFO - Berger Montague scraping complete!
+2025-11-12 22:33:20,765 - INFO - Total active investigations found: 0
+2025-11-12 22:33:20,765 - INFO - ============================================================
+2025-11-12 22:33:20,766 - INFO - Scraping completed!
+2025-11-12 22:33:20,767 - INFO - Total items scraped: 0
+2025-11-12 22:33:20,767 - INFO - Duration: 0.99 seconds
+2025-11-12 23:04:51,298 - INFO - Initialized Berger Montague scraper
+2025-11-12 23:04:51,300 - INFO - Date filtering enabled: last 24 hours
+2025-11-12 23:04:51,300 - INFO - Initialized Berger Montague scraper
+2025-11-12 23:04:51,302 - INFO - Starting Berger Montague scraper...
+2025-11-12 23:04:51,303 - INFO - ============================================================
+2025-11-12 23:04:51,305 - INFO - Starting Berger Montague scraper...
+2025-11-12 23:04:51,306 - INFO - ============================================================
+2025-11-12 23:04:51,326 - INFO - First run - including all active investigations
+2025-11-12 23:04:51,327 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 23:04:52,079 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-12 23:04:52,080 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-12 23:04:52,080 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-12 23:04:52,789 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-12 23:04:52,789 - INFO - Discovered 0 potential investigation URLs
+2025-11-12 23:04:52,790 - INFO - 
+============================================================
+2025-11-12 23:04:52,790 - INFO - Berger Montague scraping complete!
+2025-11-12 23:04:52,790 - INFO - Total active investigations found: 0
+2025-11-12 23:04:52,790 - INFO - ============================================================
+2025-11-12 23:04:52,791 - INFO - Scraping completed!
+2025-11-12 23:04:52,791 - INFO - Total items scraped: 0
+2025-11-12 23:04:52,791 - INFO - Duration: 1.49 seconds
+2025-11-13 20:46:27,395 - INFO - Initialized Berger Montague scraper
+2025-11-13 20:46:27,397 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 20:46:27,398 - INFO - Initialized Berger Montague scraper
+2025-11-13 20:46:27,399 - INFO - Starting Berger Montague scraper...
+2025-11-13 20:46:27,399 - INFO - ============================================================
+2025-11-13 20:46:27,400 - INFO - Starting Berger Montague scraper...
+2025-11-13 20:46:27,400 - INFO - ============================================================
+2025-11-13 20:46:27,435 - INFO - First run - including all active investigations
+2025-11-13 20:46:27,436 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 20:46:28,019 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 20:46:28,022 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-13 20:46:28,023 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-13 20:46:28,118 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-13 20:46:28,120 - INFO - Discovered 0 potential investigation URLs
+2025-11-13 20:46:28,121 - INFO - 
+============================================================
+2025-11-13 20:46:28,122 - INFO - Berger Montague scraping complete!
+2025-11-13 20:46:28,125 - INFO - Total active investigations found: 0
+2025-11-13 20:46:28,130 - INFO - ============================================================
+2025-11-13 20:46:28,130 - INFO - Scraping completed!
+2025-11-13 20:46:28,130 - INFO - Total items scraped: 0
+2025-11-13 20:46:28,130 - INFO - Duration: 0.73 seconds
+2025-11-13 22:23:48,944 - INFO - Initialized Berger Montague scraper
+2025-11-13 22:23:48,945 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:23:48,947 - INFO - Initialized Berger Montague scraper
+2025-11-13 22:23:48,948 - INFO - Starting Berger Montague scraper...
+2025-11-13 22:23:48,948 - INFO - ============================================================
+2025-11-13 22:23:48,949 - INFO - Starting Berger Montague scraper...
+2025-11-13 22:23:48,949 - INFO - ============================================================
+2025-11-13 22:23:48,984 - INFO - First run - including all active investigations
+2025-11-13 22:23:48,984 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 22:23:49,516 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 22:23:49,517 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-13 22:23:49,518 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-13 22:23:49,806 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-13 22:23:49,810 - INFO - Discovered 0 potential investigation URLs
+2025-11-13 22:23:49,814 - INFO - 
+============================================================
+2025-11-13 22:23:49,814 - INFO - Berger Montague scraping complete!
+2025-11-13 22:23:49,815 - INFO - Total active investigations found: 0
+2025-11-13 22:23:49,818 - INFO - ============================================================
+2025-11-13 22:23:49,818 - INFO - Scraping completed!
+2025-11-13 22:23:49,818 - INFO - Total items scraped: 0
+2025-11-13 22:23:49,819 - INFO - Duration: 0.87 seconds
+2025-11-13 22:43:36,827 - INFO - Initialized Berger Montague scraper
+2025-11-13 22:43:36,827 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 22:43:36,829 - INFO - Initialized Berger Montague scraper
+2025-11-13 22:43:36,829 - INFO - Starting Berger Montague scraper...
+2025-11-13 22:43:36,830 - INFO - ============================================================
+2025-11-13 22:43:36,830 - INFO - Starting Berger Montague scraper...
+2025-11-13 22:43:36,830 - INFO - ============================================================
+2025-11-13 22:43:36,873 - INFO - First run - including all active investigations
+2025-11-13 22:43:36,873 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 22:43:37,337 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 22:43:37,338 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-13 22:43:37,338 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-13 22:43:37,435 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-13 22:43:37,436 - INFO - Discovered 0 potential investigation URLs
+2025-11-13 22:43:37,437 - INFO - 
+============================================================
+2025-11-13 22:43:37,437 - INFO - Berger Montague scraping complete!
+2025-11-13 22:43:37,438 - INFO - Total active investigations found: 0
+2025-11-13 22:43:37,438 - INFO - ============================================================
+2025-11-13 22:43:37,439 - INFO - Scraping completed!
+2025-11-13 22:43:37,440 - INFO - Total items scraped: 0
+2025-11-13 22:43:37,440 - INFO - Duration: 0.61 seconds
+2025-11-13 23:13:13,653 - INFO - Initialized Berger Montague scraper
+2025-11-13 23:13:13,661 - INFO - Date filtering enabled: last 24 hours
+2025-11-13 23:13:13,662 - INFO - Initialized Berger Montague scraper
+2025-11-13 23:13:13,664 - INFO - Starting Berger Montague scraper...
+2025-11-13 23:13:13,665 - INFO - ============================================================
+2025-11-13 23:13:13,665 - INFO - Starting Berger Montague scraper...
+2025-11-13 23:13:13,666 - INFO - ============================================================
+2025-11-13 23:13:13,774 - INFO - First run - including all active investigations
+2025-11-13 23:13:13,775 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 23:13:14,916 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-13 23:13:14,919 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-13 23:13:14,920 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-13 23:13:15,019 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-13 23:13:15,020 - INFO - Discovered 0 potential investigation URLs
+2025-11-13 23:13:15,021 - INFO - 
+============================================================
+2025-11-13 23:13:15,022 - INFO - Berger Montague scraping complete!
+2025-11-13 23:13:15,023 - INFO - Total active investigations found: 0
+2025-11-13 23:13:15,024 - INFO - ============================================================
+2025-11-13 23:13:15,024 - INFO - Scraping completed!
+2025-11-13 23:13:15,025 - INFO - Total items scraped: 0
+2025-11-13 23:13:15,027 - INFO - Duration: 1.36 seconds
+2025-11-14 20:06:42,986 - INFO - Initialized Berger Montague scraper
+2025-11-14 20:06:42,987 - INFO - Date filtering enabled: last 24 hours
+2025-11-14 20:06:42,989 - INFO - Initialized Berger Montague scraper
+2025-11-14 20:06:42,990 - INFO - Starting Berger Montague scraper...
+2025-11-14 20:06:42,991 - INFO - ============================================================
+2025-11-14 20:06:42,992 - INFO - Starting Berger Montague scraper...
+2025-11-14 20:06:42,992 - INFO - ============================================================
+2025-11-14 20:06:43,063 - INFO - First run - including all active investigations
+2025-11-14 20:06:43,065 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-14 20:06:44,018 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-14 20:06:44,020 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-14 20:06:44,021 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-14 20:06:44,123 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-14 20:06:44,125 - INFO - Discovered 0 potential investigation URLs
+2025-11-14 20:06:44,127 - INFO - 
+============================================================
+2025-11-14 20:06:44,128 - INFO - Berger Montague scraping complete!
+2025-11-14 20:06:44,129 - INFO - Total active investigations found: 0
+2025-11-14 20:06:44,130 - INFO - ============================================================
+2025-11-14 20:06:44,132 - INFO - Scraping completed!
+2025-11-14 20:06:44,133 - INFO - Total items scraped: 0
+2025-11-14 20:06:44,135 - INFO - Duration: 1.14 seconds
+2025-11-17 20:45:27,714 - INFO - Initialized Berger Montague scraper
+2025-11-17 20:45:27,715 - INFO - Date filtering enabled: last 24 hours
+2025-11-17 20:45:27,715 - INFO - Initialized Berger Montague scraper
+2025-11-17 20:45:27,716 - INFO - Starting Berger Montague scraper...
+2025-11-17 20:45:27,716 - INFO - ============================================================
+2025-11-17 20:45:27,717 - INFO - Starting Berger Montague scraper...
+2025-11-17 20:45:27,717 - INFO - ============================================================
+2025-11-17 20:45:27,768 - INFO - First run - including all active investigations
+2025-11-17 20:45:27,768 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-17 20:45:28,773 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-17 20:45:28,773 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-17 20:45:28,773 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-17 20:45:28,880 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-17 20:45:28,881 - INFO - Discovered 0 potential investigation URLs
+2025-11-17 20:45:28,882 - INFO - 
+============================================================
+2025-11-17 20:45:28,882 - INFO - Berger Montague scraping complete!
+2025-11-17 20:45:28,883 - INFO - Total active investigations found: 0
+2025-11-17 20:45:28,884 - INFO - ============================================================
+2025-11-17 20:45:28,885 - INFO - Scraping completed!
+2025-11-17 20:45:28,885 - INFO - Total items scraped: 0
+2025-11-17 20:45:28,886 - INFO - Duration: 1.17 seconds
+2025-11-18 20:22:45,115 - INFO - Initialized Berger Montague scraper
+2025-11-18 20:22:45,117 - INFO - Date filtering enabled: last 24 hours
+2025-11-18 20:22:45,117 - INFO - Initialized Berger Montague scraper
+2025-11-18 20:22:45,118 - INFO - Starting Berger Montague scraper...
+2025-11-18 20:22:45,118 - INFO - ============================================================
+2025-11-18 20:22:45,118 - INFO - Starting Berger Montague scraper...
+2025-11-18 20:22:45,118 - INFO - ============================================================
+2025-11-18 20:22:45,143 - INFO - First run - including all active investigations
+2025-11-18 20:22:45,143 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-18 20:22:45,799 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-18 20:22:45,800 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-18 20:22:45,801 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-18 20:22:45,885 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-18 20:22:45,886 - INFO - Discovered 0 potential investigation URLs
+2025-11-18 20:22:45,886 - INFO - 
+============================================================
+2025-11-18 20:22:45,887 - INFO - Berger Montague scraping complete!
+2025-11-18 20:22:45,888 - INFO - Total active investigations found: 0
+2025-11-18 20:22:45,889 - INFO - ============================================================
+2025-11-18 20:22:45,890 - INFO - Scraping completed!
+2025-11-18 20:22:45,890 - INFO - Total items scraped: 0
+2025-11-18 20:22:45,891 - INFO - Duration: 0.77 seconds
+2025-11-27 22:39:24,575 - INFO - Initialized Berger Montague scraper
+2025-11-27 22:39:24,576 - INFO - Date filtering enabled: last 24 hours
+2025-11-27 22:39:24,579 - INFO - Initialized Berger Montague scraper
+2025-11-27 22:39:24,580 - INFO - Starting Berger Montague scraper...
+2025-11-27 22:39:24,580 - INFO - ============================================================
+2025-11-27 22:39:24,580 - INFO - Starting Berger Montague scraper...
+2025-11-27 22:39:24,581 - INFO - ============================================================
+2025-11-27 22:39:24,634 - INFO - First run - including all active investigations
+2025-11-27 22:39:24,635 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-27 22:39:25,676 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-27 22:39:25,678 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-27 22:39:25,679 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-27 22:39:25,984 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-27 22:39:25,985 - INFO - Discovered 0 potential investigation URLs
+2025-11-27 22:39:25,986 - INFO - 
+============================================================
+2025-11-27 22:39:25,987 - INFO - Berger Montague scraping complete!
+2025-11-27 22:39:25,988 - INFO - Total active investigations found: 0
+2025-11-27 22:39:25,989 - INFO - ============================================================
+2025-11-27 22:39:25,989 - INFO - Scraping completed!
+2025-11-27 22:39:25,991 - INFO - Total items scraped: 0
+2025-11-27 22:39:25,991 - INFO - Duration: 1.41 seconds
+2025-11-28 22:35:54,026 - INFO - Initialized Berger Montague scraper
+2025-11-28 22:35:54,028 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:35:54,028 - INFO - Initialized Berger Montague scraper
+2025-11-28 22:35:54,029 - INFO - Starting Berger Montague scraper...
+2025-11-28 22:35:54,030 - INFO - ============================================================
+2025-11-28 22:35:54,030 - INFO - Starting Berger Montague scraper...
+2025-11-28 22:35:54,031 - INFO - ============================================================
+2025-11-28 22:35:54,066 - INFO - First run - including all active investigations
+2025-11-28 22:35:54,066 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 22:35:54,988 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 22:35:54,989 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-28 22:35:54,989 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-28 22:35:55,145 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-28 22:35:55,146 - INFO - Discovered 0 potential investigation URLs
+2025-11-28 22:35:55,146 - INFO - 
+============================================================
+2025-11-28 22:35:55,147 - INFO - Berger Montague scraping complete!
+2025-11-28 22:35:55,147 - INFO - Total active investigations found: 0
+2025-11-28 22:35:55,148 - INFO - ============================================================
+2025-11-28 22:35:55,149 - INFO - Scraping completed!
+2025-11-28 22:35:55,149 - INFO - Total items scraped: 0
+2025-11-28 22:35:55,150 - INFO - Duration: 1.12 seconds
+2025-11-28 22:58:23,654 - INFO - Initialized Berger Montague scraper
+2025-11-28 22:58:23,656 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 22:58:23,657 - INFO - Initialized Berger Montague scraper
+2025-11-28 22:58:23,657 - INFO - Starting Berger Montague scraper...
+2025-11-28 22:58:23,658 - INFO - ============================================================
+2025-11-28 22:58:23,658 - INFO - Starting Berger Montague scraper...
+2025-11-28 22:58:23,658 - INFO - ============================================================
+2025-11-28 22:58:23,695 - INFO - First run - including all active investigations
+2025-11-28 22:58:23,697 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 22:58:24,581 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 22:58:24,582 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-28 22:58:24,582 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-28 22:58:24,890 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-28 22:58:24,892 - INFO - Discovered 0 potential investigation URLs
+2025-11-28 22:58:24,893 - INFO - 
+============================================================
+2025-11-28 22:58:24,894 - INFO - Berger Montague scraping complete!
+2025-11-28 22:58:24,894 - INFO - Total active investigations found: 0
+2025-11-28 22:58:24,895 - INFO - ============================================================
+2025-11-28 22:58:24,896 - INFO - Scraping completed!
+2025-11-28 22:58:24,899 - INFO - Total items scraped: 0
+2025-11-28 22:58:24,901 - INFO - Duration: 1.24 seconds
+2025-11-28 23:35:10,483 - INFO - Initialized Berger Montague scraper
+2025-11-28 23:35:10,484 - INFO - Date filtering enabled: last 24 hours
+2025-11-28 23:35:10,486 - INFO - Initialized Berger Montague scraper
+2025-11-28 23:35:10,487 - INFO - Starting Berger Montague scraper...
+2025-11-28 23:35:10,487 - INFO - ============================================================
+2025-11-28 23:35:10,488 - INFO - Starting Berger Montague scraper...
+2025-11-28 23:35:10,488 - INFO - ============================================================
+2025-11-28 23:35:10,524 - INFO - Filtering for investigations newer than: 2025-11-28T17:33:09.795547+00:00
+2025-11-28 23:35:10,525 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 23:35:11,365 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-28 23:35:11,367 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-28 23:35:11,368 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-28 23:35:11,500 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-28 23:35:11,501 - INFO - Discovered 0 potential investigation URLs
+2025-11-28 23:35:11,502 - INFO - 
+============================================================
+2025-11-28 23:35:11,502 - INFO - Berger Montague scraping complete!
+2025-11-28 23:35:11,503 - INFO - Total active investigations found: 0
+2025-11-28 23:35:11,503 - INFO - ============================================================
+2025-11-28 23:35:11,503 - INFO - Scraping completed!
+2025-11-28 23:35:11,504 - INFO - Total items scraped: 0
+2025-11-28 23:35:11,504 - INFO - Duration: 1.02 seconds
+2025-11-29 00:29:59,067 - INFO - Initialized Berger Montague scraper
+2025-11-29 00:29:59,067 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 00:29:59,070 - INFO - Initialized Berger Montague scraper
+2025-11-29 00:29:59,071 - INFO - Starting Berger Montague scraper...
+2025-11-29 00:29:59,072 - INFO - ============================================================
+2025-11-29 00:29:59,073 - INFO - Starting Berger Montague scraper...
+2025-11-29 00:29:59,074 - INFO - ============================================================
+2025-11-29 00:29:59,192 - INFO - Filtering for investigations newer than: 2025-11-28T18:17:44.070177+00:00
+2025-11-29 00:29:59,195 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-29 00:30:02,289 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-29 00:30:02,290 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-29 00:30:02,291 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-29 00:30:02,412 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-29 00:30:02,413 - INFO - Discovered 0 potential investigation URLs
+2025-11-29 00:30:02,414 - INFO - 
+============================================================
+2025-11-29 00:30:02,415 - INFO - Berger Montague scraping complete!
+2025-11-29 00:30:02,415 - INFO - Total active investigations found: 0
+2025-11-29 00:30:02,416 - INFO - ============================================================
+2025-11-29 00:30:02,417 - INFO - Scraping completed!
+2025-11-29 00:30:02,419 - INFO - Total items scraped: 0
+2025-11-29 00:30:02,422 - INFO - Duration: 3.35 seconds
+2025-11-29 01:05:17,392 - INFO - Initialized Berger Montague scraper
+2025-11-29 01:05:17,393 - INFO - Date filtering enabled: last 24 hours
+2025-11-29 01:05:17,395 - INFO - Initialized Berger Montague scraper
+2025-11-29 01:05:17,395 - INFO - Starting Berger Montague scraper...
+2025-11-29 01:05:17,396 - INFO - ============================================================
+2025-11-29 01:05:17,396 - INFO - Starting Berger Montague scraper...
+2025-11-29 01:05:17,397 - INFO - ============================================================
+2025-11-29 01:05:17,468 - INFO - Filtering for investigations newer than: 2025-11-28T19:04:42.231449+00:00
+2025-11-29 01:05:17,468 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-11-29 01:05:21,389 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-11-29 01:05:21,390 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-11-29 01:05:21,390 - INFO - Fetching: https://investigations.bergermontague.com
+2025-11-29 01:05:21,495 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-11-29 01:05:21,497 - INFO - Discovered 0 potential investigation URLs
+2025-11-29 01:05:21,497 - INFO - 
+============================================================
+2025-11-29 01:05:21,498 - INFO - Berger Montague scraping complete!
+2025-11-29 01:05:21,499 - INFO - Total active investigations found: 0
+2025-11-29 01:05:21,499 - INFO - ============================================================
+2025-11-29 01:05:21,499 - INFO - Scraping completed!
+2025-11-29 01:05:21,500 - INFO - Total items scraped: 0
+2025-11-29 01:05:21,500 - INFO - Duration: 4.10 seconds
+2025-12-02 02:38:57,496 - INFO - Initialized Berger Montague scraper
+2025-12-02 02:38:57,526 - INFO - Date filtering enabled: last 24 hours
+2025-12-02 02:38:57,530 - INFO - Initialized Berger Montague scraper
+2025-12-02 02:38:57,531 - INFO - Starting Berger Montague scraper...
+2025-12-02 02:38:57,545 - INFO - ============================================================
+2025-12-02 02:38:57,546 - INFO - Starting Berger Montague scraper...
+2025-12-02 02:38:57,547 - INFO - ============================================================
+2025-12-02 02:38:58,005 - INFO - Filtering for investigations newer than: 2025-11-28T19:39:27.007270+00:00
+2025-12-02 02:38:58,006 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-02 02:38:59,628 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-02 02:38:59,631 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-02 02:38:59,632 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-02 02:38:59,884 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-02 02:38:59,888 - INFO - Discovered 0 potential investigation URLs
+2025-12-02 02:38:59,889 - INFO - 
+============================================================
+2025-12-02 02:38:59,890 - INFO - Berger Montague scraping complete!
+2025-12-02 02:38:59,892 - INFO - Total active investigations found: 0
+2025-12-02 02:38:59,893 - INFO - ============================================================
+2025-12-02 02:38:59,894 - INFO - Scraping completed!
+2025-12-02 02:38:59,924 - INFO - Total items scraped: 0
+2025-12-02 02:38:59,927 - INFO - Duration: 2.35 seconds
+2025-12-03 19:57:51,930 - INFO - Initialized Berger Montague scraper
+2025-12-03 19:57:51,931 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 19:57:51,931 - INFO - Initialized Berger Montague scraper
+2025-12-03 19:57:51,932 - INFO - Starting Berger Montague scraper...
+2025-12-03 19:57:51,932 - INFO - ============================================================
+2025-12-03 19:57:51,932 - INFO - Starting Berger Montague scraper...
+2025-12-03 19:57:51,933 - INFO - ============================================================
+2025-12-03 19:57:51,965 - INFO - Filtering for investigations newer than: 2025-12-01T21:14:29.998838+00:00
+2025-12-03 19:57:51,966 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 19:57:52,741 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 19:57:52,741 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-03 19:57:52,742 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-03 19:57:52,838 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-03 19:57:52,839 - INFO - Discovered 0 potential investigation URLs
+2025-12-03 19:57:52,839 - INFO - 
+============================================================
+2025-12-03 19:57:52,840 - INFO - Berger Montague scraping complete!
+2025-12-03 19:57:52,840 - INFO - Total active investigations found: 0
+2025-12-03 19:57:52,840 - INFO - ============================================================
+2025-12-03 19:57:52,841 - INFO - Scraping completed!
+2025-12-03 19:57:52,841 - INFO - Total items scraped: 0
+2025-12-03 19:57:52,841 - INFO - Duration: 0.91 seconds
+2025-12-03 21:23:23,789 - INFO - Initialized Berger Montague scraper
+2025-12-03 21:23:23,791 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 21:23:23,791 - INFO - Initialized Berger Montague scraper
+2025-12-03 21:23:23,792 - INFO - Starting Berger Montague scraper...
+2025-12-03 21:23:23,792 - INFO - ============================================================
+2025-12-03 21:23:23,793 - INFO - Starting Berger Montague scraper...
+2025-12-03 21:23:23,793 - INFO - ============================================================
+2025-12-03 21:23:23,842 - INFO - Filtering for investigations newer than: 2025-12-03T14:32:34.492971+00:00
+2025-12-03 21:23:23,842 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 21:23:24,792 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 21:23:24,793 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-03 21:23:24,793 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-03 21:23:25,038 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-03 21:23:25,040 - INFO - Discovered 0 potential investigation URLs
+2025-12-03 21:23:25,040 - INFO - 
+============================================================
+2025-12-03 21:23:25,040 - INFO - Berger Montague scraping complete!
+2025-12-03 21:23:25,041 - INFO - Total active investigations found: 0
+2025-12-03 21:23:25,041 - INFO - ============================================================
+2025-12-03 21:23:25,041 - INFO - Scraping completed!
+2025-12-03 21:23:25,042 - INFO - Total items scraped: 0
+2025-12-03 21:23:25,042 - INFO - Duration: 1.25 seconds
+2025-12-03 22:59:22,244 - INFO - Initialized Berger Montague scraper
+2025-12-03 22:59:22,245 - INFO - Date filtering enabled: last 24 hours
+2025-12-03 22:59:22,245 - INFO - Initialized Berger Montague scraper
+2025-12-03 22:59:22,246 - INFO - Starting Berger Montague scraper...
+2025-12-03 22:59:22,246 - INFO - ============================================================
+2025-12-03 22:59:22,246 - INFO - Starting Berger Montague scraper...
+2025-12-03 22:59:22,246 - INFO - ============================================================
+2025-12-03 22:59:22,280 - INFO - Filtering for investigations newer than: 2025-12-03T14:32:34.492971+00:00
+2025-12-03 22:59:22,281 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 22:59:22,782 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-03 22:59:22,783 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-03 22:59:22,784 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-03 22:59:22,874 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-03 22:59:22,875 - INFO - Discovered 0 potential investigation URLs
+2025-12-03 22:59:22,875 - INFO - 
+============================================================
+2025-12-03 22:59:22,876 - INFO - Berger Montague scraping complete!
+2025-12-03 22:59:22,876 - INFO - Total active investigations found: 0
+2025-12-03 22:59:22,876 - INFO - ============================================================
+2025-12-03 22:59:22,877 - INFO - Scraping completed!
+2025-12-03 22:59:22,877 - INFO - Total items scraped: 0
+2025-12-03 22:59:22,878 - INFO - Duration: 0.63 seconds
+2025-12-04 00:06:13,881 - INFO - Initialized Berger Montague scraper
+2025-12-04 00:06:13,882 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 00:06:13,883 - INFO - Initialized Berger Montague scraper
+2025-12-04 00:06:13,885 - INFO - Starting Berger Montague scraper...
+2025-12-04 00:06:13,886 - INFO - ============================================================
+2025-12-04 00:06:13,887 - INFO - Starting Berger Montague scraper...
+2025-12-04 00:06:13,887 - INFO - ============================================================
+2025-12-04 00:06:14,028 - INFO - Filtering for investigations newer than: 2025-12-03T17:33:48.635413+00:00
+2025-12-04 00:06:14,031 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-04 00:06:15,103 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-04 00:06:15,105 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-04 00:06:15,105 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-04 00:06:15,201 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-04 00:06:15,203 - INFO - Discovered 0 potential investigation URLs
+2025-12-04 00:06:15,203 - INFO - 
+============================================================
+2025-12-04 00:06:15,204 - INFO - Berger Montague scraping complete!
+2025-12-04 00:06:15,205 - INFO - Total active investigations found: 0
+2025-12-04 00:06:15,206 - INFO - ============================================================
+2025-12-04 00:06:15,208 - INFO - Scraping completed!
+2025-12-04 00:06:15,210 - INFO - Total items scraped: 0
+2025-12-04 00:06:15,210 - INFO - Duration: 1.32 seconds
+2025-12-04 20:13:17,954 - INFO - Initialized Berger Montague scraper
+2025-12-04 20:13:17,957 - INFO - Date filtering enabled: last 24 hours
+2025-12-04 20:13:17,958 - INFO - Initialized Berger Montague scraper
+2025-12-04 20:13:17,959 - INFO - Starting Berger Montague scraper...
+2025-12-04 20:13:17,959 - INFO - ============================================================
+2025-12-04 20:13:17,959 - INFO - Starting Berger Montague scraper...
+2025-12-04 20:13:17,960 - INFO - ============================================================
+2025-12-04 20:13:18,003 - INFO - Filtering for investigations newer than: 2025-12-03T18:41:25.163853+00:00
+2025-12-04 20:13:18,003 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-04 20:13:18,738 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-04 20:13:18,739 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-04 20:13:18,740 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-04 20:13:18,836 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-04 20:13:18,838 - INFO - Discovered 0 potential investigation URLs
+2025-12-04 20:13:18,839 - INFO - 
+============================================================
+2025-12-04 20:13:18,840 - INFO - Berger Montague scraping complete!
+2025-12-04 20:13:18,841 - INFO - Total active investigations found: 0
+2025-12-04 20:13:18,842 - INFO - ============================================================
+2025-12-04 20:13:18,854 - INFO - Scraping completed!
+2025-12-04 20:13:18,854 - INFO - Total items scraped: 0
+2025-12-04 20:13:18,855 - INFO - Duration: 0.89 seconds
+2025-12-05 00:23:34,766 - INFO - Initialized Berger Montague scraper
+2025-12-05 00:23:34,766 - INFO - Date filtering enabled: last 24 hours
+2025-12-05 00:23:34,766 - INFO - Initialized Berger Montague scraper
+2025-12-05 00:23:34,766 - INFO - Starting Berger Montague scraper...
+2025-12-05 00:23:34,766 - INFO - ============================================================
+2025-12-05 00:23:34,766 - INFO - Starting Berger Montague scraper...
+2025-12-05 00:23:34,766 - INFO - ============================================================
+2025-12-05 00:23:34,776 - INFO - Filtering for investigations newer than: 2025-12-04T14:48:38.632284+00:00
+2025-12-05 00:23:34,776 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-05 00:23:35,064 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-05 00:23:35,064 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-05 00:23:35,064 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-05 00:23:35,143 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-05 00:23:35,143 - INFO - Discovered 0 potential investigation URLs
+2025-12-05 00:23:35,143 - INFO - 
+============================================================
+2025-12-05 00:23:35,143 - INFO - Berger Montague scraping complete!
+2025-12-05 00:23:35,143 - INFO - Total active investigations found: 0
+2025-12-05 00:23:35,143 - INFO - ============================================================
+2025-12-05 00:23:35,143 - INFO - Scraping completed!
+2025-12-05 00:23:35,144 - INFO - Total items scraped: 0
+2025-12-05 00:23:35,144 - INFO - Duration: 0.38 seconds
+2025-12-13 00:43:46,959 - INFO - Initialized Berger Montague scraper
+2025-12-13 00:43:46,960 - INFO - Date filtering enabled: last 24 hours
+2025-12-13 00:43:46,960 - INFO - Initialized Berger Montague scraper
+2025-12-13 00:43:46,960 - INFO - Starting Berger Montague scraper...
+2025-12-13 00:43:46,960 - INFO - ============================================================
+2025-12-13 00:43:46,961 - INFO - Starting Berger Montague scraper...
+2025-12-13 00:43:46,961 - INFO - ============================================================
+2025-12-13 00:43:46,998 - INFO - Filtering for investigations newer than: 2025-12-04T18:58:13.288231+00:00
+2025-12-13 00:43:46,998 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-13 00:43:47,619 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-13 00:43:47,619 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-13 00:43:47,620 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-13 00:43:47,702 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-13 00:43:47,702 - INFO - Discovered 0 potential investigation URLs
+2025-12-13 00:43:47,703 - INFO - 
+============================================================
+2025-12-13 00:43:47,703 - INFO - Berger Montague scraping complete!
+2025-12-13 00:43:47,704 - INFO - Total active investigations found: 0
+2025-12-13 00:43:47,704 - INFO - ============================================================
+2025-12-13 00:43:47,705 - INFO - Scraping completed!
+2025-12-13 00:43:47,705 - INFO - Total items scraped: 0
+2025-12-13 00:43:47,705 - INFO - Duration: 0.74 seconds
+2025-12-16 01:39:16,064 - INFO - Initialized Berger Montague scraper
+2025-12-16 01:39:16,066 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 01:39:16,067 - INFO - Initialized Berger Montague scraper
+2025-12-16 01:39:16,067 - INFO - Starting Berger Montague scraper...
+2025-12-16 01:39:16,068 - INFO - ============================================================
+2025-12-16 01:39:16,068 - INFO - Starting Berger Montague scraper...
+2025-12-16 01:39:16,069 - INFO - ============================================================
+2025-12-16 01:39:16,115 - INFO - Filtering for investigations newer than: 2025-12-12T19:18:45.132573+00:00
+2025-12-16 01:39:16,116 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-16 01:39:16,760 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-16 01:39:16,761 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-16 01:39:16,762 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-16 01:39:16,967 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-16 01:39:16,968 - INFO - Discovered 0 potential investigation URLs
+2025-12-16 01:39:16,969 - INFO - 
+============================================================
+2025-12-16 01:39:16,970 - INFO - Berger Montague scraping complete!
+2025-12-16 01:39:16,970 - INFO - Total active investigations found: 0
+2025-12-16 01:39:16,971 - INFO - ============================================================
+2025-12-16 01:39:16,971 - INFO - Scraping completed!
+2025-12-16 01:39:16,971 - INFO - Total items scraped: 0
+2025-12-16 01:39:16,972 - INFO - Duration: 0.90 seconds
+2025-12-16 22:09:02,875 - INFO - Initialized Berger Montague scraper
+2025-12-16 22:09:02,910 - INFO - Date filtering enabled: last 24 hours
+2025-12-16 22:09:02,912 - INFO - Initialized Berger Montague scraper
+2025-12-16 22:09:02,913 - INFO - Starting Berger Montague scraper...
+2025-12-16 22:09:02,919 - INFO - ============================================================
+2025-12-16 22:09:02,921 - INFO - Starting Berger Montague scraper...
+2025-12-16 22:09:02,923 - INFO - ============================================================
+2025-12-16 22:09:03,109 - INFO - Filtering for investigations newer than: 2025-12-15T20:14:13.862270+00:00
+2025-12-16 22:09:03,110 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-16 22:09:04,613 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-16 22:09:04,616 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-16 22:09:04,617 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-16 22:09:04,754 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-16 22:09:04,757 - INFO - Discovered 0 potential investigation URLs
+2025-12-16 22:09:04,758 - INFO - 
+============================================================
+2025-12-16 22:09:04,759 - INFO - Berger Montague scraping complete!
+2025-12-16 22:09:04,765 - INFO - Total active investigations found: 0
+2025-12-16 22:09:04,768 - INFO - ============================================================
+2025-12-16 22:09:04,773 - INFO - Scraping completed!
+2025-12-16 22:09:04,774 - INFO - Total items scraped: 0
+2025-12-16 22:09:04,776 - INFO - Duration: 1.85 seconds
+2025-12-17 19:49:59,162 - INFO - Initialized Berger Montague scraper
+2025-12-17 19:49:59,164 - INFO - Date filtering enabled: last 24 hours
+2025-12-17 19:49:59,164 - INFO - Initialized Berger Montague scraper
+2025-12-17 19:49:59,165 - INFO - Starting Berger Montague scraper...
+2025-12-17 19:49:59,165 - INFO - ============================================================
+2025-12-17 19:49:59,165 - INFO - Starting Berger Montague scraper...
+2025-12-17 19:49:59,166 - INFO - ============================================================
+2025-12-17 19:49:59,215 - INFO - Filtering for investigations newer than: 2025-12-16T16:44:23.334466+00:00
+2025-12-17 19:49:59,215 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-17 19:50:00,789 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-17 19:50:00,790 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-17 19:50:00,791 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-17 19:50:01,080 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-17 19:50:01,083 - INFO - Discovered 0 potential investigation URLs
+2025-12-17 19:50:01,083 - INFO - 
+============================================================
+2025-12-17 19:50:01,088 - INFO - Berger Montague scraping complete!
+2025-12-17 19:50:01,112 - INFO - Total active investigations found: 0
+2025-12-17 19:50:01,113 - INFO - ============================================================
+2025-12-17 19:50:01,113 - INFO - Scraping completed!
+2025-12-17 19:50:01,114 - INFO - Total items scraped: 0
+2025-12-17 19:50:01,115 - INFO - Duration: 1.95 seconds
+2025-12-18 21:15:06,092 - INFO - Initialized Berger Montague scraper
+2025-12-18 21:15:06,092 - INFO - Date filtering enabled: last 24 hours
+2025-12-18 21:15:06,092 - INFO - Initialized Berger Montague scraper
+2025-12-18 21:15:06,092 - INFO - Starting Berger Montague scraper...
+2025-12-18 21:15:06,092 - INFO - ============================================================
+2025-12-18 21:15:06,092 - INFO - Starting Berger Montague scraper...
+2025-12-18 21:15:06,092 - INFO - ============================================================
+2025-12-18 21:15:06,103 - INFO - Filtering for investigations newer than: 2025-12-17T14:27:05.771580+00:00
+2025-12-18 21:15:06,103 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-18 21:15:06,431 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-18 21:15:06,431 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-18 21:15:06,431 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-18 21:15:06,523 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-18 21:15:06,523 - INFO - Discovered 0 potential investigation URLs
+2025-12-18 21:15:06,523 - INFO - 
+============================================================
+2025-12-18 21:15:06,523 - INFO - Berger Montague scraping complete!
+2025-12-18 21:15:06,523 - INFO - Total active investigations found: 0
+2025-12-18 21:15:06,523 - INFO - ============================================================
+2025-12-18 21:15:06,523 - INFO - Scraping completed!
+2025-12-18 21:15:06,523 - INFO - Total items scraped: 0
+2025-12-18 21:15:06,523 - INFO - Duration: 0.43 seconds
+2025-12-19 21:11:47,365 - INFO - Initialized Berger Montague scraper
+2025-12-19 21:11:47,365 - INFO - Date filtering enabled: last 24 hours
+2025-12-19 21:11:47,365 - INFO - Initialized Berger Montague scraper
+2025-12-19 21:11:47,365 - INFO - Starting Berger Montague scraper...
+2025-12-19 21:11:47,365 - INFO - ============================================================
+2025-12-19 21:11:47,365 - INFO - Starting Berger Montague scraper...
+2025-12-19 21:11:47,366 - INFO - ============================================================
+2025-12-19 21:11:47,377 - INFO - Filtering for investigations newer than: 2025-12-18T15:50:08.040486+00:00
+2025-12-19 21:11:47,377 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-19 21:11:47,661 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-19 21:11:47,662 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-19 21:11:47,662 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-19 21:11:47,752 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-19 21:11:47,752 - INFO - Discovered 0 potential investigation URLs
+2025-12-19 21:11:47,752 - INFO - 
+============================================================
+2025-12-19 21:11:47,753 - INFO - Berger Montague scraping complete!
+2025-12-19 21:11:47,753 - INFO - Total active investigations found: 0
+2025-12-19 21:11:47,753 - INFO - ============================================================
+2025-12-19 21:11:47,753 - INFO - Scraping completed!
+2025-12-19 21:11:47,753 - INFO - Total items scraped: 0
+2025-12-19 21:11:47,753 - INFO - Duration: 0.39 seconds
+2025-12-22 20:54:22,570 - INFO - Initialized Berger Montague scraper
+2025-12-22 20:54:22,570 - INFO - Date filtering enabled: last 24 hours
+2025-12-22 20:54:22,571 - INFO - Initialized Berger Montague scraper
+2025-12-22 20:54:22,572 - INFO - Starting Berger Montague scraper...
+2025-12-22 20:54:22,572 - INFO - ============================================================
+2025-12-22 20:54:22,573 - INFO - Starting Berger Montague scraper...
+2025-12-22 20:54:22,573 - INFO - ============================================================
+2025-12-22 20:54:22,617 - INFO - Filtering for investigations newer than: 2025-12-19T15:46:57.762804+00:00
+2025-12-22 20:54:22,617 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-22 20:54:23,163 - WARNING - Could not parse sitemap: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/sitemap.xml
+2025-12-22 20:54:23,164 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-22 20:54:23,164 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-22 20:54:23,412 - ERROR - HTTP error for https://investigations.bergermontague.com: 404 Client Error: Not Found for url: https://investigations.bergermontague.com/
+2025-12-22 20:54:23,412 - INFO - Discovered 0 potential investigation URLs
+2025-12-22 20:54:23,413 - INFO - 
+============================================================
+2025-12-22 20:54:23,413 - INFO - Berger Montague scraping complete!
+2025-12-22 20:54:23,413 - INFO - Total active investigations found: 0
+2025-12-22 20:54:23,413 - INFO - ============================================================
+2025-12-22 20:54:23,414 - INFO - Scraping completed!
+2025-12-22 20:54:23,414 - INFO - Total items scraped: 0
+2025-12-22 20:54:23,414 - INFO - Duration: 0.84 seconds
+2025-12-23 20:50:15,201 - INFO - Initialized Berger Montague scraper
+2025-12-23 20:50:15,203 - INFO - Date filtering enabled: last 24 hours
+2025-12-23 20:50:15,204 - INFO - Initialized Berger Montague scraper
+2025-12-23 20:50:15,206 - INFO - Starting Berger Montague scraper...
+2025-12-23 20:50:15,206 - INFO - ============================================================
+2025-12-23 20:50:15,207 - INFO - Starting Berger Montague scraper...
+2025-12-23 20:50:15,208 - INFO - ============================================================
+2025-12-23 20:50:15,362 - INFO - Filtering for investigations newer than: 2025-12-22T15:29:19.865860+00:00
+2025-12-23 20:50:15,363 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-23 20:50:16,490 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-23 20:50:16,491 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-23 20:50:16,492 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-23 20:50:17,541 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-23 20:50:18,542 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-23 20:50:19,596 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-23 20:50:21,599 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-23 20:50:23,076 - WARNING - Request failed (attempt 3/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-23 20:50:27,114 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-23 20:50:28,085 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-23 20:50:28,086 - INFO - Discovered 0 potential investigation URLs
+2025-12-23 20:50:28,087 - INFO - 
+============================================================
+2025-12-23 20:50:28,087 - INFO - Berger Montague scraping complete!
+2025-12-23 20:50:28,088 - INFO - Total active investigations found: 0
+2025-12-23 20:50:28,088 - INFO - ============================================================
+2025-12-23 20:50:28,089 - INFO - Scraping completed!
+2025-12-23 20:50:28,089 - INFO - Total items scraped: 0
+2025-12-23 20:50:28,090 - INFO - Duration: 12.88 seconds
+2025-12-24 19:58:49,797 - INFO - Initialized Berger Montague scraper
+2025-12-24 19:58:49,797 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 19:58:49,797 - INFO - Initialized Berger Montague scraper
+2025-12-24 19:58:49,798 - INFO - Starting Berger Montague scraper...
+2025-12-24 19:58:49,798 - INFO - ============================================================
+2025-12-24 19:58:49,798 - INFO - Starting Berger Montague scraper...
+2025-12-24 19:58:49,798 - INFO - ============================================================
+2025-12-24 19:58:49,841 - INFO - Filtering for investigations newer than: 2025-12-23T15:25:32.941667+00:00
+2025-12-24 19:58:49,841 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-24 19:58:50,174 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 19:58:50,175 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-24 19:58:50,176 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 19:58:50,485 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 19:58:51,486 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 19:58:51,777 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 19:58:53,779 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 19:58:54,073 - WARNING - Request failed (attempt 3/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 19:58:58,075 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 19:58:58,415 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 19:58:58,417 - INFO - Discovered 0 potential investigation URLs
+2025-12-24 19:58:58,417 - INFO - 
+============================================================
+2025-12-24 19:58:58,418 - INFO - Berger Montague scraping complete!
+2025-12-24 19:58:58,418 - INFO - Total active investigations found: 0
+2025-12-24 19:58:58,419 - INFO - ============================================================
+2025-12-24 19:58:58,419 - INFO - Scraping completed!
+2025-12-24 19:58:58,420 - INFO - Total items scraped: 0
+2025-12-24 19:58:58,420 - INFO - Duration: 8.62 seconds
+2025-12-24 20:34:21,057 - INFO - Initialized Berger Montague scraper
+2025-12-24 20:34:21,057 - INFO - Date filtering enabled: last 24 hours
+2025-12-24 20:34:21,058 - INFO - Initialized Berger Montague scraper
+2025-12-24 20:34:21,058 - INFO - Starting Berger Montague scraper...
+2025-12-24 20:34:21,058 - INFO - ============================================================
+2025-12-24 20:34:21,058 - INFO - Starting Berger Montague scraper...
+2025-12-24 20:34:21,058 - INFO - ============================================================
+2025-12-24 20:34:21,122 - INFO - Filtering for investigations newer than: 2025-12-24T14:33:16.970256+00:00
+2025-12-24 20:34:21,122 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-24 20:34:21,479 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 20:34:21,479 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-24 20:34:21,480 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 20:34:21,823 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 20:34:22,825 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 20:34:23,148 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 20:34:25,149 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 20:34:25,460 - WARNING - Request failed (attempt 3/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 20:34:29,461 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-24 20:34:29,786 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-24 20:34:29,786 - INFO - Discovered 0 potential investigation URLs
+2025-12-24 20:34:29,786 - INFO - 
+============================================================
+2025-12-24 20:34:29,787 - INFO - Berger Montague scraping complete!
+2025-12-24 20:34:29,787 - INFO - Total active investigations found: 0
+2025-12-24 20:34:29,787 - INFO - ============================================================
+2025-12-24 20:34:29,788 - INFO - Scraping completed!
+2025-12-24 20:34:29,788 - INFO - Total items scraped: 0
+2025-12-24 20:34:29,789 - INFO - Duration: 8.73 seconds
+2025-12-26 21:22:15,896 - INFO - Initialized Berger Montague scraper
+2025-12-26 21:22:15,898 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 21:22:15,899 - INFO - Initialized Berger Montague scraper
+2025-12-26 21:22:15,900 - INFO - Starting Berger Montague scraper...
+2025-12-26 21:22:15,900 - INFO - ============================================================
+2025-12-26 21:22:15,901 - INFO - Starting Berger Montague scraper...
+2025-12-26 21:22:15,902 - INFO - ============================================================
+2025-12-26 21:22:16,067 - INFO - Filtering for investigations newer than: 2025-12-24T15:08:23.809798+00:00
+2025-12-26 21:22:16,068 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-26 21:22:18,283 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 21:22:18,284 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-26 21:22:18,285 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 21:22:19,391 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 21:22:20,394 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 21:22:21,434 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 21:22:23,436 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 21:22:24,515 - WARNING - Request failed (attempt 3/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 21:22:28,517 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 21:22:29,585 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 21:22:29,586 - INFO - Discovered 0 potential investigation URLs
+2025-12-26 21:22:29,587 - INFO - 
+============================================================
+2025-12-26 21:22:29,587 - INFO - Berger Montague scraping complete!
+2025-12-26 21:22:29,588 - INFO - Total active investigations found: 0
+2025-12-26 21:22:29,589 - INFO - ============================================================
+2025-12-26 21:22:29,590 - INFO - Scraping completed!
+2025-12-26 21:22:29,591 - INFO - Total items scraped: 0
+2025-12-26 21:22:29,592 - INFO - Duration: 13.69 seconds
+2025-12-26 22:39:14,687 - INFO - Initialized Berger Montague scraper
+2025-12-26 22:39:14,688 - INFO - Date filtering enabled: last 24 hours
+2025-12-26 22:39:14,689 - INFO - Initialized Berger Montague scraper
+2025-12-26 22:39:14,690 - INFO - Starting Berger Montague scraper...
+2025-12-26 22:39:14,690 - INFO - ============================================================
+2025-12-26 22:39:14,691 - INFO - Starting Berger Montague scraper...
+2025-12-26 22:39:14,691 - INFO - ============================================================
+2025-12-26 22:39:14,855 - INFO - Filtering for investigations newer than: 2025-12-26T15:57:21.718650+00:00
+2025-12-26 22:39:14,855 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-26 22:39:17,250 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 22:39:17,251 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-26 22:39:17,251 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 22:39:18,280 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 22:39:19,289 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 22:39:20,262 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 22:39:22,264 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 22:39:25,474 - WARNING - Request failed (attempt 3/3): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-12-26 22:39:29,476 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-26 22:39:31,177 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
+2025-12-26 22:39:31,178 - INFO - Discovered 0 potential investigation URLs
+2025-12-26 22:39:31,178 - INFO - 
+============================================================
+2025-12-26 22:39:31,179 - INFO - Berger Montague scraping complete!
+2025-12-26 22:39:31,180 - INFO - Total active investigations found: 0
+2025-12-26 22:39:31,180 - INFO - ============================================================
+2025-12-26 22:39:31,181 - INFO - Scraping completed!
+2025-12-26 22:39:31,182 - INFO - Total items scraped: 0
+2025-12-26 22:39:31,182 - INFO - Duration: 16.49 seconds
+2025-12-30 22:08:30,904 - INFO - Initialized Berger Montague scraper
+2025-12-30 22:08:30,904 - INFO - Date filtering enabled: last 24 hours
+2025-12-30 22:08:30,904 - INFO - Initialized Berger Montague scraper
+2025-12-30 22:08:30,905 - INFO - Starting Berger Montague scraper...
+2025-12-30 22:08:30,905 - INFO - ============================================================
+2025-12-30 22:08:30,905 - INFO - Starting Berger Montague scraper...
+2025-12-30 22:08:30,905 - INFO - ============================================================
+2025-12-30 22:08:30,920 - INFO - Filtering for investigations newer than: 2025-12-26T17:20:07.489756+00:00
+2025-12-30 22:08:30,920 - INFO - Checking sitemap: https://investigations.bergermontague.com/sitemap.xml
+2025-12-30 22:08:31,159 - WARNING - Could not parse sitemap: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+2025-12-30 22:08:31,159 - INFO - Checking homepage: https://investigations.bergermontague.com
+2025-12-30 22:08:31,159 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-30 22:08:31,277 - WARNING - Request failed (attempt 1/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+2025-12-30 22:08:32,277 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-30 22:08:32,346 - WARNING - Request failed (attempt 2/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+2025-12-30 22:08:34,347 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-30 22:08:34,422 - WARNING - Request failed (attempt 3/3): HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+2025-12-30 22:08:38,422 - INFO - Fetching: https://investigations.bergermontague.com
+2025-12-30 22:08:38,524 - ERROR - Failed to fetch https://investigations.bergermontague.com after 3 retries: HTTPSConnectionPool(host='investigations.bergermontague.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+2025-12-30 22:08:38,524 - INFO - Discovered 0 potential investigation URLs
+2025-12-30 22:08:38,524 - INFO - 
+============================================================
+2025-12-30 22:08:38,524 - INFO - Berger Montague scraping complete!
+2025-12-30 22:08:38,524 - INFO - Total active investigations found: 0
+2025-12-30 22:08:38,524 - INFO - ============================================================
+2025-12-30 22:08:38,524 - INFO - Scraping completed!
+2025-12-30 22:08:38,524 - INFO - Total items scraped: 0
+2025-12-30 22:08:38,524 - INFO - Duration: 7.62 seconds
